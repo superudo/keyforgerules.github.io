@@ -1,186 +1,237 @@
-### VERSION 1.3 - MAY, 2019
+### VERSION 1.6 – JULI 2020
 
-* [Introduction](#intro)
-* [Rules](#rules)
-* [Glossary](#glossary)
+* [Einführung](#intro)
+* [Regeln](#rules)
+* [Glossar](#glossary)
 * [Errata](#errata)
 * [FAQ](#faq)
-* [Link to the Rules-PDF](https://images-cdn.fantasyflightgames.com/filer_public/f9/a2/f9a28865-cd96-4f36-97e5-0f8ea75288c0/keyforge_rulebook_v9-compressed.pdf)
-* [Look up deck rating](/awp.html)
+* [Link zum Regel-PDF](https://asmodee-resources.azureedge.net/media/germanyprod/Produkte/Keyforge/Download/KeyForge_Referenzhandbuch_DE_v1-7.pdf)
+* [Deck rating](/awp.html)
 
 <a name='intro'></a>
 
 # Introduction
 
-## WELCOME TO THE CRUCIBLE…
+## WILLKOMMEN IM SCHMELZTIEGEL…
 
-_You are an Archon. Hailed by some as a god, respected by others for
-your wisdom, you were born — or perhaps created — on the Crucible, a
-world in which anything is possible._
+_Du bist ein Archont. Einige verehren dich als Gott, andere bewundern dich
+für deine Weisheit. Geboren – vielleicht auch erschaffen – wurdest du im
+Schmelztiegel, einer Welt, in der das Unmögliche möglich ist._
 
-The Crucible is ancient, but ever renewed. An artificial planet hanging in
-the center of the universe, the Crucible’s many layers remain constantly
-under construction by the enigmatic and mischievous Architects. For raw
-materials, the Architects have harvested countless worlds, blending them
-into a new whole both familiar and alien to the creatures that dwell there.
+Der Schmelztiegel ist uralt und doch ewig jung, ein künstlicher Planet im
+Zentrum des Universums. Unablässig arbeiten die rätselhaften und tückischen
+Architekten an den zahlreichen Ebenen des Schmelztiegels. Um an genügend
+Rohstoffe zu gelangen, haben sie viele Welten geplündert und daraus einen
+neuen Planeten geformt, der seinen Bewohnern gleichermaßen vertraut und
+fremdartig erscheint.
 
-Whether lone specimens or entire cultures, the beings brought to the
-Crucible find themselves in a strange wonderland with no obvious means
-of returning to their former homes. Some thrive, building new societies
-and developing new technologies with the aid of the mysterious psychic
-substance known as Æmber. Some discard the trappings of their old
-lives, adopting the ways and customs of new tribes discovered in this new
-world. Others devolve, bodies and minds twisted beyond all recognition,
-incorporating Æmber into their very bodies.
+Egal ob es sich um einzelne Exemplare oder ganze Spezies handelt, jedes
+Wesen, das in den Schmelztiegel gebracht wird, gelangt in ein bizarres
+Wunderland, aus dem es keinen offensichtlichen Ausweg gibt. Manche
+blühen auf, errichten neue Zivilisationen und entwickeln Technologien, die auf
+einer mysteriösen, übernatürlichen Substanz namens Æmber beruhen. Einige
+lassen ihr altes Leben hinter sich und passen sich den Gepfl ogenheiten und
+Bräuchen der heimischen Völker ihrer neuen Welt an. Andere degenerieren
+körperlich und geistig bis zur Unkenntlichkeit und verschmelzen schließlich ihr
+Fleisch mit dem Æmber.
 
-As an Archon, you have gathered followers in your journeys throughout
-the Crucible, allies who find value in your ageless wisdom and your
-ability to speak to all creatures. With the aid of these allies, you seek
-out Vaults hidden throughout the Crucible by the cryptic Architects.
-Each Vault can only be unlocked by Æmber-forged keys. Once open, a
-Vault’s contents — the power and knowledge of the Architects — can be
-consumed by only a single Archon.
-When two Archons discover a Vault, only one can gain its knowledge.
-Only one can move one step closer to the secret of the Crucible…
+Als Archont hast auf deinen Reisen durch den Schmelztiegel zahlreiche
+Jünger um dich geschart, die deine zeitlose Weisheit und deine Fähigkeit zur
+Kommunikation mit allen Lebewesen bewundern. Mit ihrer Hilfe suchst du
+nach Schatzkammern, geheimen Orten, die von den mysteriösen Architekten
+im ganzen Schmelztiegel versteckt wurden. Für jede Schatzkammer werden
+Schlüssel benötigt, die aus Æmber geschmiedet sind. Einmal geöffnet, kann
+der Inhalt einer Schatzkammer – die Macht und das Wissen der Architekten –
+nur von einem einzigen Archonten absorbiert werden.
 
-### OVERVIEW
+Wird eine Schatzkammer von mehreren Archonten entdeckt, kann nur
+einer von ihnen ihr Wissen in sich aufnehmen und so dem Geheimnis des
+Schmelztiegels einen Schritt näher kommen …
 
-KeyForge is a two-player card game in which each player takes the role
-of an Archon, and leads that Archon’s deck against their opponent.
+### SPIELBESCHREIBUNG
 
-A player’s deck represents a team that is attempting to gain Æmber and
-forge keys. The first player to gather three keys is able to unlock a Vault
-and win the game.
+KeyForge ist ein Kartenspiel für 2 Spieler, die in die Rollen von Archonten
+schlüpfen und sich mit deren Decks ein Duell liefern.
 
-The defining feature of KeyForge is that no two decks are alike. This is
-not a trading card game — you cannot craft a deck. Rather, each deck
-must remain as it is. Every deck in existence is unique!
+Jedes Deck stellt ein Team dar, das sich auf die Suche nach Æmber begibt,
+um Schlüssel daraus zu schmieden. Wer als Erster drei Schlüssel erschaffen
+hat, öffnet die Schatzkammer und gewinnt das Spiel.
 
-## USING THIS DOCUMENT
+Das Besondere an KeyForge ist, dass es keine 2 identischen Decks gibt.
+Es ist kein Sammelkartenspiel – ihr baut eure Decks nicht selbst. Jedes Deck
+ist komplett und unveränderlich. Jedes Deck ist weltweit einmalig!
 
-If you have never played a game of KeyForge before, start by using the
-Quickstart document included in the starter set to learn the basics of
-the game.
+## VERWENDUNG DIESES DOKUMENTS
 
-After playing a game using the Quickstart, players can read the full rules
-in this document and learn more about the KeyForge setting.
+Wenn ihr KeyForge noch nicht gespielt habt, wird empfohlen zuerst
+die Schnellstartregeln aus dem Starter-Set zu verwenden, um damit die
+Grundlagen des Spiels zu lernen.
 
-In addition to rules and setting information, this document includes a
-Glossary of important game concepts and terminology that will be useful
-while interpreting card abilities.
+Nach dem ersten Spiel mit den Schnellstartregeln können die Spieler die
+vollständigen Regeln in diesem Dokument nachlesen und sich über die Welt
+von KeyForge informieren.
+
+Zusätzlich bietet dieses Dokument noch ein Glossar, in dem wichtige
+Spielkonzepte und Spielbegriffe erklärt werden, um Kartenfähigkeiten besser
+interpretieren zu können.
 
 <a name='rules'></a>
 
-# RULES
+# SPIELREGELN
 
 
-## KEY CONCEPTS
+## GRUNDLEGENDE KONZEPTE
 
-This section introduces a number of foundational concepts to keep in
-mind while playing the game.
+In diesem Abschnitt werden die grundlegenden Konzepte des Spiels
+beschrieben, welche die Spieler beim Spielen im Hinterkopf haben sollten.
 
-### THE GOLDEN RULE
+### DIE GOLDENE REGEL
 
-If the text of a card directly contradicts the text of the rules, the text of
-the card takes precedence.
+Falls der Text einer Karte im direkten Widerspruch zu den Regeln steht,
+hat der Text der Karte stets Vorrang.
 
-### OBJECTIVE
+### ZIEL DES SPIELS
 
-During the game, players use their cards to collect Æmber. Players use
-Æmber to forge keys. The game ends immediately when a player forges
-their third key, and that player wins the game.
+Während des Spiels verwenden die Spieler ihre Karten, um Æmber zu
+sammeln. Mit Æmber schmieden die Spieler Schlüssel. Sobald ein Spieler
+seinen 3. Schlüssel geschmiedet hat, endet das Spiel sofort und er
+hat gewonnen.
 
-### READY AND EXHAUSTED
+### SPIELBEREIT UND ERSCHÖPFT
 
-Cards that are in play exist in one of two states.
+Karten im Spiel können 1 von 2 Zuständen haben.
 
-**Ready** cards are oriented upright so that their text may be read from left
-to right. A ready card can be used during a player’s turn, causing it to
-exhaust.
+**Spielbereite** Karten sind aufrecht orientiert, sodass ihr Text von links nach
+rechts lesbar ist. Ein spielbereite Karte kann im Zug eines Spielers verwendet
+werden, wodurch sie erschöpft wird.
 
-**Exhausted** cards are rotated 90 degrees to the side. An exhausted card
-is not able to be used until it is readied by a game step or card ability.
+**Erschöpfte** Karten sind um 90 Grad gedreht und zur Seite orientiert. Eine
+erschöpfte Karte kann nicht verwendet werden, bis sie durch einen Spielschritt
+oder eine Kartenfähigkeit wieder spielbereit gemacht worden ist.
 
-**All creatures and artifacts enter play exhausted.**
+**Alle Kreaturen und Artefakte kommen erschöpft ins Spiel.**
 
-![Ready, Exhasusted](/img/ready-exhausted.jpg)
+![Ready, Exhasusted](img/ready-exhausted.jpg)
 
-### RUNNING OUT OF TOKENS OR STATUS CARDS
-There is no limit to the number of damage tokens, Æmber tokens, or
-status cards that can be in the game area at a given time. If there is a
-shortage of the provided tokens or status cards, other tokens, counters,
-or coins may be used to track the game state.
+### KEINE MARKER ODER STATUSKARTEN MEHR ÜBRIG
 
+Die Anzahl der Schadens- und Æmbermarker und Statuskarten, die gleichzeitig
+im Spielbereich sein können, ist nicht begrenzt. Falls die mitgelieferten
+Marker oder Statuskarten knapp werden sollten, dürfen andere Marker, Zähler 
+oder Münzen verwendet werden, um den aktuellen Spielstatus festzuhalten.
 
+## AUFBAU
+Beim Spielaufbau werden folgende Schritte in der angegebenen
+Reihenfolge durchgeführt:
 
-## GAME SETUP
+1. Legt alle Æmbermarker, Schadensmarker und Statuskarten für beide
+Spieler griffbereit in eine gemeinsame Reserve.
+2. Jeder Spieler legt seine Avatarkarte links oder rechts neben
+seinen Spielbereich.
+3. Jeder Spieler legt 3 Schlüsselmarker (von jeder Farbe einen) mit der
+ungeschmiedeten Seite nach oben neben seine Avatarkarte.
+4. Bestimmt einen Startspieler nach dem Zufallsprinzip. Dieser Spieler ist bei
+Spielbeginn mit seinem Zug zuerst an der Reihe. (Falls die Spieler mit den
+gleichen Decks mehrere Spiele hintereinander spielen, entscheidet ab
+dem 2. Spiel der Spieler, dessen Deck im Spiel zuvor besiegt worden ist,
+wer der Startspieler ist.)
+5. Jeder Spieler mischt sein Deck und bietet es seinem Gegner zum
+erneuten Mischen und/oder Abheben an.
+6. Der Startspieler zieht **7 Karten auf seine Starthand**, während der andere
+Spieler **6 Karten auf seine Starthand** zieht.
+7. Beginnend mit dem Startspieler hat jeder Spieler 1 Mal die Gelegenheit,
+einen **Mulligan** zu nehmen, indem er alle Karten in sein Deck zurückmischt und eine neue Starthand zieht, die aus 1 Karte weniger besteht.
+(Dieser Schritt wird in den Schnellstartregeln übersprungen.)
 
-To set up the game, perform the following steps, in order:
-
-1. Place all damage tokens, Æmber tokens, and status cards in a common supply within easy reach of both players.
-2. Each player places their identity card to the left or right side of their play area.
-3. Each player places three key tokens, one of each color, with the unforged side faceup near their identity card.
-4. Randomly determine who is the first player. That player takes the first turn when the game begins. (If players are playing a series of games between two decks, in each game after the first, the player who used the deck that was defeated in the previous game chooses who is the first player.)
-5. Each player shuffles their deck and offers it to the opponent for additional shuffling and/or a final cut.
-6. The first player draws a **starting hand of seven cards**. The other player draws a **starting hand of six cards**.
-7. Each player, starting with the first player, has one opportunity to **mulligan** their starting hand by shuffling it back into their deck and drawing a new starting hand with one fewer card in it. (This step is skipped in the Quickstart game.) 
-
-The game is now ready to begin.
+Jetzt kann das Spiel beginnen.
 
 ![Suggests play area, mid-game](img/suggested-area.jpg)
 
-## TURN SEQUENCE
+## ZUGÜBERSICHT
+Das Spiel wird über eine Reihe von Zügen gespielt. Die Spieler wechseln sich
+dabei so lange ab, bis 1 Spieler gewonnen hat.
 
-The game is played over a series of turns. Players alternate taking turns until one player wins the game.
+Jeder Zug besteht aus 5 Schritten:
 
-Each turn consists of five steps:
+1. Schlüssel schmieden
+2. Fraktion wählen
+3. Karten der gewählten Fraktion spielen, ablegen oder verwenden
+4. Karten spielbereit machen
+5. Karten ziehen
 
-1. Forge a key.
-2. Choose a house.
-3. Play, discard, and use cards of the chosen house.
-4. Ready cards.
-5. Draw cards.
+Der Spieler, der gerade am Zug ist, wird **aktiver Spieler** genannt.
+Der aktive Spieler ist der einzige Spieler, der Aktionen durchführen
+kann oder Entscheidungen trifft; der Spieler, der nicht am Zug ist,
+trifft keine Entscheidungen.
 
-The player taking a turn is referred to as the **active player**. The active
-player is the only player that can perform actions or make decisions; a
-player does not make any decisions when it is not their turn.
+Jeder Schritt wird in den folgenden Abschnitten genauer erklärt.
 
-Each step is described in the following sections.
+###  SCHRITT 1: SCHLÜSSEL SCHMIEDEN
 
-### STEP 1: FORGE A KEY
+Falls der aktive Spieler in diesem Schritt genug Æmber hat, um einen
+Schlüssel zu schmieden, muss er dies tun. Um einen Schlüssel zu schmieden,
+gibt der aktive Spieler Æmber aus seinem Æmber-Vorrat auf seiner
+Avatarkarte aus und legt es in die gemeinsame Reserve zurück. Dann dreht er
+1 seiner Schlüsselmarker auf seine geschmiedete Seite, um anzuzeigen, dass
+der Schlüssel geschmiedet worden ist.
 
-If the active player has enough Æmber to forge a key during this step,
-they must do so. To forge a key, the active player spends Æmber from
-the Æmber pool on their identity card, returning it to the common
-supply. Then, that player flips any one of their key tokens over to its
-forged side, indicating that the key has been forged.
+* **Die Standardkosten, um einen Schlüssel zu schmieden, sind 6 Æmber.**
+Kartenfähigkeiten können diese Zahl erhöhen oder senken.
+* Pro Zug kann in diesem Schritt maximal 1 Schlüssel geschmiedet werden,
+auch wenn der aktive Spieler genug Æmber hat, um mehrere Schlüssel
+zu schmieden.
+* Einige Karten haben Effekte, die es erlauben, Æmber auf diesen Karten
+beim Schmieden von Schlüsseln auszugeben. Falls der aktive Spieler in
+Schritt 1 genug Æmber in seinem Æmber-Vorrat und auf Karten unter
+seiner Kontrolle mit diesem Effekt hat, um einen Schlüssel zu schmieden,
+muss er dies tun.
 
-* The default cost to forge a key is six Æmber. Some card abilities may increase or decrease this number.
-* No more than one key can be forged during this step each turn, even if the active player has enough Æmber to forge multiple keys.
-* Some cards have effects that allow Æmber on these cards to be spent when forging keys. If there is enough Æmber on cards with this effect you control combined with the Æmber in your Æmber pool to forge a key you must do so during Step 1.
+### SCHRITT 2: FRAKTION WÄHLEN
 
-### STEP 2: CHOOSE A HOUSE
+Jedes KeyForge-Deck ist aus 3 Fraktionen zusammengesetzt, die auf der
+Avatarkarte abgebildet sind. In diesem Schritt wählt der aktive Spieler
+1 dieser 3 Fraktionen auf seiner Avatarkarte und aktiviert sie. Dadurch wird
+die gewählte Fraktion für den Rest des Zuges zur **aktiven Fraktion**. Die aktive
+Fraktion legt fest, welche Karten der aktive Spieler in diesem Zug spielen, von
+seiner Hand ablegen und verwenden kann.
 
-Each _KeyForge_ deck is composed of three different houses, which are
-shown on the identity card. During this step, the active player chooses
-one of the houses on their identity card to activate, making it the **active house** for
-the remainder of the turn. This active house determines which cards the
-active player can play, discard from their hand, and use this turn.
+* Nachdem der aktive Spieler eine Fraktion gewählt hat, hat er die
+Möglichkeit, alle Karten aus seinem Archiv zu nehmen und sie seiner
+Hand hinzuzufügen. (Siehe [„Archiv“](#archiv) im Glossar.)
+* Falls ein Spieler eine Karte kontrolliert, die nicht zu 1 der 3 Fraktionen
+auf seiner Avatarkarte gehört, darf er (falls er möchte) in diesem Schritt
+anstatt 1 der 3 Fraktionen in seinem Deck auch jene Fraktion wählen
+und aktivieren.
+* Ein Spieler kann eine Fraktion nicht wählen und aktivieren, es sei denn, sie
+befindet sich auf seiner Avatarkarte oder er kontrolliert eine Karte, die zu
+dieser Fraktion gehört. Falls ein Karteneffekt einen Spieler dazu anweist,
+eine Fraktion zu wählen, die nicht zu den oben aufgeführten Kategorien
+gehört, wird der Karteneffekt ignoriert (siehe Glossareintrag [„Kann nicht
+vs. muss/darf, Kann nicht vs. ‚Erlauben‘-Effekt“](#kannnicht)).
 
-* After choosing a house, the active player has the option to take all cards in their archives and add them to their hand. (See “Archives” in the Glossary.)
-* If a player controls a card that does not belong to one of the on their identity card, they may (if they desire) choose and activate that house during this step instead of one of the three houses in their deck.
-* A player cannot choose to activate a house unless it is either on their identity card or they control a card that belongs to that house. If a card effect instructs a player that they must activate a house other than one in the aforementioned categories, that card effect is ignored (See Cannot VS Must/May.)
+### SCHRITT 3: KARTEN DER GEWÄHLTEN FRAKTION SPIELEN, ABLEGEN UND VERWENDEN
 
-### STEP 3: PLAY, DISCARD, AND USE CARDS OF THE CHOSEN HOUSE
-The active player may play or discard any number of cards of the active
-house from their hand and may use any number of cards of the active
-house that are in play under their control. Eligible cards may be played,
-used, or discarded in any order.
+Der aktive Spieler darf in diesem Schritt beliebig viele Karten der aktiven
+Fraktion spielen und von der Hand ablegen und er darf beliebig viele Karten
+der aktiven Fraktion verwenden, die er im Spiel kontrolliert. Infrage 
+kommende Karten dürfen in beliebiger Reihenfolge gespielt, verwendet 
+und/oder abgelegt werden.
 
-A card’s house is determined by an icon in the
-upper-left corner. If the active house corresponds
-to a card’s icon, that card is eligible to be played,
-used, or discarded.
+Die Fraktion einer Karte wird durch das Symbol in der
+linken oberen Ecke festgelegt. Falls die aktive Fraktion
+mit dem Symbol der Karte übereinstimmt, kommt
+die Karte infrage, gespielt, verwendet oder abgelegt
+zu werden.
+
+Die Regeln, wie Karten gespielt, abgelegt und
+verwendet werden, werden später beschrieben.
+
+* **Regel für den ersten Zug**: Im ersten Zug des Startspielers kann
+dieser nicht mehr als 1 Karte von seiner Hand spielen oder ablegen.
+Karteneffekte können diese Regel verändern.
+* Der aktive Spieler darf keine Karten spielen, verwenden oder ablegen,
+die nicht von der aktiven Fraktion sind, es sei denn, eine Kartenfähigkeit
+besagt etwas anderes.
 
 ![A Brobnar Card](img/brobnar.jpg)
 
@@ -191,78 +242,90 @@ Rules for playing, discarding, and using cards are described later.
 
 ![Factions](img/factions.jpg)
 
-### STEP 4: READY CARDS
+### SCHRITT 4: KARTEN SPIELBEREIT MACHEN
 
-The active player readies each of their exhausted cards.
+Der aktive Spieler macht alle seine erschöpften Karten spielbereit.
 
-### STEP 5: DRAW CARDS
+### SCHRITT 5: KARTEN ZIEHEN
+Der aktive Spieler zieht in diesem Schritt von seinem Deck bis auf
+6 Handkarten auf. Nachdem ein Spieler diesen Schritt abgeschlossen hat,
+endet sein Zug.
 
-The active player draws cards from the top of their deck until they have
-six cards in their hand. After a player completes this step, their turn ends.
+* Falls der aktive Spieler mehr als 6 Karten auf seiner Hand hat,
+legt er nicht auf 6 Handkarten ab.
+* Falls ein Spieler (in diesem Schritt oder in einem beliebigen anderen)
+Karten ziehen muss und dies nicht kann, weil sein Deck leer ist, mischt der
+Spieler seinen Ablagestapel zu einem neuen Deck und zieht dann weiter
+(die Karten werden eine nach der anderen gezogen).
+* Falls der aktive Spieler genügend Æmber zum Schmieden eines
+Schlüssels in seinem Vorrat hat, sobald der Zug des Spielers endet,
+ruft er „Check!“, damit der Gegner weiß, dass der aktive Spieler zu
+Beginn seines nächsten Zuges einen Schlüssel schmieden kann.
 
-* If the active player has more than six cards in hand, they do not discard down to six.
-* If a player needs to draw cards (during this step or at any other time) and cannot because their deck is empty, that player shuffles their discard pile to reset their deck, and then continues to draw.
-* When a player’s turn ends, if that player has enough Æmber in their pool to afford a key, the player announces “Check!” so that their opponent knows the forging of a key at the start of that player’s next turn is imminent.
+## KARTEN SPIELEN
 
-## PLAYING CARDS
-
-The active player is permitted to play any number of cards that belong to
-the active house during step three of their turn.
+Dem aktiven Spieler ist es in Schritt 3 seines Zuges erlaubt, eine beliebige
+Anzahl Karten zu spielen, die zur aktiven Fraktion gehören.
 
 #### ÆMBER BONUS
-Many cards in the game have an Æmber bonus below the house icon.
-When a card with an Æmber bonus is played, the first thing the active
-player does is gain that much Æmber. Each time a player gains Æmber
-(for any reason), the Æmber is placed in that player’s Æmber pool (on
-their identity card).
+Viele Karten im Spiel haben einen Æmber-Bonus oben links unter dem
+Fraktionssymbol. Sobald eine Karte mit einem Æmber-Bonus gespielt wird,
+erhält der aktive Spieler als Allererstes die entsprechende Menge an Æmber.
+Immer wenn ein Spieler Æmber erhält (egal warum), legt er es in seinen
+Æmber-Vorrat (auf seine Avatarkarte).
 
 ![Æmber Bonus](img/amber-bonus.jpg)
 
-#### PLAY ABILITIES
+#### „SPIELEN“-FÄHIGKEITEN
 
-Some cards have a bold **“Play:”** ability. Such abilities resolve after the
-card’s Æmber bonus is collected, if it has any, and immediately after the
-card enters play.
+Manche Karten haben eine fett gedruckte **„Spielen:“**-Fähigkeit. Diese wird
+abgehandelt, nachdem man den Æmber-Bonus der Karte (falls vorhanden)
+erhalten hat, unmittelbar nachdem die Karte ins Spiel gekommen ist.
 
-### CARD TYPES
+### KARTENARTEN
 
-There are four types of cards in the game: action cards, artifacts,
-creatures, and upgrades. There are different rules describing how each
-card type is played.
+Es gibt 4 Arten von Karten im Spiel: Aktionskarten, Artefakte, Kreaturen
+und Aufwertungen. Die Regeln für das Spielen einer Karte hängen von ihrer
+Art ab.
 
-#### ACTION CARDS
+#### AKTIONSKARTEN
 
-When an action card is played, the active
-player resolves the card’s **“Play:”** ability
-and, after resolving as much of the ability
-as possible, places the card in their
-discard pile.
+Sobald eine Aktionskarte gespielt wird,
+handelt der aktive Spieler die **„Spielen:“**-
+Fähigkeit der Karte ab und legt sie, nachdem
+er von der Fähigkeit so viel wie möglich
+abgehandelt hat, auf seinen Ablagestapel.
 
 ![Action card](img/action-card.jpg)
 
-### ARTIFACTS
+### ARTEFAKTE
 
-Artifacts enter play exhausted and are
-placed in a row in front of the player but
-behind that player’s battleline, which is
-explained on the next page. Artifacts
-remain in play from turn to turn.
+Artefakte kommen erschöpft ins Spiel
+und werden in eine Reihe hinter die
+Schlachtreihe des Spielers gelegt, was auf
+der nächsten Seite genauer erklärt wird.
+Artefakte bleiben für die kommenden Züge
+im Spiel.
 
 ![Artifact](img/artifact-card.jpg)
 
-#### CREATURES
+<a name="kreaturen"></a>
 
-Creatures enter play exhausted and are placed in the front row of
-the active player’s play area. This row is referred to as the battleline.
-Creatures remain in play from turn to turn, and they each have
-power and armor values that they use to resolve fights, which are
-described later.
+#### KREATUREN
+
+Kreaturen kommen erschöpft ins Spiel und werden in die vorderste Reihe
+(die sogenannte Schlachtreihe) in den Spielbereich des aktiven Spielers
+gelegt. Kreaturen bleiben für die kommenden Züge im Spiel. Sie haben einen
+Stärke- und einen Rüstungswert. Beide Werte werden verwendet um Kämpfe
+abzuhandeln, die später erklärt werden.
 
 ![Artifact](img/creature.jpg)
 
-Each time a creature enters play, it must be placed on a flank — at the
-far left or the far right of its controller’s battleline. Each time a creature
-leaves play, shift the battleline inward to close the gap.
+Immer wenn eine Kreatur ins Spiel kommt, muss sie an eine Flanke gelegt
+werden – also an das linke oder rechte Ende der Schlachtreihe ihres
+kontrollierenden Spielers. Immer wenn eine Kreatur das Spiel verlässt, wird
+die Lücke in der Schlachtreihe geschlossen, indem die Karten nach innen
+geschoben werden.
 
 ![Battleline](img/battleline.jpg)
 
@@ -270,96 +333,117 @@ leaves play, shift the battleline inward to close the gap.
 
 ![If a creature leaves play, the battleline is shifted inward](img/shift-battleline.jpg)
 
-#### UPGRADES
+#### AUFWERTUNGEN
+Aufwertungen kommen an eine Kreatur angelegt ins Spiel (d. h. sie werden
+leicht überlappend unter eine Kreatur geschoben), die der Spieler, der die
+Aufwertung kontrolliert, gewählt hat. Aufwertung bleiben für die kommenden
+Züge im Spiel und modifizieren die Karten, an die sie angelegt sind.
 
-Upgrades enter play attached to (i.e., partially overlapped by) a creature
-chosen by the player who controls the upgrade. Each upgrade remains in
-play from turn to turn and modifies the card to which it is attached.
-
-* If the card to which an upgrade is attached leaves play, the upgrade is discarded.
-* If an upgrade cannot attach to a card in play, the upgrade cannot enter play.
+* Falls eine Karte mit einer angelegten Aufwertung das Spiel verlässt, wird
+die Aufwertung abgelegt.
+* Falls eine Aufwertung nicht an eine Karte im Spiel angelegt werden kann,
+kann die Aufwertung nicht ins Spiel kommen.
 
 ![The Protect the Weak upgrade is attached to the creature, Quixo the “Adventurer.”](img/upgrades.jpg)
 
-### DISCARDING CARDS
+### KARTEN ABLEGEN
 
-The active player can discard from their hand any number of cards from
-the active house during step three of their turn. Cards are discarded one
-at a time, at any point throughout this step. This lets players remove
-cards that they do not want to play from their hand, freeing up space to
-draw more cards at the end of the turn.
+Der aktive Spieler kann in Schritt 3 seines Zuges beliebig viele Karten
+der aktiven Fraktion von seiner Hand ablegen. Karten werden zu einem
+beliebigen Zeitpunkt in diesem Schritt eine nach der anderen abgelegt.
+Auf diese Weise wird der Spieler unerwünschte Karten los und schafft
+Platz für neue Karten, die er am Ende des Zuges nachziehen kann.
 
-### USING CARDS
+<a name="kartenverwenden"></a>
 
-The active player can use any number of cards from the active house that
-they have in play during step three of their turn. Depending on a card’s
-type, the active player is able to do different things when using that card.
+### KARTEN VERWENDEN
 
-#### UPGRADES
+Der aktive Spieler kann in Schritt 3 seines Zuges beliebig viele Karten der
+aktiven Fraktion, die er im Spiel hat, verwenden. Abhängig von der Kartenart
+hat der aktive Spieler verschiedene Möglichkeiten, wie er eine Karte
+verwenden kann.
 
-An upgrade modifies the creature it is attached to and is not used
-independently of that creature.
+#### AUFWERTUNGEN
 
-#### USING ARTIFACTS
+Eine Aufwertung modifiziert die Kreatur, an die sie angelegt ist, und kann
+nicht unabhängig von dieser Kreatur verwendet werden.
 
-There are two types of abilities that enable a player to use an artifact:
-**“Action:”** abilities and **“Omni:”** abilities.
+#### ARTEFAKTE VERWENDEN
+Es gibt 2 Arten von Fähigkeiten, die ein Spieler auf einem Artefakt verwenden
+kann: **„Aktion:“**- und **„Universell:“**-Fähigkeiten.
 
-* When a player uses an artifact, they exhaust the card and then resolve its abilities.
-* A player can only use an **“Action:”** ability if it is on a card that belongs to the active house.
-* A player can resolve an **“Omni:”** ability even if it is on a card that does **not** belong to the active house.
-* Some artifacts require that they be sacrificed as part of the cost of using them. When an artifact is sacrificed, it is placed in its owner’s discard pile. A player must still exhaust such an artifact when using it.
-* Artifacts cannot be used to reap or to fight.
+* Sobald ein Spieler ein Artefakt verwendet, erschöpft er die Karte und
+handelt dann seine Fähigkeit ab.
+* Ein Spieler kann nur dann eine **„Aktion:“**-Fähigkeit verwenden,
+falls sie sich auf einer Karte befindet, die zur aktiven Fraktion gehört.
+* Ein Spieler kann eine **„Universell:”**-Fähigkeit auch dann abhandeln,
+falls sie sich auf einer Karte befindet, die **nicht** zur aktiven Fraktion gehört.
+* Manche Artefakte verlangen, dass sie als Teil der Kosten, um sie zu
+verwenden, geopfert werden müssen. Sobald ein Artefakt geopfert wird,
+wird es auf den Ablagestapel seines Besitzers gelegt. Der Spieler muss
+ein solches Artefakt noch immer erschöpfen, sobald er es verwendet.
+* Artefakte können nicht zum Ernten oder zum Kampf verwendet werden.
 
-#### USING CREATURES
+#### KREATUREN VERWENDEN
 
-When a player uses a creature, that player must exhaust the creature,
-and the player has the option to reap, fight, or to trigger the creature’s
-**“Action:”** ability, or trigger the creature's **“Omni:”** ability. Any card effect that causes a creature to fight, reap, trigger its **“Action:”** ability, or to trigger its **“Omni:”** ability is causing that creature to be used.
+Sobald ein Spieler eine Kreatur verwendet, muss er die Kreatur erschöpfen.
+Der Spieler hat nun die Möglichkeit mit der Kreatur zu ernten, zu kämpfen,
+ihre **„Aktion:“**-Fähigkeit auszulösen oder ihre **„Universell:“**-Fähigkeit
+auszulösen. Jeder Karteneffekt, der eine Kreatur dazu bringt, zu kämpfen,
+zu ernten, ihre **„Aktion:“**-Fähigkeit auszulösen oder ihre **„Universell:“**-
+Fähigkeit auszulösen, bewirkt, dass diese Kreatur verwendet wird.
 
-##### REAP
+##### ERNTE
 
-**Any ready creature of the active house may reap.** When a
-creature is used to reap, the creature exhausts and its controller gains 1 Æmber for their Æmber
-pool. Then, all **“Reap:”** abilities the creature has, if it has any, resolve.
+**Jede spielbereite Kreatur der aktiven Fraktion darf ernten.**
+Sobald eine Kreatur zum Ernten verwendet wird, wird sie erschöpft
+und der Spieler, der sie kontrolliert, erhält 1 Æmber in seinen ÆmberVorrat. Dann werden gegebenenfalls alle **„Ernte:“**-Fähigkeiten der
+Kreatur abgehandelt.
 
-##### FIGHT
+<a name="kampf"></a>
 
-**Any ready creature of the active house may fight.** When a creature
-is used to fight, the creature exhausts and its controller chooses one eligible creature controlled
-by the opponent as the target of the attack. Each of the two creatures
-deals an amount of damage equal to its power (the value to the left
-of the card’s title) to the other creature. All of this damage is dealt
-simultaneously. After the fight resolves, if the creature that is being
-used to fight survives, all **“Fight:”** abilities the creature has, if it has
-any, resolve.
+##### KAMPF
 
-A creature cannot fight if there is no enemy creature that can be
-chosen as the target of the attack.
+**Jede spielbereite Kreatur der aktiven Fraktion darf kämpfen.** Sobald
+eine Kreatur zum Kämpfen verwendet wird, wird sie erschöpft und der
+Spieler, der sie kontrolliert, wählt 1 infrage kommende Kreatur unter der
+Kontrolle des Gegners als Ziel des Angriffs. Jede kämpfende Kreatur
+fügt der anderen Schaden in Höhe ihrer Stärke (dem Wert links neben
+dem Kartentitel) zu. All jener Schaden wird gleichzeitig zugefügt. Nach
+dem Abhandeln des Kampfes werden gegebenenfalls alle **„Kampf:“**-
+Fähigkeiten der Kreatur abgehandelt, die zum Kämpfen verwendet
+worden ist, falls sie den Kampf überlebt hat.
 
-##### ACTION
+Eine Kreatur kann nicht kämpfen, falls es keine feindliche Kreatur gibt,
+die als Ziel des Angriffs gewählt werden könnte.
 
-**Any ready creature of the active house may trigger its “Action:” ability, if it has one.**
-When a creature is used to trigger its **“Action:”**
-ability, the creature exhausts and all **“Action:”** abilities the creature
-has resolve.
+##### AKTION
 
-##### OMNI
+**Jede spielbereite Kreatur der aktiven Fraktion darf ihre „Aktion:“-
+Fähigkeit auslösen, sofern sie eine besitzt.** Sobald eine Kreatur
+verwendet wird, um ihre **„Aktion:“**-Fähigkeit auszulösen, wird die Kreatur
+erschöpft und die **„Aktion:“**-Fähigkeit abgehandelt.
 
-**Any ready creature may trigger its “Omni:” ability, if it has one,** even if it does **not** belong to the active house. When a creature is used to trigger its **“Omni:”** ability, the creature exhausts and all **“Omni:”** abilities the creature has resolve.
+##### UNIVERSELL
 
-#### DAMAGE AND ARMOR
+**Jede spielbereite Kreatur mit einer „Universell:“-Fähigkeit kann diese
+auslösen**, auch wenn sie **nicht** zur aktiven Fraktion gehört. Sobald eine
+Kreatur verwendet wird, um ihre **„Universell:“**-Fähigkeit auszulösen, wird
+die Kreatur erschöpft und die **„Universell:“**-Fähigkeit abgehandelt.
 
-When a creature is dealt damage, place an amount of damage tokens
-equal to the amount of damage dealt on the creature. If a creature has as
-much or more damage on it as it has power, the creature is destroyed and
-placed on top of its owner’s discard pile. If a creature has an armor value
-(to the right of the card’s title), the armor prevents that much incoming
-damage each turn. (For more details, see “Armor” in the Glossary.)
+#### SCHADEN UND RÜSTUNG
 
-* When a creature leaves play, any Æmber on that creature is gained by the opponent. (See “Capture” in the Glossary.)
+Sobald einer Kreatur Schaden zugefügt wird, legt man entsprechend viele
+Schadensmarker auf die Kreatur. Hat eine Kreatur mindestens so viele
+Schadensmarker wie Stärke, wird sie zerstört und oben auf den Ablagestapel
+ihres Besitzers gelegt. Hat eine Kreatur einen Rüstungswert (rechts neben
+dem Kartentitel), verhindert die Rüstung in jedem Zug entsprechend viel
+eingehenden Schaden. (Mehr dazu unter „Rüstung“ im Glossar.)
 
-#### COMBAT EXAMPLE
+* Sobald eine Kreatur das Spiel verlässt, erhält der Gegner sämtliches
+Æmber, das auf der Kreatur liegt. (Siehe [„Erbeuten“](#erbeuten) im Glossar.)
+
+#### KAMPF BEISPIEL
 
 ![Combat example 1](img/combat-1.jpg)
 
@@ -367,1045 +451,1595 @@ damage each turn. (For more details, see “Armor” in the Glossary.)
 
 ![Combat example 3](img/combat-3.jpg)
 
-### CARD ABILITIES
+### KARTENFÄHIGKEITEN
 
-Unless otherwise specified by the ability, the active player makes all decisions while resolving an ability.
+Sofern die Fähigkeit nichts anderes angibt, trifft der aktive Spieler alle
+Entscheidungen, die mit dem Abhandeln einer Fähigkeit einher gehen.
 
-For details on specific terminology that can be found in card ability text, see the Glossary.
+Mehr zu den speziellen Begriffen, die in den Texten der Kartenfähigkeiten
+vorkommen, findet man im Glossar.
 
-#### RESOLVE AS MUCH AS YOU CAN
+#### SO VIEL WIE MÖGLICH ABHANDELN
 
-While resolving a card ability, resolve as much of the ability as can be resolved, and ignore any parts of the ability that cannot be resolved.
+Beim Abhandeln einer Kartenfähigkeit wird so viel wie möglich von ihr
+abgehandelt und die Teile der Fähigkeit, die nicht abgehandelt werden
+können, werden ignoriert.
 
-**Example**: _Aaron plays the card Anger (COTA 001), that reads "**Play**: Ready and fight with a friendly creature.", and chooses his friendly Snufflegator (COTA 358) to resolve the ability on. However, the Snufflegator is already ready, so Aaron ignores that part of the ability and just uses his friendly Snufflegator to fight._
+_**Beipiel**: Aaron spielt die Karte Zorn (RdA 001) mit dem Text: „**Spielen:**
+Mache eine befreundete Kreatur spielbereit und lasse sie kämpfen.“ und
+wählt seinen befreundeten Schnüffelgator (RdA 358), um die Fähigkeit
+abzuhandeln. Allerdings ist der Schnüffelgator bereits spielbereit, sodass
+Aaron diesen Teil der Fähigkeit ignoriert und einfach seinen befreundeten
+Schnüffelgator zum Kämpfen verwendet._
 
-#### USING CARDS VIA OTHER CARD ABILITIES
+#### FÄHIGKEITEN IN DER REIHENFOLGE ABHANDELN, IN DER SIE IM TEXT AUFTAUCHEN
 
-If a card ability allows a player to play or use another card (or to fight or
-to reap with a card), the chosen card may belong to any house unless the
-ability specifically states otherwise.
+Beim Abhandeln eines Kartenfähigkeitstexts werden die Anweisungen
+stets in der Reihenfolge abgehandelt, in der sie im Text auftauchen.
+Ersatzeffekte können dies modifizieren, auch wenn sie erst später im Text der
+abgehandelten Fähigkeit auftauchen.
 
-* When using a card via a card ability, any other requirements of using the card (such as exhausting to reap, fight, or resolve its **“Action:”** ability) must be observed, or the card cannot be used.
-* Players can only use cards they control, unless a card ability specifically states otherwise.
+_**Beispiel**: Der Text von Hyde (KW 167) lautet: „**Ernte:** Ziehe 1 Karte.
+Falls du Velum kontrollierst, ziehe stattdessen 2 Karten.“ Der zweite Satz
+ist ein Ersatzeffekt, der sich auf den ersten Satz auswirkt und dessen
+Abhandlung modifiziert._
 
-#### THE RULE OF SIX
+_**Ausnahme**: Jeglicher Schaden, der durch eine Kartenfähigkeit zugefügt wird,
+wird gleichzeitig zugefügt, egal wo er innerhalb des Fähigkeitstexts auftaucht._
 
-Occasionally, a situation may emerge in which, through a combination
-of abilities, the same card may be played or used repeatedly during the
-same turn. A player cannot play and/or use the same card and/or other
-copies of that card (by title) more than **six times** during a given turn.
+_**Beispiel**: Der Text von Lanze der Macht (RdA 221) lautet: „Spielen: Füge
+einer Kreatur 3 Schaden zu und füge einem Nachbarn jener Kreatur 3 Schaden zu.“
+Dieser Schaden wird beiden Kreaturen gleichzeitig zugefügt, obwohl er
+nacheinander im Text der Fähigkeit auftaucht._
 
-#### CONSTANT ABILITIES
+#### KARTEN ÜBER ANDERE KARTENFÄHIGKEITEN VERWENDEN
+Falls eine Kartenfähigkeit das Spielen oder Verwenden einer anderen Karte
+(oder das Kämpfen oder Ernten mit einer Karte) erlaubt, darf die gewählte
+Karte zu einer beliebigen Fraktion gehören, es sei denn, die Fähigkeit besagt
+ausdrücklich etwas anderes.
 
-If a card has an ability that does not have a boldfaced precursor, the
-ability is a constant ability that is active so long as the card remains in
-play and meets all conditions specified by the ability.
+* Sobald eine Karte über eine Kartenfähigkeit verwendet wird, müssen
+alle anderen Bedingungen für das Verwenden der Karte (z. B. das
+Erschöpfen zum Ernten, Kämpfen oder Abhandeln ihrer **„Aktion:“**-
+Fähigkeit) trotzdem eingehalten werden. Andernfalls kann die Karte nicht
+verwendet werden.
+* Man kann nur Karten verwenden, die man selbst kontrolliert, es sei denn,
+eine Kartenfähigkeit besagt ausdrücklich etwas anderes.
 
-* Constant abilities on a card are active even while that card is exhausted.
-* Applying the effects of a constant ability is not considered using a card and therefore does not cause the card to exhaust.
+<a name="sechserregel"></a>
+
+#### DIE SECHSER-REGEL
+
+Hin und wieder kommt es zu Situationen, in denen eine Karte in einem Zug
+durch eine Kombination von Fähigkeiten wiederholt gespielt oder verwendet
+werden kann. Ein Spieler kann dieselbe Karte und/oder andere Kopien dieser
+Karte (nach Titel) nicht mehr als *6 Mal* pro Zug spielen und/
+oder verwenden.
+
+#### KONSTANTE FÄHIGKEITEN
+
+Kartenfähigkeiten, die nicht durch ein fett
+gedrucktes Stichwort eingeleitet werden, sind
+konstante Fähigkeiten, die so lange aktiv bleiben,
+wie die Karte im Spiel ist und alle Bedingungen
+erfüllt, die bei der Fähigkeit angegeben sind.
+
+*Konstante Fähigkeit bleiben auch im
+erschöpftem Zustand einer Karte aktiv.
+* Das Anwenden der Effekte einer konstanten
+Fähigkeit gilt nicht als Verwenden der Karte
+und führt daher nicht dazu, dass die Karte
+erschöpft wird.
 
 ![The game text on Mother is an example of a constant ability](img/constant-ability.jpg)
 
-### CHAINS
+### KETTEN
 
-Chains represent supernatural bindings that are occasionally placed
-onto specific Archons by the Architects: sometimes in an effort to better
-challenge the Archon to grow and overcome greater adversity, and
-other times to penalize the Archon for breaking a rule or a piece of
-Crucible etiquette.
+Ketten repräsentieren übernatürliche Fesseln, welche die Architekten
+manchen Archonten auferlegen, sei es, um ihre persönliche Entwicklung
+zu fördern oder um einen Verstoß gegen die Regeln oder Etikette des
+Schmelztiegels zu bestrafen.
 
-A player may gain chains through card abilities during a game. When
-a player gains chains, that player increases their chain tracker by the
-number of chains gained.
+Im Laufe des Spiels können Kartenfähigkeiten bewirken, dass ein Spieler
+Ketten erhält. Sobald ein Spieler Ketten erhält, erhöht er seinen Kettenanzeiger um die Anzahl der erhaltenen Ketten.
 
 ![Chains](img/chains.jpg)
 
-Each time (including during setup) a player with one or more chains would
-draw one or more cards to refill their hand, that player draws fewer cards
-(based on their current chain level, see below) and then sheds one chain
-by reducing their chain tracker by one.
+Immer wenn (auch während des Spielaufbaus) ein Spieler mit 1 oder mehreren
+Ketten zum Auffüllen seiner Hand 1 oder mehrere Karten nachziehen würde,
+zieht er, abhängig von seiner aktuellen Kettenstufe, auf weniger Handkarten auf
+und sprengt dann 1 Kette, indem er seinen Kettenanzeiger um 1 reduziert.
 
-The more chains a player has, the greater the card penalty becomes.
+Je mehr Ketten ein Spieler hat, desto höher fällt die Strafe aus.
 
-* Chains 1–6: draw 1 fewer card.
-* Chains 7–12: draw 2 fewer cards.
-* Chains 13–18: draw 3 fewer cards.
-* Chains 19–24: draw 4 fewer cards.
+* **1–6 Ketten**: Der Spieler zieht auf 1 Karte weniger auf.
+* **7–12 Ketten**: Der Spieler zieht auf 2 Karten weniger auf.
+* **13–18 Ketten**: Der Spieler zieht auf 3 Karten weniger auf.
+* **19–24 Ketten**: Der Spieler zieht auf 4 Karten weniger auf.
 
-**Example:** Tori has been assigned seven chains. During setup, Tori will
-draw two fewer cards and shed a chain. Then, the next six times Tori
-refills her hand, she will draw up to five cards and shed another chain.
-After all of her chains have been shed, Tori will draw to the standard
-hand size.
+_**Beispiel**: Vicki wurden 7 Ketten zugewiesen. Während des Spielaufbaus zieht
+Vicki 2 Karten weniger und sprengt 1 Kette. Die nächsten 6 Male zieht Vicki
+beim Auffüllen ihrer Hand auf 5 Karten auf und sprengt jeweils eine weitere
+Kette. Nachdem sie alle Ketten gesprengt hat, zieht Vicki wieder auf die
+normale Handkartenzahl auf._
 
 
-#### CHAIN HANDICAPS (OPTIONAL)
+#### KETTEN-HANDICAP (OPTIONAL)
 
-When playing a game between a weaker deck and a stronger
-deck, players may use chains as a means to handicap the stronger
-deck. Chains are used when players want a fair game between two
-known decks rather than a potentially unfair competition between decks
-that aren’t known. When playing with new decks, or competing in a
-tournament, players will not use this handicap.
+Wenn zwei unterschiedlich starke Decks gegeneinander antreten, kann für
+das stärkere Deck ein Handicap in Form von Ketten festgesetzt werden. Diese
+Methode eignet sich eher dafür, um ein faires Spiel zwischen zwei bekannten
+Decks zu ermöglichen, und weniger, um ein potenziell unfaires Spiel zwischen
+zwei unbekannten Decks zu verhindern. Bei neuen Decks und auf Turnieren
+kommt dieses Handicap nicht zum Einsatz.
 
-##### SUGGESTIONS FOR ASSIGNING CHAINS
+##### EMPFEHLUNGEN FÜR DAS ZUWEISEN VON KETTEN
 
-When the players have a sense that a particular deck is stronger than
-the opposing deck, start it with four chains. From then on, every time
-the chained deck wins three games in a row against that opposing
-deck, adjust the number of chains up by one, and if it loses three
-games in a row, adjust the number of chains down by one.
+Wenn ihr das Gefühl habt, ein bestimmtes Deck ist stärker als das andere,
+könnt ihr es mit 4 Ketten beginnen lassen. Immer wenn es ab jetzt drei
+Mal hintereinander gegen das andere Deck gewinnt, erhöht ihr die Anzahl
+seiner Ketten um 1. Verliert es drei Mal hintereinander, könnt ihr es mit 1
+Kette weniger starten lassen.
 
-As a player plays more games with their collection, the number of
-chains assigned to a deck will fluctuate up and down based on the
-matchup and how well the deck has performed against the opposing
-deck.
+Je öfter ihr das Deck gegen andere Decks aus eurer Sammlung antreten
+lasst, desto genauer wird sich die Anzahl der Ketten einpendeln und je
+nach Paarung (abhängig von seiner Effektivität gegen bestimmte Decks)
+schwanken.
 
-##### CHAIN BIDDING
+##### DECKS MIT KETTEN ERSTEIGERN
 
-If players are reasonably familiar with two decks they can ignore the
-suggested number of chains, and instead bid a number of chains for
-the right to use a particular deck.
+Wenn ihr euch gut mit euren Decks auskennt, könnt ihr die empfohlene
+Anzahl der Ketten auch ignorieren und stattdessen das Recht versteigern,
+um mit einem bestimmten Deck spielen zu dürfen. Gebote werden
+hierbei in Ketten abgegeben.
 
-**Example:** Terry and Julie decide to play Mother Mahospot against
-Chancellor Fisher. Mother Mahospot is a deck that both players are
-very familiar with, feel is quite strong, and enjoy playing. Chancellor
-Fisher is a newer deck, that the players are not as comfortable
-playing. The above guidelines suggest they begin with four chains
-on Mother Mahospot. Julie looks at Fisher, considers a moment, and
-says, “I’ll play Mother Mahospot at five.” Terry raises to six. Julie
-goes to seven. Terry decides to let her play it at seven, and plays
-Chancellor Fisher.
+_**Beispiel**: Teresa und Julia wollen mit den Decks „Mutter Mahospot“
+und „Kanzler Fischer“ spielen. „Mutter Mahospot“ ist ein Deck, das
+beide Spielerinnen gut kennen, für relativ stark halten und gerne spielen.
+„Kanzler Fischer“ ist ein neueres Deck, an das sich die Spielerinnen erst
+noch gewöhnen müssen. Die oben genannten Richtlinien empfehlen,
+„Mutter Mahospot“ mit 4 Ketten starten zu lassen. Julia wirft einen
+Blick auf „Kanzler Fischer“, überlegt kurz und sagt: „Ich spiele ‚Mutter
+Mahospot‘ mit 5 Ketten.“ Teresa erhöht auf 6 Ketten. Julia bietet 7.
+Teresa beschließt, ihr das Deck für 7 Ketten zu überlassen, und spielt
+„Kanzler Fischer“._
 
-### WHAT’S NEXT
+### WIE GEHT’S WEITER?
 
-You are now familiar with the basic rules of the game. The next section
-of this book contains a Glossary of advanced concepts that can be
-referenced while playing or interpreting card abilities.
+Jetzt kennt ihr alle wichtigen Grundregeln. Der nächste Abschnitt dieses
+Dokuments enthält ein Glossar, das sich mit den Feinheiten des Spiels
+beschäftigt. Dort könnt ihr nachschlagen, wenn während des Spiels oder beim
+Interpretieren von Kartenfähigkeiten Fragen aufkommen.
 
 <a name='glossary'></a>
 
-# GLOSSARY
+# GLOSSAR
 
-This Glossary includes a number of concepts and terms players may
-encounter while playing the game, in alphabetical order. Instead of
-reading this section from beginning to end, players are encouraged to
-only look up new concepts as they are encountered during play.
+Das folgende Glossar ist eine alphabetische Auflistung diverser Konzepte und
+Begriffe, denen man im Laufe des Spiels begegnen kann. Wir empfehlen, es
+nicht von Anfang bis Ende durchzulesen, sondern gezielt nachzuschlagen,
+wenn beim Spielen etwas unklar ist.
 
-### ABILITY, CARD ABILITY
+#### „+1-STÄRKE“-KARTE, STÄRKE-STATUSKARTE, STÄRKEMARKER
 
-An ability is the special game text a card contributes to the game.
+Sobald einer Kreatur eine „+1 Stärke“-Karte gegeben wird, legt man
+1 entsprechende Stärke-Statuskarte auf die Kreatur. Für jede dieser Karten
+steigt die Stärke der Kreatur um 1.
 
-Unless an ability explicitly references an out-of-play area (such as a hand,
-deck, archives, or discard pile), that ability can only interact with cards
-that are in play.
+Eine „+1 Stärke“-Karte oder Stärke-Statuskarte ist wie ein Stärkemarker zu
+behandeln und umgekehrt.
 
-### ACTION ABILITY
+#### ABLAGESTAPEL
 
-To use an **“Action:”** ability during their turn, the active player must
-exhaust the card. The ability then resolves.
+Sobald eine Karte zerstört oder abgelegt wird, legt man sie auf den
+Ablagestapel ihres Besitzers. Der Inhalt der Ablagestapel ist für beide Spieler
+eine offene Information und kann jederzeit eingesehen werden.
 
-### ACTIVE HOUSE
+Die Reihenfolge der Karten in den Ablagestapeln bleibt im Laufe des Spiels
+erhalten, es sei denn, eine Kartenfähigkeit verändert sie.
 
-The active house is the house that the active player has chosen for the
-current turn.
+Sobald einem Spieler die Karten in seinem Deck ausgehen, mischt er seinen
+Ablagestapel und bildet daraus ein neues Deck.
 
-### ACTIVE PLAYER
+#### ÆMBER
 
-The active player is the player taking the current turn. The active player
-makes all necessary decisions for all card abilities or timing conflicts that
-need to resolve during their turn.
+Æmber wird durch Æmbermarker dargestellt und zum
+Schmieden von Schlüsseln benötigt.
 
-### ADJACENT
+Nur Æmber im eigenen Æmber-Vorrat wird für Karteneffekte
+als „deines“ betrachtet.
 
-When a creature card refers to a game element as being “adjacent” to
-that creature or being played “adjacent” to that creature, it is referring to
-a card being in or being played into the position to the immediate right
-or immediate left of that creature.
-See also “Neighboring”
-
-### ALPHA
-
-When a card has the Alpha keyword, it can only be played if you haven’t
-played, used, or discarded any other cards during step 3 of your turn. 
-
-### ÆMBER
-
-Æmber is tracked by Æmber tokens, and is used to
-forge keys.
-
-Only Æmber in your own Æmber pool is considered “yours” for the purpose of card effects.
-
-See also: Capture, Keys, Reap, Steal.
+**Siehe auch**: [Erbeuten](#erbeuten), [Ernten](#ernten), [Schlüssel](#schluessel), [Stehlen](#stehlen)
 
 ![Æmber token](img/amber.jpg)
 
-### ARCHIVES
+#### ÆMBER-BONUSSYMBOL A (NEU)
 
-A player’s archives is a facedown game area in front of that player’s
-identity card. Card abilities are the only means by which a player is
-permitted to add cards to their archives. During step 2 of a player’s turn,
-after they select an active house, the active player is permitted to pick up
-all cards in their archives and add those cards to their hand.
+Siehe [„Bonussymbole“](#bonussymbole).
 
-Cards in a player’s archives are considered out of play.
+#### AKTIONSFÄHIGKEIT
 
-A player may look at their archives at any time. A player is not permitted
-to look at an opponent’s archives.
+Um eine **„Aktion:“**-Fähigkeit zu verwenden, muss der aktive Spieler in seinem
+Zug die Karte erschöpfen. Dann wird die Fähigkeit abgehandelt.
 
-If the ability instructing a player to archive a card does not specify where
-the card is archived from, the archived card comes from that player’s hand.
+#### AKTIVE FRAKTION
 
-### ARMOR
+Die aktive Fraktion ist die Fraktion, die der aktive Spieler für den aktuellen
+Zug gewählt hat.
 
-Some creatures have an armor value to the right of the card title. Armor
-prevents an amount of damage equal to the armor value that the creature
-would take each turn. Armor prevents damage before it is actually dealt.
-For example, if a creature has two armor and is dealt
-one damage, that damage is instead prevented by the armor, leaving the creature
-with one armor that can prevent damage left for the rest of the turn. If the
-creature is later dealt three more damage during that turn, one damage is
-prevented and the other two damage are dealt to that creature.
+#### AKTIVER SPIELER
 
-If a creature gains armor, the gains are additive and accumulate on top of
-the creature’s printed armor value.
+Der aktive Spieler ist der Spieler, der gerade am Zug ist. Er trifft alle
+notwendigen Entscheidungen bezüglich der Kartenfähigkeiten und TimingKonfl ikte, die während seines Zuges abgehandelt werden müssen.
 
-If a creature gains armor during a turn, the gained armor does not
-prevent damage already dealt that turn. If a creature loses armor during
-a turn, it is not retroactively dealt damage that was already prevented by
-the armor.
+#### ALPHA
 
-If a creature loses any amount of armor, it loses armor that has been
-used to prevent damage this turn before it loses armor that has not been used to prevent damage this turn.
+Hat eine Karte das Schlüsselwort Alpha, kann sie nur gespielt werden, falls im
+aktuellen Schritt deines Zugs noch keine andere Karte gespielt, verwendet
+oder abgelegt worden ist.
 
-If a creature has a “~” symbol in its armor field, the creature has no
-armor. Such creatures may gain armor through card effects.
+#### ALS OB SIE DEINE WÄRE / ALS OB DU SIE KONTROLLIEREN WÜRDEST
 
-### ASSAULT (X)
+Falls ein Karteneffekt dich anweist, eine Karte zu verwenden, „als ob sie deine
+wäre“ oder „als ob du sie kontrollieren würdest“, führt dies dazu, dass du die
+Karte verwendest, auch wenn du sie nicht kontrollierst. Du erhältst bei diesem
+Prozess nicht die Kontrolle über die Karte, handelst sie aber ab, als ob du die
+Karte kontrollieren würdest.
 
-When a creature with the assault (X) keyword attacks, it deals damage
-equal to its assault value (i.e., “X”) to the creature it is fighting before the
-fight resolves. (The active player chooses whether this occurs before or
-after other “Before Fight” effects and keywords.) If this damage destroys
-the other creature, the rest of the fight does not occur.
+Sobald du eine Karte verwendest, „als ob sie deine wäre / als ob du sie
+kontrollieren würdest“, die dich dazu anweist, als Teil des Effekts die Karte zu
+opfern, wird die Karte geopfert, als würdest du sie kontrollieren.
 
-If a creature with the assault (X) keyword gains another instance of the
-assault (X) keyword, the two X values are added together.
+#### ANDAUERNDE EFFEKTE
 
-### ATTACK, ATTACKER, ATTACKING
+Manche Kartenfähigkeiten erzeugen Effekte oder Zustände, die das Spiel für
+eine bestimmte Zeitdauer beeinfl usst (z. B. „bis zum Beginn deines nächsten
+Zuges“ oder „für den Rest des Zuges“). Diese Effekte werden andauernde
+Effekte genannt.
 
-See “Fight” on page 10.
+Andauernde Effekte werden wie konstante Fähigkeiten behandelt, die für die
+Zeitdauer aktiv sind, die der Effekt angibt. Ein andauernder Effekt bleibt auch
+bestehen, falls die Karte, die den Effekt erzeugt hat, das Spiel verlässt.
 
-### BATTLELINE
+Falls ein andauernder Effekt Karten im Spiel beeinfl usst, gilt das für alle
+Karten im Spiel während der bestimmten Zeitdauer, unabhängig davon, ob
+sie im Spiel waren, als der andauernde Effekt begonnen hat.
 
-The battleline is the ordered line of creatures a player controls in play.
-See “Creatures” on page 6.
+#### ANDERE MARKER
 
-### BEFORE
+Manche Karten beziehen sich auf Marker, für die es im Spiel kein offizielles
+Spielmaterial gibt. Diese Marker können durch beliebige andere verfügbare
+Gegenstände (z. B. Münzen, Papierschnipsel oder auch Poker-Chips)
+repräsentiert werden. Diese Marker haben an sich keinen Spieleffekt, aber die
+Karten, durch die sie erschaffen werden, beschreiben auch die Funktionsweise
+der Marker.
 
-If the word “before” is used in an ability (for example, **“Before Reap:”** or
-**“Before Fight:”**), that ability resolves before resolving the game effect of
-the reap or fight (but after the card exhausts, if exhausting is required to
-use the card).
 
-### CANNOT VS MUST/MAY, CANNOT VS PERMISSIVE
+##### LISTE DER MARKERARTEN
 
-If two card efects are simultaneously instructing a player that they
-“cannot” do something and that they “must” or “may” do the same
-thing, the “cannot” effect takes precedence.
+* Gesucht-Marker
+* Intrigenmarker
+* Luntenmarker
+* Ruhmesmarker
+* Störmarker
+* Verderbensmarker
+* Wachstumsmarker
 
-**Example**: _Anna controls a Pitlord (COTA 093) which reads “While
-Pitlord is in play you must choose Dis as your active house.” On their 
-next turn Anna’s opponent plays Restringuntus (COTA 094) which reads
-"**Play**: Choose a house. Your opponent cannot choose that house as
-their active house until Restringuntus leaves play.” and chooses Dis
-for its ability. On Anna’s next turn, she both must and cannot choose
-Dis, but because cannot takes precedence over must, she only cannot
-choose Dis and must choose one of her other houses instead._
+#### ANGRIFF, ANGREIFER, ANGREIFEN
 
-If two card effects are simultaneously instructing a player that they
-cannot do something and that they may do something, the “cannot”
-effect takes precedence.
+Siehe [„Kampf”](#kampf).
 
-### CAPTURE
+#### ANOMALIE
 
-Captured Æmber is taken from an opponent’s Æmber pool and placed
-on a creature controlled by the capturing player. Players may not spend
-captured Æmber.
+Dieses Symbol bedeutet, dass eine Karte eine Anomalie ist.
+Eine Anomalie ist eine extrem seltene Kartenvariante, die eine
+Vorschau auf ein mögliches zukünftiges KeyForge-Set darstellt.
+Eine Anomalie kann in jeder Fraktion vorkommen. Sie gilt in
+allen Belangen als Karte dieser Fraktion.
 
-When a creature with Æmber on it leaves play, the Æmber is placed in
-the opponent’s Æmber pool.
+#### ANSTURM (X)
 
-Unless otherwise specified, Æmber is placed on the creature that
-captured it.
+Sobald eine Kreatur mit dem Schlüsselwort Ansturm (X) angreift, fügt sie der
+bekämpften Kreatur X Schaden zu, bevor der Kampf abgehandelt wird. (Der
+aktive Spieler entscheidet, ob dies vor oder nach anderen „Vor dem Kampf“-
+Effekten und Schlüsselwörtern geschieht.) Falls dieser Schaden die andere
+Kreatur zerstört, findet der Rest des Kampfes nicht statt.
 
-### CHAIN, CHAINS
+Falls eine Kreatur mit dem Schlüsselwort Ansturm (X) eine weiteres Mal des
+Schlüsselwortes Ansturm (X) erhält, werden die beiden X-Werte addiert.
 
-Some card abilities cause a player to gain one or more chains. If a player
-gains chains, that player increases their chain tracker by the number of
-chains gained.
+<a name="archiv"></a>
 
-If a player has at least one chain when refilling their hand _and would draw cards based on the number of remaining cards in their hand_, they
-draw fewer cards according to the chart below. Then, they shed one
-chain by reducing the number on their chain tracker by one.
+#### ARCHIV
 
-* Chains 1-6: draw one fewer card.
-* Chains 7-12: draw two fewer cards.
-* Chains 13-18: draw three fewer cards.
-* Chains 19-24: draw four fewer cards.
+Das Archiv eines Spielers ist ein verdeckter Spielbereich vor seiner
+Avatarkarte. Kartenfähigkeiten sind die einzige Möglichkeit, die es dem
+Spieler erlauben, Karten ins Archiv zu legen. Nachdem ein Spieler in Schritt 2
+seines Zuges seine aktive Fraktion gewählt hat, darf er alle Karten aus seinem
+Archiv nehmen und seiner Hand hinzufügen.
 
-While drawing an initial hand of cards during setup, if a deck has chains
-assigned to it, the chains also apply to the initial hand of cards drawn as
-if you were refilling a hand during step 5. A chain is shed for this initial
-draw as per the standard rules.
+Karten, die im Archiv eines Spielers liegen, sind nicht im Spiel.
+Das eigene Archiv darf jederzeit angesehen werden. Ein Spieler darf sich das
+Archiv des Gegners nicht ansehen.
 
-See ”Chains” on page 8.
+Falls eine Fähigkeit einen Spieler anweist, eine Karte zu archivieren,
+ohne anzugeben, woher die archivierte Karte stammt, kommt die archivierte
+Karte von der Hand des Spielers.
 
-### CONTROL
+#### „AUF DIESE WEISE“
 
-A player owns the cards that begin the game in their deck. When a card
-is played, it enters play under the control of the active player.
+Bezieht sich eine Fähigkeit auf einen Effekt, der „auf diese Weise“ geschehen
+ist, ist damit ein Effekt gemeint, der im Zuge derselben Abhandlung dieser
+Fähigkeit eingetreten ist.
 
-A player can take control of an opponent’s card. When this happens,
-that card is placed in the new controller’s play area. If it is a creature, it is
-placed on a flank of the new controller’s battleline. If multiple effects that
-take control of a card are used on the same card, the most recent effect
-takes precedence.
+#### BEFREUNDET
 
-If a player takes control of a card that belongs to a house not in the new
-controller’s deck, they can make that house the active house during step
-2 of their turn.
+Bezieht sich eine Kartenfähigkeit auf ein „befreundetes“ Spielelement, ist
+damit ein Element gemeint, das sich aktuell unter der Kontrolle desselben
+Spielers befindent.
 
-If a card that has changed control leaves play for any reason, it moves to
-its owner’s appropriate out-of-play zone.
+#### BENACHBART
 
-### COST, AT CURRENT COST
+Bezieht sich eine Kreaturenkarte auf ein Spielelement, das sich „benachbart“
+zu jener Kreatur befindent oder „benachbart“ zu jener Kreatur gespielt wird,
+bezieht sie sich auf eine Karte, die sich in der Position direkt links oder rechts
+neben jener Kreatur befindet oder die in die Position direkt links oder rechts
+neben jener Kreatur gespielt wird.
 
-The base cost to forge a key is six Æmber. This cost may be modified by
-card abilities. The modified cost is referred to as the current cost.
+**Siehe auch**: [Nachbar](#nachbar)
 
-### DAMAGE
+#### BESCHÜTZEN, BESCHÜTZT
 
-Damage a creature has taken is tracked by placing damage tokens on
-the creature. If a creature has an amount of damage on it equal to or
-greater than its power, the creature is destroyed. Damage on a creature
-does not reduce its power. If multiple creatures are damaged by a single
-effect, that damage is dealt simultaneously.
+Sobald eine Kreatur beschützt wird, legt man einen Beschützt-Marker auf sie.
+Sobald eine Kreatur mit einem Beschützt-Marker auf sich beschädigt werden
+würde, zerstört werden würde oder das Spiel verlassen würde, werden
+stattdessen alle Beschützt-Marker von ihr abgelegt. (**Hinweis**: Dies verhindert,
+dass die Kreatur zum Zerstören markiert wird.)
 
-For more details on damage and combat, see page 7.
+Solange eine Kreatur einen Beschützt-Marker auf sich hat, kann sie nicht
+erneut beschützt werden.
 
-### DEPLOY
+Falls ein Beschützt-Marker auf eine Kreatur gelegt wird, nachdem sie bereits
+zum Zerstören markiert wurde, wird der Beschützt-Marker nicht verhindern,
+dass die Kreatur das Spiel verlässt. Er wird jedoch verhindern, dass die
+Kreatur auf andere Weise das Spiel verlässt, z. B. dass sie auf die Hand
+zurückgeschickt wird.
 
-A creature with the deploy keyword does not need to be played on
-the flank of its controller’s battleline. Instead, when it is played it can
-be placed anywhere in its controller’s battleline, including between two
-other creatures.
+#### BETÄUBEN, BETÄUBT-STATUSKARTE, BETÄUBT-MARKER
 
-### DESTROYED
+Sobald eine Kreatur betäubt wird, legt man eine Betäubt-Statuskarte auf
+sie. Solange eine Kreatur betäubt ist, kann sie weder kämpfen, ernten noch
+**„Aktion:“**- oder **„Universell:“**-Fähigkeiten verwenden.
 
-When a card is destroyed, it is placed in its owner’s discard pile. If
-multiple cards are destroyed simultaneously they are put into the discard
-pile(s) simultaneously and any non-”**Destroyed**:” abilities cannot trigger.
-(The active player determins what order the destroyed cards are put into the discard pile(s).)
+Immer wenn eine betäubte Kreatur normalerweise verwendet werden könnte,
+kann sie stattdessen verwendet werden, indem sie erschöpft wird, um ihre
+Betäubt-Statuskarte zu entfernen.
 
-If a card has a **“Destroyed:”** ability, the effect automatically resolves
-immediately before the card would be destroyed, which is also before it
-leaves play.
+Falls ein Karteneffekt dazu führen würde, dass eine betäubte Kreatur kämpft,
+erntet oder eine **„Aktion:“**- oder **„Universell:“**-Fähigkeiten verwendet, wird
+diese Kreatur stattdessen erschöpft und die Betäubt-Statuskarte von ihr
+entfernt. Dies gilt als „Verwenden“ der Kreatur.
 
-### DISCARD PILE
+Konstante Fähigkeiten und Fähigkeiten, die nicht voraussetzen, dass die
+Kreatur kämpft, erntet oder verwendet wird, bleiben aktiv.
+Wird eine betäubte Kreatur angegriffen, fügt sie während des Kampfes der
+angreifenden Kreatur trotzdem Schaden zu.
 
-When a card is destroyed or discarded, it is placed on top of its owner’s
-discard pile. The cards in each player’s discard pile are open information,
-and may be referenced at any time.
+Solange eine Kreatur betäubt ist, kann sie keine weitere Betäubt-Statuskarte
+erhalten. Falls ein Effekt versucht, eine betäubte Kreatur zu betäuben,
+betäubt dieser Effekt die bereits betäubte Kreatur nicht.
 
-The order of cards in a player’s discard pile is maintained during play,
-unless a card ability causes this order to change.
+Eine Betäubt-Statuskarte ist wie ein Betäubt-Marker zu behandeln
+und umgekehrt.
 
-When a player runs out of cards in their deck and are required to draw,
-they shuffle their discard pile to create a new deck.
+#### BEZAHLEN
 
-### ELUSIVE
+Falls ein Spieler seinem Gegner Æmber bezahlen muss, wird das Æmber
+aus dem Vorrat des bezahlenden Spielers entfernt und dem Vorrat des
+Gegners hinzugefügt.
 
-The first time a creature with the elusive keyword is attacked each turn, it
-is dealt no damage and deals no damage to the attacker in the fight.
+<a name="bonussymbole"></a>
 
-Elusive only stops damage that would be dealt by each creature’s power;
-damage dealt by keywords or other abilities still applies.
+####  BONUSSYMBOLE
 
-### END OF TURN
+Viele Karten haben oben links, unter ihrem Fraktionssymbol, ein oder mehrere
+Bonussymbole. Nachdem eine Karte mit einem Bonussymbol gespielt
+worden ist, handelt der aktive Spieler als Allererstes jedes Bonussymbol
+auf der Karte ab. Das Abhandeln der Symbole passiert, nachdem die Karte
+ins Spiel gekommen ist (falls es sich um ein Artefakt, eine Kreatur oder
+eine Aufwertung handelt), aber vor dem Abhandeln jedweder „Spielen:“-
+Fähigkeiten auf der Karte oder Fähigkeiten, die ausgelöst werden,
+„nachdem“ die Karte gespielt worden ist.
 
-End of turn effects are resolved when a player’s turn is over—after step 5,
-the “Draw Cards” step.
+Bonussymbole müssen in der aufgedruckten Reihenfolge, von oben nach
+unten, abgehandelt werden. Das Abhandeln jedes Bonussymbols ist Pflicht.
 
-### ENEMY
+Es gibt vier Arten von Bonussymbolen:
 
-If a card ability refers to an “enemy” game element, it refers to an
-element currently controlled by the opponent.
+**Æmber** (A): Du erhältst 1 Æmber.
 
-### FIGHT
+**Erbeuten** (PT): Eine befreundete Kreatur erbeutet 1 Æmber vom Gegner.
+Dieses Æmber darf von einer beliebigen befreundeten Kreatur erbeutet
+werden, auch von der Kreatur mit dem Erbeuten-Symbol. Hat eine Karte
+mehrere Erbeuten-Symbole, so darf das erbeutete Æmber auf mehrere
+Kreaturen aufgeteilt werden.
 
-When a player uses a creature to fight, the player exhausts the creature
-and chooses an opponent’s creature. Both creatures deal an amount of
-damage equal to their power value to the opposing creature in the fight,
-and both are “fighting” for the purposes of card effects.
+**Schaden** (D): Füge einer Kreatur im Spiel 1 Schaden zu. Dieser Schaden
+darf der Kreatur mit dem Schadenssymbol zugefügt werden. Beachte, dass
+dieser Schaden einer befreundeten Kreatur zugefügt werden muss, falls
+keine feindlichen Kreaturen im Spiel sind. Hat eine Kreatur mehrere 
+SchadenSymbole, so wird jedes Schadenssymbol, eines nach dem anderen, separat
+abgehandelt und der Schaden darf auf mehrere Kreaturen aufgeteilt werden.
+Schaden, der durch ein Bonussymbol zugefügt wird, gilt nicht als von der
+Karte zugefügt, auf der das Symbol auftaucht.
 
-A creature used to fight is said to be “attacking” and can be referred to
-as “the attacker” during that fight.
+**Ziehen** (R): Ziehe 1 Karte.
 
-If the attacker is not destroyed, all **“Fight:”** abilities on the attacking
-creature then resolve. If either creature in a fight has a constant ability
-referencing the end of the fight (example: “after an enemy creature is
-destroyed fighting this creature…”), the creature must survive the fight to
-resolve the ability. Only the attacker can trigger **“Fight:”** abilities.
+#### DÜRFEN
 
-### “FIGHT WITH”
+Verwendet eine Fähigkeit eine Form von „dürfen“, ist der Text nach dem
+„dürfen“ optional. Falls man sich für das Abhandeln einer „Dürfen“-Fähigkeit
+entscheidet, muss man sie so weit wie möglich abhandeln.
 
-If an ability instructs a player to “fight with” or “ready and fight with”
-a creature, the ability is granting the player permission to use the
-designated creature to fight. The fight is resolved following the standard
-rules for fighting, against a creature controlled by the opponent.
+#### EBBE UND FLUT
 
-### FLANK
+Ebbe und Flut ist eine Spielmechanik aus einer möglichen zukünftigen
+Erweiterung. Zu Beginn einer Partie herrscht weder Ebbe noch Flut.
+Zukünftige Kartenfähigkeiten können dies ändern. Derzeit gibt es aber noch
+keine Fähigkeit, die eine solche Fähigkeit hat.
 
-The creatures on the far right and far left of a player’s battleline are on
-the flanks of the line. A creature in this position is referred to as a flank
-creature. Any time a creature enters play or changes control, the active
-player chooses which flank of its controller’s battleine it is placed on.
+#### ENDE DES ZUGES
 
-If a battleline only has one creature in it, that creature is on both the left and right flank and is considered a _flank_ creature.
+„Ende des Zuges“-Effekte werden abgehandelt, sobald der Zug eines
+Spielers vorbei ist - also nach Schritt 5 „Karten ziehen“.
 
-### FORGE
+<a name="erbeuten"></a>
 
-For details on forging keys, see page 4.
+#### ERBEUTEN
 
-### FRIENDLY
+Erbeutetes Æmber wird aus dem Æmber-Vorrat des Gegners genommen
+und auf eine Kreatur unter der Kontrolle des Spielers gelegt, der es erbeutet
+hat. Erbeutetes Æmber darf nicht ausgegeben werden.
 
-If a card ability refers to a “friendly” game element, it refers to an
-element currently under the control of the same player.
+Sobald eine Kreatur, die Æmber auf sich hat, das Spiel verlässt,
+wird das Æmber in den Æmber-Vorrat des Gegners gelegt.
 
-### HAZARDOUS (X)
+Sofern nichts anderes angegeben ist, wird erbeutetes Æmber auf
+die Kreatur gelegt, die es erbeutet hat.
 
-When a creature with the hazardous X keyword is attacked, it deals X
-damage to the attacking creature before the fight resolves. (The active
-player chooses whether this occurs before or after other “Before Fight”
-effects and keywords.) If this damage destroys the other creature, the 
-rest of the fight does not occur.
+#### ERBEUTEN-BONUSSYMBOL
 
-If a creature with the hazardous (X) keyword gains another instance of the
-hazardous (X) keyword, the two X values are added together.
+Siehe [„Bonussymbole“](#bonussymbole).
 
-### HEAL
+#### ERHEBEN
 
-If an ability “heals” a creature, remove the specified amount of damage
-from the creature.
+Sobald ein Effekt anweist, eine Kreatur zu „erheben“, wird 1 Æmber aus der
+allgemeinen Reserve auf die Kreatur gelegt.
 
-If an ability “fully heals” a creature, remove all damage from the creature.
+**Hinweis**: Sobald eine Kreatur, die Æmber auf sich hat, das Spiel verlässt, wird
+das Æmber in den Æmber-Vorrat des Gegners gelegt.
 
-Any creature can be chosen to be healed by a card effect that heals,
-even if it does not have any damage on it. However, if no damage is
-removed from the creature, it is not considered to have been “healed”
-for the purpose of card effects that reference healing.
+<a name="ernten"></a>
 
-### HOUSE CHOICE
+#### ERNTEN
 
-Each turn, a player must choose one of the three houses indicated by
-their identity card, if able. Some card abilities may restrict a player’s
-house choice.
+Sobald ein Spieler eine Kreatur zum Ernten verwendet, erschöpft er die
+Kreatur und erhält 1 Æmber in seinen Æmber-Vorrat. Dann werden alle
+**„Ernte:“**-Fähigkeiten der Kreatur abgehandelt.
 
-If a player has gained control of a card that does not belong to one of
-their three houses, that card’s house becomes an eligible choice for that
-player while the player retains control of the card.
+#### ERSATZEFFEKTE
 
-If there is no legal choice of house, the player plays the turn with no
-active house.
+Manche Fähigkeiten ersetzen vollständig die Abhandlung eines anderen
+Effekts oder Spielschritts. Diese Fähigkeiten werden „Ersatzeffekte“ genannt
+und können daran erkannt werden, dass sie die Begriffe „stattdessen“ oder
+„(an)statt“ verwenden. Ein Ersatzeffekt gibt an, welchen Teil eines Effekts
+oder Spielschritts er ersetzt. Sobald dieser Effekt (oder Teil eines Effekts) oder
+Spielschritt stattfinden würde, findet er nicht statt und der Ersatzeffekt tritt an
+seine Stelle.
 
-If a player is faced with two (or more) “must choose” mandates, the
-player may choose either of those options.
+Falls ein Ersatzeffekt dazu führt, das etwas, das zum Zerstören markiert ist,
+nicht zerstört wird, so wird dieser Ersatzeffekt nicht abgehandelt, bis die
+Karte auf den Ablagestapel gelegt werden würde. Sobald die Karte auf den
+Ablagestapel gelegt werden würde, wird stattdessen die Zerstört-Markierung
+davon entfernt und die Anweisungen des Zerstören-Ersatzeffekts werden
+fertig abgehandelt.
 
-### “IF YOU DO” AND “IN ORDER TO”
+Falls der Ersatzeffekt keinen Effekt angibt, bezieht er sich auf einen anderen
+Teil desselben Effekts, von dem der Ersatzeffekt ein Teil ist.
 
-If an ability includes the phrase “if you do” or “in order to,” the player
-referenced by the ability must successfully and completely resolve the
-text that precedes that phrase before they can resolve or perform the
-text that follows that phrase. In other words, if the first part of the ability
-is not successfully and completely resolved, that which follows the phrase
-does not resolve or cannot be performed.
+_**Beispiel**: Andreas spielt ein Dimensionsportal (RdA 108) und erntet dann mit
+einer Kreatur. Normalerweise würde Andreas durch das Ernten mit seiner
+Kreatur 1 Æmber erhalten. Das Dimensionsportal hat aber einen Ersatzeffekt
+erzeugt, der das Erhalten von Æmber durch Ernten mit dem Stehlen von
+Æmber ersetzt. Deshalb stiehlt Andreas stattdessen 1 Æmber._
 
-### KEYS
+_**Beispiel**: Kathi hat Feldherr Remiel (RdA 241), an den ein ArmageddonMantel (RdA 263) angelegt ist. Ihr Gegner spielt eine Pforte nach Dis (RdA 059), wodurch jede Kreatur im Spiel zerstört wird. Der Zerstört-Effekt,
+den der Armageddon-Mantel Feldherr Remiel gewährt, ist ein Ersatzeffekt,
+der das Zerstören dieser Kreatur durch die Komplettheilung von Feldherr
+Remiel und die Zerstörung des Armageddon-Mantels ersetzt. Das führt
+dazu, dass die Zerstört-Markierung von Feldherr Remiel entfernt und dem
+Armageddon-Mantel gegeben wird._
 
-The first player to forge all three of their keys immediately wins
-the game.
+_**Beispiel**: Janine spielt Ronnie Uhrich (ZdA 276), während ihr Gegner 7 Æmber
+hat. Normalerweise würde der Spielen-Effekt von Ronnie Uhrich 1 Æmber von
+Janines Gegner stehlen. Da dieser aber 7 Æmber hat, kommt der Ersatzeffekt
+zum Tragen und ersetzt stattdessen das Stehlen von 1 Æmber mit dem
+Stehlen von 2 Æmber._
 
-The color of a key has no impact on the game. Future card abilities may
-reference keys of a specific color.
+#### EXPLOSION
 
-For details on forging keys, see page 4.
+Sobald eine Fähigkeit einer Kreatur Schaden mit „Explosion“ zufügt,
+wird jedem Nachbarn der Kreatur der Explosionsschaden zugefügt.
 
-### LEGACY
+#### FÄHIGKEIT, KARTENFÄHIGKEIT
 
-This symbol indicates that a card is a legacy card. A legacy
-card is a rare instance of a card that has been brought
-forward from a previous set of KeyForge. It is legally part of
-the deck it is in for all game purposes, including tournament
-play.
+Eine Fähigkeit ist der besondere Text einer Karte, der sich auf das
+Spielgeschehen auswirkt.
+
+Sofern sich eine Fähigkeit nicht ausdrücklich auf einen Nicht-im-Spiel-Bereich
+(wie die Hand, das Deck, das Archiv oder den Ablagestapel) bezieht, kann
+sie nur mit Karten interagieren, die im Spiel sind. Fähigkeiten, die mit einer
+Karte interagieren, nachdem sie zerstört worden ist, können mit jener Karte
+interagieren, solange sie sich im Ablagestapel befindet.
+
+Fähigkeiten auf einer Kreatur, einem Artefakt oder einer Aufwertung sind nur
+dann aktiv (und können nur dann ausgelöst werden), solange sich jene Karte
+im Spiel befindet, es sein denn, die Fähigkeit gibt ausdrücklich an, dass sie
+von einem Nicht-im-Spiel-Bereich verwendet werden kann. Einmal ausgelöst,
+wird eine Kartenfähigkeit bis zum Ende abgehandelt, selbst wenn die Karte
+das Spiel verlässt.
+
+Falls das Abhandeln eines Teils der Anweisungen einer Kartenfähigkeit dazu
+führt, dass andere Karteneffekte ausgelöst werden, werden zunächst diese
+anderen Karteneffekte abgehandelt, bevor die restlichen Anweisungen der
+ersten Karte abgehandelt werden.
+
+#### „FALLS DU DAS TUST“ UND „UM ZU”
+
+Falls eine Fähigkeit die Formulierung „falls du das tust“ oder „um zu“
+enthält, muss der Spieler, auf den sich die Fähigkeit bezieht, den Text vor
+dieser Formulierung vollständig und erfolgreich abgehandelt haben, bevor
+er den Text hinter der Formulierung abhandeln oder durchführen kann.
+Anders ausgedrückt: Falls der erste Teil der Fähigkeit nicht vollständig und
+erfolgreich abgehandelt wird, kann der zweite Teil nicht abgehandelt oder
+durchgeführt werden.
+
+#### FEINDLICH
+
+Bezieht sich eine Kartenfähigkeit auf ein „feindliches“ Spielelement,
+ist damit ein Element gemeint, das sich aktuell unter der Kontrolle des
+Gegners befindet.
+
+#### FLANKE
+
+Die Kreaturen am linken und rechten Ende der Schlachtreihe eines Spielers
+befinden sich an den Flanken der Schlachtreihe. Eine Kreatur in dieser
+Position wird auch als Flankenkreatur bezeichnet. Immer wenn eine Kreatur ins
+Spiel kommt oder die Kontrolle wechselt, wählt der aktive Spieler, an welche
+Flanke der Schlachtreihe ihres kontrollierenden Spielers sie gelegt wird.
+
+Falls eine Schlachtreihe nur eine Kreatur enthält, befindet sich diese
+Kreatur sowohl an der linken als auch an der rechten Flanke und wird als
+Flankenkreatur behandelt.
+
+#### FRAKTIONSFREMD
+
+Eine fraktionsfremde Karte ist eine Karte, die nicht zur aktiven Fraktion gehört.
+
+#### FRAKTIONSWAHL
+
+In jedem Zug muss ein Spieler 1 der 3 Fraktionen auf seiner Avatarkarte
+wählen (falls möglich). Manche Kartenfähigkeiten können die Fraktions wahl
+des Spielers einschränken.
+
+Hat ein Spieler die Kontrolle über eine Karte übernommen, die nicht zu 1
+seiner 3 Fraktionen gehört, wird die Fraktion dieser Karte ebenfalls wählbar,
+solange er die Kontrolle über die Karte behält.
+
+Gibt es keine Fraktion, die regelkonform gewählt werden konnte, muss der
+Zug ohne aktive Fraktion gespielt werden.
+
+Falls ein Spieler 2 (oder mehr) Anweisungen hat, die besagen, dass er etwas
+„wählen muss“, darf er eine dieser Optionen wählen.
+
+#### „FÜR JEDEN“, „FÜR JEDE“, „FÜR JEDES“
+
+Manche Fähigkeiten haben einen Effekt, der den Begriff „für jeden“, „für
+jede“ oder „für jedes“ verwendet, um den Umfang des Effekts zu bestimmen.
+Sofern nichts anderes angegeben ist, darf ein Spieler jeweils eine andere
+Karte für jede Instanz eines solchen Effekts wählen, die davon betroffen wird.
+
+_**Beispiel**: Der Text von Scherbe des Schmerzes (ZdA 104) lautet: „**Aktion:**
+Füge einer feindlichen Kreatur für jede befreundete Scherbe 1 Schaden zu.“
+Dieser Schaden darf auf mehrere Kreaturen aufgeteilt werden._
+
+Manche Fähigkeiten geben an, dass „eine Kreatur gewählt“ werden muss.
+Dann wird bei jener Kreatur ein Effekt angewandt, der den Begriff „für
+jeden“, „für jede“ oder „für jedes“ verwendet. Solche Fähigkeiten betreffen
+nur eine einzige Kreatur.
+
+_**Beispiel**: Der Text von Strahlenpistole vom Mars (RdA 211) lautet: „Diese
+Kreatur erhält: ‚**Ernte**: Wähle eine Kreatur. Füge jener Kreatur 1 Schaden
+für jede Mars-Kreatur im Spiel zu.‘“ Dieser Schaden muss ausschließlich der
+gewählten Kreatur zugefügt werden und kann nicht auf mehrere Kreaturen
+aufgeteilt werden._
+
+#### GEFÄHRLICH (X)
+
+Sobald eine Kreatur mit dem Schlüsselwort Gefährlich (X) angegriffen
+wird, fügt sie der angreifenden Kreatur X Schaden zu, bevor der Angriff
+abgehandelt wird. (Der aktive Spieler entscheidet, ob dies vor oder nach
+anderen „Vor dem Kampf:“-Effekten und Schlüsselwörtern geschieht.) Falls
+dieser Schaden die andere Kreatur zerstört, findent der Rest des Kampfes
+nicht statt.
+
+Falls eine Kreatur mit dem Schlüsselwort Gefährlich (X) ein weiteres Mal das
+Schlüsselwort Gefährlich (X) erhält, werden die beiden X-Werte addiert.
+
+#### GEGNERISCH
+
+Ist eine Kreatur in einen Kampf verwickelt (entweder weil sie zum Kämpfen
+verwendet worden ist oder weil sie von einer anderen Kreatur angegriffen
+worden ist), betrachtet sie die jeweils andere Kreatur im Kampf als
+gegnerische Kreatur.
+
+#### GIFT
+Jeder Schaden, den eine Kreatur mit dem Schlüsselwort Gift während
+eines Kampfes durch ihre Stärke zufügt, zerstört die beschädigte Kreatur.
+Dies passiert, sobald der Schaden erfolgreich auf die gegnerische Kreatur
+gelegt wird.
+
+Gift hat keine Wirkung, falls der gesamte Schaden durch Rüstung oder durch
+eine andere Fähigkeit verhindert wird - Gift wird nur dann abgehandelt,
+sobald mindestens 1 Schaden erfolgreich zugefügt wird.
+
+Gift bezieht sich nur auf den Schaden, der durch die Stärke der Kreatur
+zugefügt wird, nicht auf Schaden, der durch Schlüsselwörter oder andere
+Kartenfähigkeiten zugefügt wird.
+
+#### GIGANTISCHE KREATUREN
+
+Gigantische Kreaturen sind auf je 2 Karten aufgeteilt: Auf der einen Karte ist
+der Textkasten der Kreatur zu findenn, während auf der anderen Karte ihr Bild
+zu sehen ist.
+
+Um eine gigantische Kreatur zu spielen, muss der Spieler beide Hälften der
+Kreatur auf seiner Hand haben und beide Karten zusammen als eine einzige
+Kreatur spielen. Die obere Hälfte einer gigantischen Kreatur weist den Text
+„1 von 2“ neben ihrem Kartentitel auf, während die passende untere Hälfte
+denselben Titel und den Text „2 von 2“ neben ihrem Seltenheitssymbol hat.
+
+Eine gigantische Kreatur zählt als 2 Karten, solange sie nicht im Spiel ist,
+aber als 1 einzelne Kreaturenkarte, solange sie im Spiel ist. Das Spielen einer
+gigantischen Kreatur zählt, als würde man 1 Karte spielen und ist daher im
+ersten Zug erlaubt. Nachdem eine gigantische Kreatur das Spiel verlassen
+hat, werden die beiden Hälften wieder als 2 separate Karten behandelt.
+
+Beide Hälften einer gigantischen Kreatur haben denselben Kartentitel,
+dieselbe Fraktion und dieselbe Kartenart. Ansonsten hat jede Hälfte die
+Attribute, die auf ihr aufgedruckt sind: Die obere Hälfte verfügt über
+Bonussymbole, während die untere Hälfte Stärke, Rüstung und einen
+Textkasten enthält.
+
+Wenn eine Karte dazu anweist, eine Kreatur zu spielen oder ins Spiel zu
+bringen, und dabei eine Hälfte einer gigantischen Kreatur als Ziel wählt, so
+scheitert dieser Effekt. Weist eine Karte hingegen dazu an, beide Hälften
+einer gigantischen Kreatur zu spielen oder ins Spiel zu bringen, so wird die
+gigantische Kreatur gespielt bzw. ins Spiel gebracht.
+
+_**Beispiel**: Isabell spielt ein Wildes Wurmloch. Dies gestattet ihr, die oberste
+Karte ihres Decks zu spielen. Sie sieht sich die oberste Karte ihres Decks an
+und stellt fest, dass es sich um die obere Hälfte von Ultra Gravitron handelt.
+Sie kann diese Karte nicht von oben von ihrem Deck spielen (selbst wenn sie
+die andere Hälfte auf der Hand hätte). Daher legt sie die Karte oben auf ihr
+Deck zurück._
+
+#### HEILEN
+
+Falls eine Kreatur durch einen Karteneffekt „geheilt“ wird, entfernt man die
+entsprechende Menge an Schaden von der Kreatur.
+
+Falls eine Kreatur durch einen Karteneffekt „komplett geheilt“ wird, entfernt
+man sämtlichen Schaden von der Kreatur.
+
+Jede Kreatur kann gewählt werden, um durch einen Karteneffekt geheilt
+zu werden, auch wenn sie keine Schadensmarker auf sich hat. Falls jedoch
+keine Schadensmarker von der Kreatur entfernt werden, gilt sie in Bezug auf
+Karteneffekte, die sich auf die Heilung beziehen, nicht als „geheilt“.
+
+#### HEIMGESUCHT
+
+Falls ein Spieler 10 oder mehr Karten in seinem Ablagestapel hat, wird er
+heimgesucht. Dies hat an sich keinen Spieleffekt. Andere Kartenfähigkeiten
+können aber Bezug darauf nehmen.
+
+#### KAMPF
+Sobald man eine Kreatur zum Kämpfen verwendet, erschöpft man die Kreatur
+und wählt eine Kreatur des Gegners. Beide Kreaturen fügen der jeweils
+gegnerischen Kreatur Schaden in Höhe ihres Stärkewertes zu. Beide Kreaturen
+„kämpfen“ oder sind „im Kampf verwickelt“, was Karteneffekte betrifft.
+Die zum Kämpfen verwendete Kreatur gilt als „angreifende Kreatur“ und kann
+während des Kampfes auch als „Angreifer“ bezeichnet werden.
+
+Falls der Angreifer nicht zerstört wird, werden anschließend alle **„Kampf:“**-
+Fähigkeiten der angreifenden Kreatur abgehandelt. Hat eine der am Kampf
+beteiligten Kreaturen eine konstante Fähigkeit, die sich auf das Ende
+des Kampfes bezieht (z. B.: „Nachdem eine feindliche Kreatur im Kampf
+gegen diese Kreatur zerstört worden ist ...“), muss die Kreatur den Kampf
+überleben, um die Fähigkeit abhandeln zu können. Nur der Angreifer kann
+**„Kampf:“**-Fähigkeiten auslösen.
+
+Wird beim Abhandeln von Ansturm oder Gefährlich oder einer **„Vor dem
+Kampf:“**-Fähigkeit entweder die angreifende oder die verteidigende
+Kreatur zerstört, so wird der Kampf (das Zufügen von Schaden, basierend
+auf Stärke) übersprungen. Die Kreaturen „kämpfen“ nicht und sind
+nicht „im Kampf verwickelt“, was Karteneffekte betrifft. Ebenso werden
+die **„Kampf:“**-Fähigkeiten der angreifenden Kreatur nicht ausgelöst.
+Karteneffekte mit den Formulierungen „nachdem eine Kreatur gekämpft
+hat“ oder „nachdem eine Kreatur verwendet worden ist“ werden dennoch
+ausgelöst, da die Kreatur zum Kämppfen verwendet worden ist (auch wenn der
+Kampf nicht abgehandelt wurde).
+
+#### „KÄMPFEN LASSEN“
+
+Falls eine Fähigkeit einen Spieler anweist eine Kreatur „kämpfen zu lassen“
+oder „spielbereit zu machen und kämpfen zu lassen“, so erhält man durch
+diese Fähigkeit die Erlaubnis, die entsprechende Kreatur zum Kämpfen zu
+verwenden. Der Kampf wird gemäß den Standardregeln gegen eine Kreatur
+unter der Kontrolle des Gegners abgehandelt.
+
+<a name="kannicht"></a>
+
+#### KANN NICHT VS. MUSS/DARF, KANN NICHT VS. „ERLAUBEN“-EFFEKT
+
+Falls zwei Karteneffekte einen Spieler anweisen, dass er etwas „nicht
+tun kann“ und dass er dasselbe tun „muss“ oder „darf“, hat der „Kann
+nicht“-Effekt Vorrang.
+
+_**Beispiel**: Anna kontrolliert einen Grubenfürst (RdA 093) mit dem Text:
+„Solange Grubenfürst im Spiel ist, musst du Dis als deine aktive Fraktion
+wählen.“ In ihrer nächsten Runde spielt Annas Gegnerin Restringuntus
+(RdA 094) mit dem Text: „**Spielen**: Wähle eine Fraktion.“ 
+Dein Gegner kann jene Fraktion nicht als seine aktive Fraktion wählen, bis
+Restringuntus das Spiel verlässt.“ und wählt Dis durch seine Fähigkeit. In
+der nächsten Runde muss Anna Dis wählen und kann Dis nicht wählen.
+Weil aber „Kann nicht“ Vorrang vor „Muss“ hat, kann sie Dis nicht wählen
+und muss stattdessen eine ihrer anderen Fraktionen wählen._
+
+Falls zwei Karteneffekte einen Spieler gleichzeitig anweisen, dass er etwas nicht
+tun kann und dass er etwas tun darf, hat der „Kann nicht“-Effekt Vorrang.
+
+<a name="ketten"></a>
+
+#### KETTE, KETTEN
+
+Manche Kartenfähigkeiten führen dazu, dass ein Spieler 1 oder mehrere
+Ketten erhält. Falls ein Spieler Ketten erhält, erhöht er seinen Kettenanzeiger
+um die entsprechende Anzahl.
+
+Falls ein Spieler beim Aufziehen von Handkarten mindestens 1 Kette hat und
+aufgrund der Anzahl seiner verbleibenden Handkarten neue Karten ziehen
+würde, zieht er gemäß folgender Tabelle auf weniger Karten auf. Dann
+sprengt er 1 Kette, indem er seinen Kettenanzeiger um 1 reduziert.
+
+* **1-6 Ketten**: Der Spieler zieht auf 1 Karte weniger auf.
+* **7-12 Ketten**: Der Spieler zieht auf 2 Karten weniger auf.
+* **13-18 Ketten**: Der Spieler zieht auf 3 Karten weniger auf.
+* **19-24 Ketten**: Der Spieler zieht auf 4 Karten weniger auf.
+
+Falls ein Deck während des Ziehens der Starthand beim Aufbau Ketten
+hat, werden die Ketten auch für die Starthand angewendet, als ob man in
+Schritt 5 die Hand nachfüllen würde. Dafür wird nach den Standardregeln eine
+Kette gesprengt.
+
+Siehe [„Ketten“](#ketten).
+
+#### KONTROLLE
+Ein Spieler besitzt alle Karten, die zu Spielbeginn in seinem Deck sind.
+Sobald eine Karte gespielt wird, kommt sie unter der Kontrolle des aktiven
+Spielers ins Spiel.
+
+Es ist möglich, die Kontrolle über eine Karte des Gegners zu übernehmen.
+Wenn das passiert, wird die Karte in den Spielbereich ihres neuen
+kontrollierenden Spielers gelegt. Falls es sich um eine Kreatur handelt,
+wird sie an eine Flanke der Schlachtreihe ihres neuen kontrollierenden
+Spielers gelegt. Falls mehrere Effekte, welche die Kontrolle über eine
+Karte übernehmen, auf dieselbe Karte verwendet werden, hat der jüngste
+Effekt Vorrang.
+
+Übernimmt ein Spieler die Kontrolle über eine Karte, die nicht zu einer
+Fraktion seines Decks gehört, kann er in Schritt 2 seines Zuges auch die
+Fraktion der übernommenen Karte als aktive Fraktion wählen.
+
+Falls eine übernommene Karte aus irgendeinem Grund das Spiel verlässt, wird
+sie in den entsprechenden Nicht-im-Spiel-Bereich ihres Besitzers verschoben.
+Falls eine Fähigkeit sich auf Karten bezieht, die ein Spieler im Spiel „hat“,
+dann bezieht sie sich auf Karten, die der Spieler kontrolliert.
+
+#### KOSTEN, AKTUELLE KOSTEN
+
+Die Standardkosten für das Schmieden eines Schlüssels sind 6 Æmber.
+Kartenfähigkeiten können diese Kosten modifizieren. Die modifizierten
+Kosten werden als aktuelle Kosten bezeichnet.
+
+#### LEGACY
+
+Dieses Symbol bedeutet, dass eine Karte eine Legacy-Karte ist.
+Eine Legacy-Karte ist eine seltene Kartenvariante, die aus einem
+vorherigen KeyForge-Set stammt. Sie gilt in allen Belangen als
+Teil des Decks und ist auch auf Turnieren spielbar.
 
 ![Legacy](img/legacy.jpg)
 
-### LEAST POWERFUL
+#### MERKMALE
 
-A reference to the “least powerful” creature refers to the creature in play
-with the lowest power. If there are multiple creatures that qualify, each is
-considered “least powerful.”
+Merkmale sind beschreibende Attribute (wie „Ritter“ oder „Gespenst“),
+auf die andere Karten Bezug nehmen können. Sie stehen am oberen Rand
+des Textfeldes einer Karte.
 
-If an ability requires the selection of a single least powerful creature, and
-multiple creatures are tied, the active player chooses one.
+Merkmale haben an sich keinen Spieleffekt, allerdings gibt es
+Kartenfähigkeiten, die Bezug auf sie nehmen.
 
-#### Groups of “Least Powerful”
-
-If a card effect refers to a group of “the X least powerful” creatures, it is
-referring to a number of creatures in play that have an equal or lower power
-than every creature that does not belong to that group. If there are not enough
-creatures with the lowest power to fulfill the group, then a creature with the
-next lowest power is eligible to be considered a part of the group. This
-continues until the group has been filled or there are no creatures remaining.
-If at any point multiple creatures are tied at the same power that could
-qualify them for the group, but there is not enough space in the group for each
-tied creature, the active player chooses which of the tied creatures are part
-of the group
-
-### LEAVES PLAY
-
-If a card that is in play leaves play (is returned to hand or deck,
-destroyed, discarded, archived, or purged), all non-Æmber tokens and
-status cards on the card are removed, all upgrades on the card are
-discarded, and all lasting effects applied to the card expire.
-
-When a card moves from an in–play zone to an out-of-play zone in which the
-identities of cards are hidden from the opponent (such as a player’s hand,
-deck, or archives), any pending effects that are currently or about to interact
-with that card no longer do so, unless a card effect explicitly states that it
-interacts with that zone.
-
-If a creature with Æmber on it leaves play, the Æmber is placed in the
-opponent’s Æmber pool. If a non-creature card with Æmber on it leaves
-play, the Æmber is returned to the general token pool.
-
-When a card leaves play it is always put into its owner’s appropriate
-out-of-play zone, unless a card effect explicitly states that it interacts with
-that zone.
-
-If a card has a “Leaves Play:” ability, the effect happens automatically
-immediately before the card leaves play.
-
-### MAVERICK
-
-This symbol indicates that a card is a maverick. A maverick
-is an extremely rare instance of a card that has left its
-standard house and is now a part of a new house. For all
-game purposes, treat a maverick as belonging to the house
-printed on its graphic template.
+#### MAVERICK
+Dieses Symbol bedeutet, dass eine Karte ein Maverick ist.
+Ein Maverick ist eine extrem seltene Kartenvariante, die ihre
+normale Fraktion verlassen und sich einer anderen Fraktion
+angeschlossen hat. Sie gilt in allen Belangen als Karte der Fraktion,
+die auf der Karte aufgedruckt ist.
 
 ![Maverick](img/maverick.jpg)
 
-### MAY
 
-If an ability includes the word “may,” the text that follows “may” is
-optional. If a player chooses to resolve a “may” ability, the player must
-resolve as much of the ability as they are able.
+#### MULLIGAN
 
-### MOST POWERFUL
+Während des Spielaufbaus hat jeder Spieler (beginnend mit dem Startspieler) genau 1 Gelegenheit, einen Mulligan zu nehmen. Dazu mischt er die Starthand in sein Deck zurück und zieht eine neue Starthand, die aus 1 Karte weniger besteht.
 
-A reference to the “most powerful” creature refers to the creature in play
-with the highest power. If there are multiple creatures that qualify, each is
-considered “most powerful.”
+Nach dem Auswechseln muss die neue Starthand behalten werden.
 
-If an ability requires the selection of a single most powerful creature,
-and multiple creatures are tied, the active player chooses among the
-tied creatures.
+Falls ein Spieler ein Deck verwendet, welches das Spiel mit Ketten beginnt, und er einen Mulligan nimmt, wird durch den Mulligan keine Kette gesprengt, sondern er zieht gemäß den normalen Mulligan-Regeln eine Karte weniger als zuvor.
 
-#### Groups of “Most Powerful”
+<a name="nachbar"></a>
 
-If a card effect refers to a group of “the X most powerful” creatures, it is
-referring to a number of creatures in play that have an equal or higher power
-than every creature that does not belong to that group. If there are not enough
-creatures with the highest power to fulfill the group, then a creature with the
-next highest power is eligible to be considered a part of the group. This
-continues until the group has been filled or there are no creatures remaining.
-If at any point multiple creatures are tied at the same power that could
-qualify them for the group, but there is not enough space in the group for each
-tied creature, the active player chooses which of the tied creatures are part
-of the group.
+#### NACHBAR
 
-**Example**: Tom plays the action card “Three Fates (COTA 071) which reads, “**Play**:
-Destroy the 3 most powerful creatures.” In play there is an 8 power creature, a
-7 power creature, and two 5 power creatures. Tom must select 3 creatures to
-fill the group and must choose the 8 power creature as the first creature for
-the group. There are no other creatures in play that are tied for most
-powerful. In order to fill the group the next most powerful creature is
-selected, the 7 power creature. After this creature is selected, again there is
-no creature in play that is tied at 7 power, so a creature from the next
-highest power must be selected. Tom thus must choose one of the 5 power
-creatures to complete the group.
+Die Kreaturen, die direkt links und rechts neben einer Kreatur in der Schlachtreihe eines Spielers liegen, sind die Nachbarn dieser Kreatur.
 
-### MULLIGAN
+<a name="obengenannt"></a>
 
-During setup, each player, starting with the first player, has one
-opportunity to mulligan their starting hand. This is done by shuffling the
-starting hand back into the deck and drawing a new starting hand with
-one fewer card in it.
+#### OBEN GENANNT, WIEDERHOLE DEN OBEN GENANNTEN EFFEKT
 
-After a player chooses to mulligan, that player must keep the new
-starting hand.
+Falls ein Kartentext den Spielern die Anweisung gibt, einen oben genannten Effekt zu wiederholen, wird der gesamte Effekt bis zu der Wiederholungsanweisung noch einmal abgehandelt. 
 
-If a player is using a deck that has chains applied to it at the start of the
-game and takes a mulligan, they do not shed a chain from the mulligan, but do
-draw one fewer card than they had before the mulligan as per the normal
-mulligan rules.
+**Anm.**: Das Wiederholen eines Effekts ist nicht von der Sechser-Regel betroffen, da die Sechser-Regel nur beim Spielen oder Verwenden von Karten gilt und nicht beim mehrmaligen Auslösen ihrer Effekte.
 
-### NEIGHBOR
+#### OMEGA
 
-The creatures to the immediate left and right of a creature in a player’s
-battleline are its neighbors.
+Nachdem eine Karte mit dem Schlüsselwort Omega gespielt worden ist, endet der aktuelle Spielschritt. Der aktive Spieler darf bis zum Ende des Schritts keine weiteren Karten spielen, verwenden und ablegen. Alle ausstehenden Effekte und Auslöser werden abgehandelt. Dann geht das Spiel im nächsten Schritt weiter.
 
-### OMEGA
+#### OPFERN
 
-After a card with the Omega keyword is played, the current step of the
-game ends. You cannot play, use, or discard any more cards and play
-continues to the next step.
+Sobald ein Spieler dazu angewiesen wird, eine Karte zu opfern, muss er die Karte aus dem Spiel abgelegen. Geopferte Karten gelten als zerstört, d. h. ihre **„Zerstört:“**-Fähigkeiten werden abgehandelt.
 
-### OMNI
+Spieler können Karten nicht opfern, die sie selbst nicht kontrollieren.
 
-The active player may trigger any **”Omni:“** abilities under their control
-during any of their turns, even if the card with the **”Omni:“** ability does
-not belong to the active house. When a player uses a creature to trigger its
-“**Omni:**” ability, the player exhausts the creature and then resolves the
-**“Omni:”** ability.
+#### RÜSTUNG
 
-### OFF HOUSE
+Manche Kreaturen haben einen Rüstungswert rechts neben ihrem Kartentitel. Rüstung verhindert in jedem Zug Schaden in Höhe des Rüstungswertes, den die Kreatur erleiden würde. Rüstung verhindert Schaden, bevor er zugefügt wird. 
 
-An off house card is any card that belongs to a house that is not the
-active house.
+_**Beispiel**: Einer Kreatur mit 2 Rüstung wird 1 Schaden zugefügt. Der Schaden wird von der Rüstung verhindert und die Kreatur behält für den Rest des Zuges noch 1 Rüstung übrig, die Schaden verhindern kann. Später in diesem Zug werden der Kreatur 3 Schaden zugefügt. 1 Schaden wird von der Rüstung verhindert, die restlichen 2 Schaden werden der Kreatur zugefügt._
 
-### OPPOSING
+Falls eine Kreatur Rüstung erhält, handelt es sich um einen zusätzlichen Bonus, der auf ihren aufgedruckten Rüstungswert addiert wird.
 
-When a creature is involved in a fight (either because it was used to fight,
-or because it was attacked by another creature), the other creature in the
-fight is the opposing creature.
+Falls eine Kreatur während eines Zuges Rüstung erhält, verhindert diese Rüstung keinen Schaden, der ihr zu einem früheren Zeitpunkt in diesem Zug zugefügt worden ist. 
 
-### OTHER COUNTERS
+Falls eine Kreatur während eines Zuges Rüstung verliert, wird ihr rückwirkend kein Schaden zugefügt, der durch die Rüstung bereits verhindert worden ist.
 
-Some cards may refer to counters that do not have official components
-to represent them. Players can use any available resources to represent
-these counters such as coins, slips of paper, or even poker chips. These
-counters have no inherent rules, instead the card that creates them
-provides context to how the counters function.
+Wenn eine Kreatur irgendeine Menge an Rüstung verliert, verliert sie zuerst Rüstung, die verwendet worden ist, um Schaden in diesem Zug zu verhindern, bevor sie Rüstung verliert, die noch nicht verwendet worden ist, um Schaden in diesem Zug zu verhindern.
 
-**LIST OF COUNTER TYPES:**
+Das Symbol „~“ im Rüstungsfeld bedeutet, dass eine Kreatur keine Rüstung hat. Eine solche Kreatur kann trotzdem durch Karteneffekte Rüstung erhalten.
 
-* Doom Counters
+#### SCHADEN
 
-### PAY
+Schadensmarker, die auf einer Kreatur liegen, zeigen an, wie viel Schaden diese Kreatur bereits erlitten hat. Falls eine Kreatur mindestens so viel Schaden hat, wie sie Stärke hat, wird die Kreatur zerstört. Der Schaden einer Kreatur reduziert nicht ihre Stärke. Falls mehrere Kreaturen durch denselben Effekt Schaden erleiden, wird der Schaden gleichzeitig zugefügt.
 
-If a player must pay Æmber to an opponent, the Æmber is removed from
-the paying player’s pool and added to the opponent’s pool.
+#### SCHADEN-BONUSSYMBOL DD
 
-### PLAY
+Siehe [„Bonussymbole“](#bonussymbole).
 
-When a card has a **“Play:”** ability, the effect occurs any time the card
-is played. For creatures, artifacts, and upgrades, the ability resolves
-immediately after the card enters play. For action cards, the ability
-resolves, and then the card is immediately placed in its owner’s discard pile.
+#### SCHARMÜTZEL
 
-If an ability “plays” a card from a source other than hand, **“Play:”**
-abilities on the card resolve. If an ability “puts” a card “into play,”
-**“Play:”** abilities on the card do not resolve.
+Sobald eine Kreatur mit dem Schlüsselwort Scharmützel zum Kämpfen verwendet wird, nimmt sie keinen Schaden durch die gegnerische Kreatur, sobald durch den Kampf Schaden zugefügt wird.
 
-### POISON
+Dies bezieht sich nur auf Schaden, der über die Stärke der gegnerischen Kreatur zugefügt würde, nicht auf Schaden, der durch Schlüsselwörter oder andere Kartenfähigkeiten entsteht.
 
-Any damage dealt via the power of a creature with the poison keyword
-during a fight destroys the damaged creature. This occurs when the
-damage is successfully applied to the opposing creature.
+#### SCHLACHTREIHE
 
-Poison has no effect if all of the damage is prevented by armor or
-prevented by another ability—poison only resolves when one or more
-damage is successfully dealt.
+Die Schlachtreihe ist die geordnete Reihe von Kreaturen, die ein Spieler im Spiel hat und kontrolliert. Siehe [„Kreaturen“](#kreaturen).
 
-Poison refers only to damage that would be dealt by the creature’s
-power, not by damage that is dealt by keywords or other card abilities.
+<a name="schluessel"></a>
 
-### POWER COUNTER +1, POWER STATUS CARD
+#### SCHLÜSSEL
 
-When a creature is given a “+1 power counter,” one such status card is
-placed on the creature. For each of these cards that is on a creature, that
-creature’s power is increased by one.
+Der Spieler, der als Erster alle drei Schlüssel geschmiedet hat, gewinnt sofort das Spiel.
 
-### PRECEDING, REPEAT THE PRECEDING
+Jeder Spieler hat je einen Schlüssel der folgenden Farben: rot, blau und gelb. Manche Kartenfähigkeiten nehmen Bezug auf die Farbe der Schlüssel eines Spielers, zusätzlich dazu, ob sie geschmiedet oder ungeschmiedet sind.
 
-If card text instructs players to repeat a preceding effect, the entirety
-of the effect before the text providing the instruction to repeat resolves
-again.
+Mehr zum Schmieden von Schlüsseln auf Seite 4.
 
-**Note:** Repeating an effect does not interact with the Rule of Six (see
-page 7), as the Rule of Six only applies to playing or using cards, not
-triggering their effect multiple times.
+#### SCHMIEDEN
 
-### PURGE
+Mehr zum Schmieden von Schlüsseln auf Seite 4.
 
-When a card is purged, it is removed from the game and placed
-facedown beneath its owner’s identity card. Purged cards no longer
-interact with the game state in any manner.
+#### SCHWÄCHSTE KREATUR
 
-### RARITY
+Die „schwächste“ Kreatur ist die Kreatur mit dem niedrigsten Stärkewert im Spiel. Falls dies auf mehrere Kreaturen zutrifft, gilt jede von ihnen als „die schwächste“.
 
-A card’s rarity symbol can be found at the bottom of the card, near the
-collector number. A card’s rarity (common, uncommon, rare, or special)
-is used by the deck-generation algorithm to determine how frequently
-it will appear in decks. Special cards have a different type of distribution
-and do not obey the game’s standard rarity rules.
+Falls eine Fähigkeit die Auswahl einer einzelnen schwächsten Kreatur verlangt, wählt bei Gleichstand der aktive Spieler 1 der schwächsten Kreaturen aus.
 
-![Rarity](img/rarity.jpg)
+**Gruppe von „schwächsten Kreaturen“**
 
-### REAP
+Falls sich ein Karteneffekt auf eine Gruppe von „die X schwächsten“ Kreaturen bezieht, bezieht er sich auf eine Anzahl Kreaturen im Spiel mit derselben oder einer geringeren Stärke als jede Kreatur, die nicht zu dieser Gruppe gehört. Falls es nicht genügend Kreaturen mit der geringsten Stärke gibt, um die Gruppe zu bilden, kann eine Kreatur mit der nächsthöheren Stärke Teil der Gruppe werden. Dies gilt so lange, bis die Gruppe voll ist oder keine weiteren Kreaturen mehr vorhanden sind. Falls mehrere Kreaturen mit der gleichen Stärke der Gruppe beitreten könnten, es aber nicht genug Platz für alle diese Kreaturen in der Gruppe gibt, wählt der aktive Spieler, welche dieser Kreaturen Teil der Gruppe werden.
 
-When a player uses a creature to reap, the player exhausts the creature,
-gains 1 Æmber for their Æmber pool, and then all **“Reap:”** abilities on
-the creature resolve.
+#### SCHWER ZU FASSEN
 
-### REPEAT
+Wenn eine Kreatur mit dem Schlüsselwort „Schwer zu fassen“ zum ersten Mal in jedem Zug angegriffen wird, wird ihr in diesem Kampf kein Schaden zugefügt und sie fügt dem Angreifer keinen Schaden zu.
 
-If card text instructs players to repeat an effect, the entirety of the effect
-resolves again including the text to repeat the effect. If the card that
-is creating a repeating effect is removed from play, the effect can no
-longer repeat.
+Schwer zu fassen verhindert nur Schaden, der durch die Stärke der Kreaturen zugefügt würde; Schaden, der durch Schlüsselwörter oder andere Fähigkeiten entsteht, wird trotzdem zugefügt.
 
-**Note:** Repeating an effect does not interact with the Rule of Six (see
-page 7,) as the Rule of Six only applies to playing or using cards, not
-triggering their effect multiple times.
-See also “Preceding.”
+#### SELBSTBEZÜGLICHER TEXT
 
-### RETURN
+Bezieht sich die Fähigkeit einer Karte auf ihren eigenen Titel, ist damit nur die Karte selbst und keine andere Kopie dieser Karte gemeint.
 
-When captured Æmber is returned, it is placed in the opponent’s Æmber
-pool.
+Wenn eine Karte den Text einer anderen Karte kopiert oder erhält, bezieht sich jeder selbstbezügliche Text nun auf die Kreatur, die den Text erhalten hat.
 
-### SACRIFICE
+_**Beispiel**: Du verwendest Bekenntnis der Pfl ege, deckst Falscher Fünfziger von deiner Hand auf und wählst eine Staubfee im Spiel. Die Staubfee erhält effektiv den Text: „**Zerstört**: Schicke Staubfee auf deine Hand zurück.“_
 
-When a player is instructed to sacrifice a card, that player must discard
-that card from play.
+Falls eine Aufwertung einer Kreatur eine Fähigkeit verleiht, die sich auf den Kartentitel der Aufwertung bezieht, dann gilt dies als selbstbezüglicher Text. Er bezieht sich nur auf diese Kopie der Aufwertung und nicht auf andere Kopien.Erhält eine Kreatur eine Fähigkeit, die sich auf ihren eigenen Kartentitel bezieht, dann gilt das als selbstbezüglicher Text.
 
-When a card is sacrificed, that card is considered to have been
-destroyed, and any **“Destroyed:”** abilities the card has resolve.
+#### SELTENHEIT
+Die Seltenheit einer Karte (gewöhnlich, ungewöhnlich, selten oder Spezial) wird durch ein Symbol am unteren Kartenrand, neben der Sammler-ID angegeben. Der Deckbau-Algorithmus verwendet die Seltenheit, um festzulegen, wie häufig eine Karte in Decks erscheinen wird. Spezial-Karten werden nach anderen Gesichtspunkten verteilt und richten sich nicht nach den normalen Seltenheitsregeln des Spiels.
 
-A player cannot sacrifice a card they do not control.
+GewöhnlichUngewöhnlichSeltenSpezial
 
-### SEARCH
+#### SPIELEN
 
-When a player searches a game area (such as a deck), that player looks
-at all the cards in the specified area without showing those cards to the
-opponent. A player may choose to fail to find the object of a search.
+Die **„Spielen:“**-Fähigkeit einer Karte tritt immer dann ein, sobald die Karte gespielt wird. Bei Kreaturen, Artefakten und Aufwertungen wird die Fähigkeit, unmittelbar nachdem die Karte ins Spiel gekommen ist, abgehandelt. Bei Aktionskarten wird zuerst die Fähigkeit abgehandelt, dann wird die Karte sofort auf den Ablagestapel ihres Besitzers gelegt.
 
-If an entire deck is searched, the deck must be adequately shuffled upon
-completion of the search.
+Falls eine Karte durch eine Fähigkeit aus einer anderen Quelle als der Hand „gespielt“ wird, werden die **„Spielen:“**-Fähigkeiten der Karte trotzdem abgehandelt. **„Spielen:“**-Fähigkeiten werden nicht abgehandelt, falls die Karte durch eine Fähigkeit „ins Spiel gebracht“ wird.
 
-If a discard pile is searched, the cards are kept in the same order.
+#### SPIELZUG, ZUG
 
-### SELF-REFERENTIAL TEXT
+Ein Spielzug besteht aus fünf Schritten, die von einem Spieler der Reihe nach durchgeführt werden. Sie lauten wie folgt:
 
-If a card’s ability refers to its own title, that reference is only to itself and
-not to other copies of the card.
+1. Schlüssel schmieden.
+2. Fraktion wählen.
+3. Karten der gewählten Fraktion spielen, ablegen und verwenden.
+4. Karten spielbereit machen.
+5. Karten ziehen.
 
-### SKIRMISH
+#### SPOTT
 
-When a creature with the skirmish keyword is used to fight, it takes no
-damage from the opposing creature when the damage from the fight
-is dealt.
+Hat eine Kreatur das Schlüsselwort Spott, können ihre Nachbarn (sofern sie das Schlüsselwort Spott nicht haben) von feindlichen Kreaturen, die zum Kämpfen verwendet werden, nicht angegriffen werden.
 
-This applies only to damage that would be dealt by the opposing
-creature’s power, not by damage that is dealt by keywords or other
-card abilities.
-
-### SPLASH
-
-When an ability deals damage to a creature “with splash damage,” the
-splash damage is dealt to each of the target creature’s neighbors.
-
-### STEAL
-
-When an ability steals Æmber, the stolen Æmber is removed from the
-opponent’s Æmber pool and added to the Æmber pool of the player
-resolving the steal ability.
-
-If an ability steals more Æmber than a player has remaining in their pool,
-the ability steals only the amount remaining in the pool.
-
-### STUN, STUN STATUS CARD
-
-When a creature becomes stunned, place a stun status card on it. The next time that creature is used, the only effect of it being used is the creature exhausts and the stun status card is removed instead of anything else happening. The creature does not reap or fight, and any “**Reap**:,” “**Fight**:,” or **“Action:”** abilities on the creature do not resolve.
-
-If a card effect causes a creature to be used while it is stunned, the creature
-is exhausted and the stun status card is removed, just as if the creature had
-been used normally.
-
-Constant abilities and abilities that do not require the creature to reap,
-fight, or be used are still active.
-
-If a stunned creature is attacked, it still deals damage to the attacking
-creature during the fight.
-
-While a creature is stunned, it cannot have another stun status card placed on
-it. If an effect attempts to stun a stunned creature that effect does not stun
-the already stunned creature.
-
-### SWAP
-
-If two game elements are swapped, they exchange places with
-one another.
-
-When two creatures are swapped, they exchange positions. This means
-that each takes the position in the battleline of the other. The two
-creatures swapped must always be controlled by the same player.
-
-If cards from two distinct game areas are swapped (such as a card in play
-and a card in hand), the cards switch game areas.
-
-### TAUNT
-
-If a creature has the taunt keyword, any of its neighbors that do not
-have the taunt keyword cannot be attacked by an enemy creature that is
-being used to fight.
-
-In the battleline, taunt creatures are slid slightly forward to indicate their 
-presence to the opponent.
+In der Schlachtreihe werden Kreaturen mit Spott leicht nach vorn geschoben, um den Gegner auf ihre Anwesenheit aufmerksam zu machen.
 
 ![Champion Anaphiel (center) has the taunt keyword, and is pushed slightly forward in the battleline.](img/taunt.jpg)
 
-### “THIS WAY”
-If an ability refers to an effect that occurred “this way,” it is referring to
-an effect that was produced by the same resolution of that same ability.
+#### STÄRKSTE KREATUR
 
-### TURN
+Die „stärkste“ Kreatur ist die Kreatur mit dem höchsten Stärkewert im Spiel. Falls dies auf mehrere Kreaturen zutrifft, gilt jede von ihnen als „die stärkste“.
 
-A turn consists of one player performing the five steps detailed in the
-game’s turn sequence, which are:
+Falls eine Fähigkeit die Auswahl einer einzelnen stärksten Kreatur verlangt, wählt bei Gleichstand der aktive Spieler 1 der stärksten Kreaturen aus.
 
-1. Forge a key.
-2. Choose a house.
-3. Play, discard, and use cards of the chosen house.
-4. Ready cards.
-5. Draw cards.
+**Gruppen von „stärksten Kreaturen“**
 
-### TRAITS
+Falls sich ein Karteneffekt auf eine Gruppe von „die X stärksten“ Kreaturen bezieht, bezieht er sich auf eine Anzahl Kreaturen im Spiel mit derselben oder einer höheren Stärke als jede Kreatur, die nicht zu dieser Gruppe gehört. Falls es nicht genügend Kreaturen mit der höchsten Stärke gibt, um die Gruppe zu bilden, kann eine Kreatur mit der nächstniedrigeren Stärke Teil der Gruppe werden. Dies gilt so lange, bis die Gruppe voll ist oder keine weiteren Kreaturen mehr vorhanden sind. Falls mehrere Kreaturen mit der gleichen Stärke der Gruppe beitreten könnten, es aber nicht genug Platz für alle diese Kreaturen in der Gruppe gibt, wählt der aktive Spieler, welche dieser Kreaturen Teil der Gruppe werden.
 
-Traits are descriptive attributes (such as “Knight” or “Specter”) that may
-be referenced by other cards. Traits are listed at the top center of a card’s
-text box.
+_**Beispiel**: Kai spielt die Aktionskarte Drei Tode (RdA 071) mit dem Text: „**Spielen**: Zerstöre die 3 stärksten Kreaturen.“ Im Spiel gibt es eine Kreatur mit Stärke 8, eine Kreatur mit Stärke 7 und zwei Kreaturen mit Stärke 5. Kai muss 3 Kreaturen auswählen, um die Gruppe zu bilden, und muss als Erstes die Kreatur mit der Stärke 8 für die Gruppe wählen. Es gibt keine weiteren Kreaturen mit dieser Stärke im Spiel. Um die Gruppe zu füllen, wird die Kreatur mit der nächstniedrigeren Stärke ausgewählt, die Kreatur mit Stärke 7. Nach der Auswahl dieser Kreatur gibt es keine weitere Kreatur mit der Stärke 7 im Spiel, also muss eine Kreatur mit der nächstniedrigeren Stärke ausgewählt werden. Kai muss also 1 der Kreaturen mit Stärke 5 wählen, um die Gruppe zu vervollständigen._
 
-Traits have no inherent game effect, but may be referenced by
-card abilities.
+#### STATIONIEREN
 
-### UNFORGE
+Eine Kreatur mit dem Schlüsselwort Stationieren muss nicht an die Flanke der Schlachtreihe des Spielers, der die Kreatur kontrolliert, gespielt werden. Sobald sie gespielt wird, kann sie stattdessen an eine beliebige Stelle in die Schlachtreihe des sie kontrollierenden Spielers gelegt werden, auch zwischen zwei andere Kreaturen.
 
-If a previously forged key is “unforged,” flip the key token to its unforged
-side. The key no longer counts toward its controller’s victory condition
-and must be forged again to win the game.
+<a name="stehlen"></a>
 
-### USE
+#### STEHLEN
 
-See “Using Cards” on page 6.
+Sobald durch eine Fähigkeit Æmber gestohlen werden, entfernt man die gestohlenen Æmber aus dem Æmber-Vorrat des Gegners und fügt sie dem Æmber-Vorrat des Spielers, der die Stehlen-Fähigkeit abhandelt, hinzu.
+
+Stiehlt eine Fähigkeit mehr Æmber, als der bestohlene Spieler in seinem Vorrat hat, wird nur die vorhandene Menge gestohlen.
+
+#### SUCHEN
+
+Sobald ein Spieler in einem Spielbereich (z. B. einem Deck) nach etwas sucht, sieht er sich alle Karten im entsprechenden Bereich an, ohne sie seinem Gegner zu zeigen. Man darf sich auch dafür entscheiden, das gesuchte Objekt nicht zu finden.
+
+Falls ein gesamtes Deck durchsucht wird, muss das Deck nach Abschluss der Suche gründlich gemischt werden.
+
+Falls ein Ablagestapel durchsucht wird, bleibt die Reihenfolge der Karten unverändert.
+
+#### TAUSCHEN
+
+Wenn zwei Spielelemente getauscht werden, wechseln sie die Plätze miteinander.
+
+Werden zwei Kreaturen getauscht, wechseln sie die Position. Das heißt, dass jede Kreatur den Schlachtreihenplatz der anderen übernimmt. Zwei Kreaturen, die getauscht werden sollen, müssen stets vom selben Spieler kontrolliert werden.
+
+Werden Karten aus zwei bestimmten Spielbereichen getauscht (z. B. eine Karte im Spiel mit einer Karte auf der Hand), wechseln die Karten den Spielbereich.
+
+#### TRANSPLANTIEREN
+
+Falls eine Kartenfähigkeit einen Spieler dazu anweist, eine Karte auf eine andere Karte zu transplantieren, wird die transplantierte Karte aufgedeckt unter die andere Karte gelegt. Die transplantierte Karte gilt nicht als im Spiel befindlich. Falls eine Karte, auf welche eine Karte transplantiert ist, das Spiel verlässt, wird die darauf transplantierte Karte auf den Ablagestapel ihres Besitzes gelegt.
+
+#### UNGESCHMIEDET MACHEN
+
+Wird ein bereits geschmiedeter Schlüssel „ungeschmiedet gemacht“, dreht man den Schlüsselmarker wieder auf die ungeschmiedete Seite. Der Schlüssel zählt nicht mehr zur Siegbedingung seines kontrollierenden Spielers und muss für den Sieg erneut geschmiedet werden.
+
+#### UNIVERSELL
+
+Der aktive Spieler darf während seines Zuges alle von ihm kontrollierten **„Universell:“**-Fähigkeiten auslösen, auch wenn die Karte mit der **„Universell:“**- Fähigkeit nicht zur aktiven Fraktion gehört. Sobald ein Spieler eine Kreatur verwendet, um ihre **„Universell:“**-Fähigkeit auszulösen, erschöpft der Spieler die Kreatur und handelt dann die **„Universell:“**-Fähigkeit ab.
+
+#### UNVERWUNDBAR
+
+Hat eine Kreatur das Schlüsselwort Unverwundbar, kann ihr kein Schaden zugefügt werden und sie kann nicht zerstört werden.
+
+Eine Kreatur mit dem Schlüsselwort Unverwundbar kann das Spiel aber auf andere Weise verlassen (z. B. dadurch, dass sie verbannt, archiviert, auf die Hand zurückgeschickt oder in das Deck ihres Besitzers gemischt wird).
+
+Da eine Kreatur mit dem Schlüsselwort Unverwundbar nicht zerstört werden kann, bleibt sie im Spiel, auch wenn sie 0 Stärke hat.
+
+#### VERBANNEN
+
+Sobald eine Karte verbannt wird, entfernt man sie aus dem Spiel und legt sie aufgedeckt unter die Avatarkarte ihres Besitzers. Verbannte Karten haben keinerlei Auswirkung auf das Spielgeschehen.
+
+#### VERBESSERUNG
+
+Jede Karte mit dem Schlüsselwort „Verbesserung“ fügt zufälligen Karten in ihrem Deck Bonussymbole hinzu. (Dies wurde bereits automatisch während der Deckerstellung umgesetzt.)
+
+Während des Spiels hat das Schlüsselwort „Verbesserung“ keinen Effekt. 
+
+_**Beispiel**: DerMutanten-Taschendieb (MM 252) hat: „Verbesserung DDDDDD.“ Das bedeutet, dass drei DD-Bonussymbole per Zufallsprinzip auf die Karten in seinem Deck verteilt wurden. Der Mutanten-Taschendieb selbst hat während des Spiels keine spezielle Fähigkeit durch sein Schlüsselwort „Verbesserung“._
+
+Bonussymbole, die durch das Schlüsselwort „Verbesserung“ hinzugefügt wurden, sind an diesem grafischen Element zu erkennen. 
+
+#### VERLÄSST DAS SPIEL
+
+Falls eine Karte im Spiel das Spiel verlässt (z. B. wenn sie auf die Hand oder ins Deck zurückgeschickt, zerstört, abgelegt, archiviert oder verbannt wird), werden alle Nicht-Æmbermarker und Statuskarten auf der Karte entfernt, alle ihre Aufwertungen abgelegt und alle andauernden Effekte, die sich auf die Karte auswirken, enden.
+
+Sobald eine Karte von einem Spielbereich in einen Nicht-im-Spiel-Bereich verschoben wird, in der die Identität der Karten vor dem Gegner verborgen ist (z. B. die Hand, das Deck oder das Archiv eines Spielers), verlieren alle ausstehenden Effekte, die derzeit oder in Kürze mit dieser Karte interagieren, ihre Wirkung, es sei denn, ein Karteneffekt besagt ausdrücklich, dass er mit diesem Bereich interagiert.
+
+Falls eine Kreatur mit Æmber das Spiel verlässt, wird dieses Æmber in den Æmber-Vorrat des Gegners zurückgeschickt. Falls eine Nicht-Kreaturen-Karte mit Æmber das Spiel verlässt, wird das Æmber in die gemeinsame Reserve zurückgeschickt.
+
+Sobald eine Karte das Spiel verlässt, wird sie immer in den entsprechenden Nicht-im-Spiel-Bereich ihres Besitzers gelegt, es sei denn, ein Karteneffekt besagt ausdrücklich, dass sie mit diesem Bereich interagiert.
+
+Falls Karten während des Abhandelns einer Fähigkeit das Spiel verlassen, beziehen sich spätere Anweisungen derselben Fähigkeit auf die Karten, so wie sie unmittelbar vor dem Verlassen des Spiels waren.
+
+_**Beispiel**: Der Text von Code-Affe (KW 147) lautet: „**Spielen**: Archiviere jede benachbarte Kreatur. Falls jene Kreaturen eine Fraktion gemeinsam haben, erhältst du 2AA.“ Falls eine der archivierten Karten von einem Effekt betroffen war, der ihre Fraktionszugehörigkeit verändert hat, dann bezieht sich der zweite Teil des Effekts von Code-Affe auf die Fraktionen, denen die Karten unmittelbar vor dem Archivieren angehört haben._
+
+#### VERSCHIEBEN
+
+Sobald eine Karte dazu anweist, Æmber zu verschieben, wird so viel Æmber von einer Karte/einem Ort genommen und auf eine andere Karte bzw. an einen anderen Ort verschoben. Dies zählt nicht als das Erbeuten, Stehlen oder Verlieren von Æmber.
+
+Sobald eine Karte dazu anweist, Schaden zu verschieben, wird so viel Schaden von 1 Karte genommen und auf eine andere Karte gelegt. Diese zweite Karte erleidet dadurch keinen Schaden. Deshalb kann der Schaden auch nicht von Rüstung oder anderen Effekten, die Schaden verhindern, verhindert werden.
+
+Sobald eine Karte dazu anweist, eine Kreatur zu verschieben, muss diese Kreatur unter der Kontrolle des Spielers verbleiben, der sie aktuell kontrolliert, sofern die Karte nicht ebenfalls angibt, dass ein anderer Spieler die Kontrolle über sie übernimmt. Es ist erlaubt, eine Kreatur so zu „verschieben“, dass sie auf ihrer Position in der Schlachtreihe verbleibt.
+
+#### VERWENDEN
+Siehe [„Karten verwenden“](#kartenverwenden).
+
+#### VOR
+
+Falls eine Fähigkeit das Wort „vor“ (z. B. **„Vor der Ernte:“** oder **„Vor dem Kampf:“**) verwendet, wird die Fähigkeit abgehandelt, bevor der Spieleffekt des Erntens oder Kämpfens abgehandelt wird (aber nachdem die Karte erschöpft wird, falls dies für das Verwenden der Karte erforderlich ist).
+
+#### WIEDERHOLEN
+
+Falls ein Kartentext den Spielern die Anweisung gibt, einen Effekt zu wiederholen, wird der gesamte Effekt erneut abgehandelt, einschließlich der Wiederholungsanweisung. Falls die Karte, die den Wiederholungseffekt hervorruft, aus dem Spiel entfernt wird, kann der Effekt nicht mehr wiederholt werden.
+
+**Anm.**: Das Wiederholen eines Effekts ist nicht von der [Sechser-Regel](#sechserregel) betroffen, da die Sechser-Regel nur beim Spielen oder Verwenden von Karten gilt und nicht beim mehrmaligen Auslösen ihrer Effekte.
+
+**Siehe auch**: [Oben genannt](#obengenannt)
+
+#### WÜTEND, WÜTEND MACHEN
+
+Sobald eine Kreatur wütend wird, legt man ein Wütend-Marker auf sie. Sobald eine Kreatur mit einem Wütend-Marker auf sich verwendet wird, muss sie zum Kämpfen verwendet werden, falls möglich. Nachdem eine Kreatur mit einem Wütend-Marker auf sich gekämpft hat, werden alle Wütend-Marker von ihr abgelegt.
+
+Solange eine Kreatur einen Wütend-Marker auf sich hat, kann sie nicht erneut wütend gemacht werden.
+
+#### X
+
+Manchmal wird die Variable „X“ gebraucht, um einen Wert anzugeben, der durch eine Kartenfähigkeit definiert wird. Solange die Variable „X“ nicht durch eine Kartenfähigkeit definiert wird, ist ihr Wert gleich 0.
+
+_**Beispiel**: Scharlatan hat Stärke X und die Fähigkeit: „X ist die kombinierte Stärke der Nicht-Wechselbalg-Nachbarn von Scharlatan.“ Falls dein Gegner nun Schatten von Dis spielt, hat Scharlatan seine Fähigkeit nicht mehr und somit Stärke 0._
+
+#### ZENTRUM DER SCHLACHTREIHE
+
+Eine Kreatur ist im Zentrum der Schlachtreihe, sobald sich zur linken und rechten Seite dieser Kreatur gleich viele Kreaturen befinden.
+
+Es gibt nur dann ein Zentrum der Schlachtreihe, falls sich in der Schlachtreihe eine ungerade Anzahl an Kreaturen befindent. Solange sich eine gerade Anzahl an Kreaturen in der Schlachtreihe befindent, gibt es kein Zentrum. Falls sich nur eine Kreatur in der Schlachtreihe befindent, ist diese Kreatur im Zentrum.
+
+ #### ZERSTÖRT
+ 
+ Sobald eine Karte durch einen Karteneffekt zerstört wird oder sobald eine Karte mindestens so viel Schaden auf sich hat, wie sie Stärke hat, wird sie zum Zerstören markiert. Nachdem sie markiert worden ist, werden die **„Zerstört:“**-Fähigkeiten jener Karte ausgelöst. Zum Schluss wird die markierte Karte auf den Ablagestapel ihres Besitzers gelegt. Falls mehrere Karten gleichzeitig zum Zerstören markiert werden, wählt der aktive Spieler die Reihenfolge, in welcher die **„Zerstört:“**-Fähigkeiten jener Karten abgehandelt werden. Alle markierten Karten werden gleichzeitig auf die Ablagestapel ihrer jeweiligen Besitzer gelegt. Der aktive Spieler entscheidet, in welcher Reihenfolge diese Karten auf den Ablagestapeln ihrer jeweiligen Besitzer angeordnet werden.
+ 
+ Ist eine Kreatur zum Zerstören markiert worden, kann nur noch ein Ersatzeffekt diese Markierung entfernen, der das Wort „stattdessen“ oder „(an)statt“ verwendet. Dadurch wird die Zerstörung der Kreatur ersetzt. Ein Effekt, der die markierte Kreatur heilt, entfernt nicht die Zerstört-Markierung. Ein Effekt darf die markierte Kreatur in einen anderen Nicht-im-Spiel-Bereich (wie auf die Hand oder ins Archiv) verschieben. Dennoch gilt die Kreatur in Bezug auf Karteneffekte, immer noch als „zerstört“.
+ 
+ Falls eine **„Zerstört:“**-Fähigkeit dazu führt, dass noch mehr Karten zerstört werden, werden jene Karten auch zum Zerstören markiert und ihre **„Zerstört:“**-Effekte werden auch ausgelöst, bevor sie auf den Ablagestapel gelegt werden. Keine der zum Zerstören markierten Karten wird auf den Ablagestapel ihres jeweiligen Besitzers gelegt, bis alle **„Zerstört:“**-Effekte fertig abgehandelt sind.
+ 
+ Spieler können keine Kreatur zum Opfern oder Zerstören wählen, die bereits zum Zerstören markiert worden sind. Eine Karte, die bereits zum Zerstören markiert worden ist, kann nicht erneut zum Zerstören markiert werden und jeder Effekt, der versucht eine solche Karte zu opfern oder zu zerstören, scheitert. Die **„Zerstört:“**-Fähigkeiten jener Karte können nur ein Mal ausgelöst werden.
+ 
+ Es können nur die **„Zerstört:“**-Fähigkeiten einer Karte ausgelöst werden, die sie zum Zeitpunkt ihrer Markierung hatte. Falls eine Karte nach ihrer Markierung eine **„Zerstört:“**-Fähigkeit erhält, wird jene Fähigkeit nicht ausgelöst.
+ 
+ Geopferte Karten werden ebenfalls zum Zerstören markiert, gelten ebenfalls als zerstört und durchlaufen den gleichen oben genannten Prozess der Zerstörung.
+ 
+ _**Beispiel**: Zwischen 4 anderen Kreaturen hat Daniel einen Archimedes (ZdA 108) in seiner Schlachtreihe liegen. Sein Gegner spielt eine Pforte nach Dis (RdA 059) und zerstört jede Kreatur. Zuerst werden Daniels Kreaturen alle zum Zerstören markiert. Dann werden die **„Zerstört:“**-Effekte der Nachbarn von Archimedes ausgelöst, was sie beide archiviert. Sofort werden die Lücken in der Schlachtreihe geschlossen und Archimedes bekommt zwei neue Nachbarn. Da diese bereits zum Zerstören markiert worden sind, können sie keine neue **„Zerstört:“**-Fähigkeit erhalten und werden zusammen mit Archimedes auf den Ablagestapel gelegt._
+ 
+ _**Beispiel**: Maja hat folgende Kreaturen im Spiel: Jehu der Bürokrat (RdA 250), Duma die Märtyrerin (RdA 242) mit 2 Schaden auf sich und Feldherr Remiel (RdA 241) mit 1 Schaden auf sich. Ihr Gegner spielt eine Giftwelle (RdA 280) und fügt jeder Kreatur 2 Schaden zu. Dieser Schaden führt dazu, dass Duma die Märtyrerin und Feldherr Remiel zum Zerstören markiert werden. Dadurch wird der **„Zerstört:“**-Effekt von Duma die Märtyrerin ausgelöst, der Jehu der Bürokrat und Feldherr Remiel heilt. Da Feldherr Remiel bereits zum Zerstören markiert ist, wird er dennoch zusammen mit Duma die Märtyrerin auf den Ablagestapel gelegt. Jehu der Bürokrat überlebt ohne einen Kratzer._
+ 
+ _**Beispiel**: Markus hat einen Groggins (ZdA 011) mit einem Phönixherzen (RdA 051) im Spiel. Seine Gegnerin Jenny hat ein Staubteufelchen (RdA 083) mit einem Seelenwächter (ZdA 083), eine Tranfunzel (RdA 082) und einen Schleifer (RdA 095) im Spiel. Markus greift das Staubteufelchen mit seinem Groggins an, was dazu führt, dass das Staubteufelchen zum Zerstören markiert wird. Die **„Zerstört:“**-Fähigkeit des Staubteufelchens und die **„Zerstört:“**-Fähigkeit, die der Seelenwächter dem Staubteufelchen gewährt, werden gleichzeitig ausgelöst. Markus entscheidet sich dazu, seine Gegnerin zuerst 2 Æmber erhalten zu lassen und dann den Seelenwächter auszulösen, der seine stärkste Kreatur – Groggins – zerstört. Sobald Groggins zum Zerstören markiert wird, wird der Effekt auf dem angelegten Phönixherz ausgelöst. Dadurch wird Groggins auf Markus’ Hand zurückgeschickt und jeder anderen Kreatur werden 3 Schaden zugefügt. Dieser Schaden markiert nun die Tranfunzel und den Schleifer zum Zerstören. Zum Schluss werden alle Kreaturen, die sich noch im Spiel befinden (Staubteufelchen, Tranfunzel und Schleifer), auf den Ablagestapel ihrer jeweiligen Besitzers gelegt. Die Reihenfolge darf Markus festlegen._
+ 
+ #### ZIEHEN-BONUSSYMBOL RR
+ 
+ Siehe [„Bonussymbole“](#bonussymbole).
+ 
+ #### ZURÜCKSCHICKEN
+ 
+ Wird erbeutetes Æmber zurückgeschickt, legt man es in den Æmber-Vorrat des Gegners.
 
 <a name='errata'></a>
 
 # ERRATA
 
-This section conatins the official errata that have been made to individual
-cards in _KeyForge_. Errata overides the printed information on the card it
-applies to.
+Dieser Abschnitt enthält die offiziellen Errata, die zu einzelnen Karten in _KeyForge_ gemacht wurden. Errata überschreiben die gedruckten Informationen auf der Karte, für die sie gelten.
 
-## Library Access (COTA 115)
-Should read: “Play: For the remainder of the turn, each time you play
-another card, draw a card. Purge Library Access.”
+**Back-up der Biomatrix (RdA 208)** Der Kartentext sollte lauten: „Diese Kreatur erhält: „**Zerstört**: Lege diese Kreatur ins Archiv ihres Besitzers.“
 
-## Biomatrix Backup (COTA 208)
-Should read: “This creature gains, ”**Destroyed**: Put this creature into its owner’s archives.””
+**Bauernopfer (RdA 279)** Der Kartentext sollte lauten: „**Spielen**: Opfere eine befreundete Kreatur. Falls du das tust, fügst du 2 Kreaturen je 3{D} zu.“
 
-## Bait and Switch (COTA 267)
-Should read: “Play: If your opponent has more {A} than you, steal 1{A}.
-Repeat the preceding effect if your opponent still has more {A} than you.”
+**Bibliothekszugang (RdA 115)** Der Kartentext sollte lauten: „**Spielen**: Für den Rest des Zuges ziehst du immer, wenn du eine andere Karte spielst, eine Karte. Verbanne Bibliothekszugang.“
 
-## Drummernaut (AOA 006)
-Should read: “Play/Fight/Reap: Return another friendly Giant creature to
-your hand.”
+**Experimentelle Therapie (RdA 157)** Der Kartentext sollte lauten: „Diese Kreatur darf verwendet werden, als ob sie zur aktiven Fraktion gehören würde. **Spielen**: Betäube und erschöpfe diese Kreatur.“
+
+**Köder (RdA 267)** Der Kartentext sollte lauten: „**Spielen**: Falls dein Gegner mehr {A} hat als du, stiehlst du 1{A}. Wiederhole den oben genannten Effekt, falls dein Gegner immer noch mehr {A} als du hat.“
+
+**Schmerzhafte Ranken (RdA 064)** Der Kartentext sollte lauten: „**Spielen**: Füge jeder Kreatur 1{D} zu. Falls dein Gegner in seinem letzten Zug einen Schlüssel geschmiedet hat, fügst du stattdessen jeder Kreatur 4{D} zu.“
+
+**Back-up der Biomatrix (ZdA 124)** Der Name dieser Logos-Karte sollte Sicherheitskopie lauten. **Achtung**: Diese Karte ist nicht identisch mit der Mars-Karte **Back-up der Biomatrix (RdA 208)**.
+
+**Doppelte Bruchstelle (ZdA 109)** Der Kartentext sollte lauten: „Alpha. **Spielen**: Jeder Spieler erhält {A} in Höhe des {A} in seinem Vorrat.“
+
+**Drummernaut (ZdA 006)** Der Kartentext sollte lauten: „**Spielen/Kampf/Ernte**: Schicke eine andere befreundete Riese-Kreatur auf deine Hand zurück.“
+
+**Ein Leben für ein Leben (ZdA 273)** Der Kartentext sollte lauten: „**Spielen**: Opfere eine Kreatur. Falls du das tust, füge einer Kreatur 6{D} zu.“
+
+**Elende Puppe (ZdA 107)** Der Kartentext sollte lauten: „**Aktion**: Falls ein Verderbensmarker im Spiel ist, zerstöre alle Kreaturen mit Verderbensmarker. Andernfalls lege einen Verderbensmarker auf eine Kreatur.“
+
+**Entropischer Wirbel (ZdA 143)** Der Kartentext sollte lauten: „**Spielen**: Wähle eine Kreatur. Füge jener Kreatur für jedes Merkmal, das sie hat, 2{D} zu und erhalte 1 {A}.“
+
+**Lollop der Titanische (ZdA 014)** Der Kartentext sollte lauten: „Lollop der Titanische fügt keinen Schaden zu, sobald er angegriffen wird.“
+
+**Prince Derric der Einiger (ZdA 240)** Der Name dieser Karte sollte **Prinz Derric der Einiger** lauten.
+
+**Schatten von Dis (ZdA 103)** Der Kartentext sollte lauten: „**Spielen**: Bis zu deinem nächsten Zug gelten die Textkästen feindlicher Kreaturen als leer (außer Merkmale).“
+
+**Schmerzreaktion (ZdA 078)** Der Kartentext sollte lauten: „**Spielen**: Füge einer feindlichen Kreatur 2{D} zu. Falls dieser Schaden jene Kreatur zerstört, füge jedem Nachbarn dieser Kreatur 2{D} zu, nachdem sie das Spiel verlassen hat.“
 
 <a name='faq'></a>
 
 # FREQUENTLY ASKED QUESTIONS
 
-This section provides answers to a number of common questions that
-are asked about the game. These questions are presented in a “Question and Answer” format, with the newest questions at the end.
+Dieser Abschnitt gibt Antworten auf besonders häufig gestellte Regelfragen. Präsentiert werden sie im klassischen FAQ-Format, und sie sind grob in Themengebiete unterteilt.
 
-#### My opponent has 14 Æmber in their pool and I have 0 in mine. At the start of my turn I select Shadows as the active house and play the card Bait and Switch (CoTA 267). How many times does Bait and Switch trigger?
-In this situation, Bait and Switch’s effect will be triggered 2 times. When
-the effect is triggered for the first time time it checks if your opponent
-has more Æmber than you, and if they do it will repeat the first effect
-again, stealing another Æmber. However, since the card says to repeat
-the preceding effect and not the whole effect it can only ever trigger
-twice. 
+## Alpha
 
-#### Its the first turn of the game and I am going first. I choose house Logos to be the active house and play the card Phase Shift (CoTA 117). Does this allow me to play another card this turn even though the First Turn Rule (see page 5) is in effect?
+**Kann ich Mimikry (RdA 328) als eine Kopie von Heureka! (ZdA 128) spielen, falls ich in diesem Zug bereits eine andere Karte gespielt habe?**
 
-Playing Phase Shift will allow you to play another card from your hand this turn, since the First Turn Rule can be modified by card effects.
+Nein. Falls Mimikry als eine Kopie von Heureka! gespielt wird, besitzt sie dadurch auch das Schlüsselwort Alpha. Da du bereits eine andere Karte in diesem Zug gespielt hast, ist es dir nicht möglich, in diesem Zug eine Alpha-Karte zu spielen. Deshalb wird Mimikry nicht gespielt und geht auf deine Hand zurück.
 
-#### Its the first turn of the game and I am going first. I choose house Logos to be the active house and play the card Wild Wormhole (CoTA 125). Can Wild Wormhole’s effect be resolved even though the First Turn Rule (see page 5) is in effect?
+**Kann ich Mimikry (RdA 328) als eine Kopie von Heureka! (ZdA 128) als Erstes in Schritt 3 meines Zugs spielen?**
 
-Wild Wormhole’s effect can be resolved. The First Turn Rule specifies
-that players cannot play or discard more than one card from their hand.
-However it does not prohibit cards from being played or discarded
-from other game areas, such as your deck.
+Ja. Mimikry wird als eine Kopie von Heureka! gespielt und besitzt dadurch auch das Schlüsselwort Alpha. Da du zuvor noch nichts anderes getan hast (eine Karte gespielt, abgelegt oder verwendet hast), kannst du in diesem Zug die Alpha-Karte noch spielen.
 
-#### I have 2 chains and 7 cards in hand when moving to my draw cards step. Will I shed a chain during this step?
+## „Als ob“
 
-No, you will not shed a chain during this draw cards step. Chains are
-only shed when a player would draw cards during the draw step and
-the chains prevent them from doing so (see “Chains” on Page 8). Since
-you already have 7 cards in your hand, you aren’t going to be drawing
-any cards, and thus don’t lose any of your chains.
+**Ich ernte mit Nexus (RdA 305), was mir erlaubt, ein Artefakt des Gegners zu verwenden, „als ob es meines wäre“. Ich entscheide mich für die Scherbe des Neids (ZdA 315) meines Gegners. Dieses Artefakt lässt mich „für jede befreundete Scherbe“ 1 Æmber erhalten. Die Scherbe des Neids ist die einzige Scherbe im Spiel. Wie viel Æmber erhalte ich?**
 
-#### I have 2 chains and 5 cards in hand when moving to my draw cards step. Will I shed a chain during this step?
+1 Æmber. Du verwendest die Scherbe des Neids, als ob sie deine wäre. Deshalb zählt die Scherbe des Neids im Bezug auf ihre Fähigkeit als befreundete Scherbe.
 
-Yes, you will shed a chain during this step. Chains are only shed when a
-player would draw cards during the draw step and the chains prevent
-them from doing so (see “Chains” on Page 8). You only have 5 cards in
-hand, and normally you would draw a card to refill your hand. However
-because of the chains you are prevented from drawing that card. Since
-you would normally have drawn the card and the chain prevented it,
-you then shed 1 chain.
+**Ich ernte mit Replikator (RdA 150) und verwende seine Fähigkeit, um den Ernte-Effekt auf Sequis (RdA 257) meines Gegners auszulösen, als ob ich ihn kontrollieren würde. Aus dem Vorrat welchen Spielers erbeutet Sequis das Æmber?**
 
-#### I have a creature that has the card Biomatrix Backup (CoTA 208) attached. Its my opponent’s turn and they use one of their creatures to attack and destroy my creature. What happens?
+Sequis erbeutet 1 Æmber aus dem Vorrat deines Gegners. Du verwendest Sequis, als ob du ihn kontrollieren würdest. Die Standardregel führt dazu, dass Æmber aus dem Vorrat des Gegners erbeutet wird.
 
-Since it is your opponent’s turn and they are the active player, they will
-get to make all decisions for all cards. In this case Biomatx Backup has
-the word “may”, meaning that the effect is optional. Thus if your creature
-is destroyed with the upgrade on it during your opponent’s turn, your
-opponent will decide whether the card is put into your archives or not.
+## Archiv
 
-#### I have the card Pitlord (CoTA 093) in play and my opponent plays the card Restringuntus (CoTA 094) and chooses house Dis. What happens when I go to declare my house on my next turn?
+**Mein Gegner legt 2 meiner Kreaturen mit der Karte Probensammlung (RdA 175) in sein Archiv. In meiner nächsten Runde spiele ich die Karte Dysania (RdA 141). Was passiert?**
 
-On your next turn during the choose a house step of your turn you
-will be in a position where you must choose house Dis because of the
-Pitlord, but also cannot choose house Dis because of the Restringuntus.
-In this case no house is a legal option to be your active house and you
-must declare no house as your active house (see “House Choice” on
-Page 10.)
+Wenn du Dysania spielst, wird jede archivierte Karte deines Gegners abgelegt. Allerdings besagt Probensammlung, dass diese Kreaturen, sobald sie das Archiv verlassen, auf die Hand ihres Besitzers genommen werden. Deshalb werden die Kreaturen stattdessen auf deine Hand zurückgeschickt. Da diese Karten nicht durch den Effekt von Dysania abgelegt wurden, erhältst du kein Æmber für die Abhandlung dieses Effekts.
 
-#### I have chosen house Logos to be my active house this turn and start off by playing Library Access (CoTA 115), I then play Wild Wormhole (CoTA 125). In what order do I resolve this combination of effects?
+## „Auf diese Weise“
 
-When you play a Wild Wormhole after playing a Library Access the
-following happens in this order:
+**Wenn ich die Aktion der Obsidian-Schmiede (KW 025) verwende und entscheide, eine meiner Kreaturen mit einem Beschützt-Marker zu opfern, reduziert diese Kreatur dann die Schmiedekosten?**
 
-1. You gain 1 Æmber from Wild Wormhole’s Æmber bonus.
-2. You draw a card from Library Access’s effect.
-3. You resolve Wild Wormhole’s effect and play the top card of your deck.
-4. You gain Æmber from any Æmber bonus on the played card.
-5. You draw a card from Library Access’s effect.
-6. You resolve any play effects on the card played from the top of your deck.
+Nein. Wenn sie nicht „auf diese Weise zerstört“ wurde, reduziert sie die Schmiedekosten nicht.
 
-#### I have the card Pitlord (CoTA 093) in play and my opponent plays the card Restringuntus (CoTA 094) and chooses house Dis. What happens when I try to declare my house on my next turn?
+**Wenn ich die „Universell:“-Fähigkeit von Saurianer-Ei (MM 210) verwende und beide aufgedeckten Karten Saurianer-Kreaturen sind, kommen sie dann beide ins Spiel? Und erhalten sie beide jeweils drei „+1 Stärke“-Marker?**
 
-On your next turn, during the choose a house step, you will be in a position where you must choose house Dis (because of the Pitlord), but also cannot choose house Dis (because of the Restringuntus). Cannot effects have precedence over must effects, thus you cannot choose Dis. (see “Cannot Vs Must” on Page 9.) You may still choose either one of your other houses though.
+Ja und ja. Manche Saurianer-Eier enthalten eben Zwillinge!
 
-#### I have a Faygin (CoTA 300) in play and my opponent has an Urchin (CoTA 315) in play. I reap with Faygin and with its reap effect I choose my opponent’s Urchin. What happens?
+## Betäuben
 
-Faygin’s effect causes the Urchin to try and go into your hand, however when a card leaves play it always goes to its owner’s corresponding out of play zone (See “Leaves Play” on Page 11) unless the card causing it to leave play specifies otherwise. The Urchin is returned to your opponent’s hand instead of yours.
+**Ich habe eine betäubte Kreatur in meiner Schlachtreihe, spiele die Karte Zorn (RdA 001) und beschließe, ihren Effekt auf diese betäubte Kreatur abzuhandeln. Was passiert?**
 
-#### I have 0 Æmber in my Æmber pool and have chosen house Logos to be my active house this turn. I play Wild Wormhole (CoTA 125) and try and play the top card of my deck is Kelifi Dragon (CoTA 037). What happens?
+Falls eine Karte (wie in diesem Fall Zorn) es dir erlaubt, eine Kreatur zu verwenden, und falls die Kreatur, die du zu verwenden versuchst, betäubt ist, entfernst du die Betäubung, anstatt etwas anderes zu tun. Da Kämpfen eine Art ist, eine Kreatur zu verwenden, wird sie erschöpft und die Betäubt-Statuskarte entfernt.
 
-The Kelifi Dragon is returned to the top of the deck. Kelifi Dragon has a play requirement of needing to have 7 Æmber in your Æmber pool, and since you didn’t have any initially (you now have 1 from playing the Wild Wormhole) you don’t have enough to be able to play the Kelifi Dragon. Since you can’t play the card it is returned to the place you tried to play it from, in this case the top of the deck.
+Dies funktioniert auch, wenn dein Gegner keine Kreaturen im Spiel hat, denn eine Betäubt-Statuskarte zu entfernen ersetzt die normale Verwendung der Karte (in diesem Fall Kampf), bevor sie überhaupt beginnt.
 
-#### On my opponent’s turn they use their Yxilo Bolter (CoTA 204) to reap and choose to resolve its reap effect on my Bad Penny (CoTA 296). Is the Bad Penny purged or does it end up back in my hand?
+**Ich spiele Maaansch (RdA 046), aber jede der Kreaturen meines Gegners ist bereits betäubt. Muss ich den Effekt auf Maaansch abhandeln?**
 
-The Bad Penny goes back to your hand. **“Destroyed:”** effects (see “Destroyed” on Page 10) happen immediately before a creature is destroyed, meaning that Bad Penny is back in its owner’s hand before the Yxilo Bolter can try to purge it with its reap effect. At that point, any pending effects waiting to resolve on Bad Penny no longer do. This is because Bad Penny is moving to an out-of-play zone in which the identity of cards is hidden from the opponent (see “Leaves Play” on Page 11).
+Nein. Du kannst dich trotzdem dafür entscheiden, den **„Spielen:“**-Effekt von Maaansch gegen eine der Kreaturen deines Gegners abzuhandeln, dennoch kannst du keine Betäubt-Statuskarte auf eine bereits betäubte Kreatur legen. Somit passiert nichts.
 
-#### I have a stunned creature in my battleline, play the card Anger (CoTA 001), and choose to resolve its effect on that stunned creature. What happens?
+## Bibliothekszugang
 
-If a card (such as Anger in this case) allows you to use a creature and if the creature you are trying to use is stunned, you remove the stun instead of doing anything else. Since Fighting is a type of being used the creature is exhausted and the stun counter is removed.
+**Ich habe in meinem Zug Logos als aktive Fraktion gewählt und beginne mit dem Spielen der Karte Bibliothekszugang (RdA 115), gefolgt von Wildes Wurmloch (RdA 125). In welcher Reihenfolge handle ich diese Kombination von Effekten ab?**
 
-This will even work if your opponent has no creatures in play, because unstunning replaces the normal “use” (in this case fight) of the card before it begins.
+Wenn du ein Wildes Wurmloch spielst, nachdem du einen Bibliothekszugang gespielt hast, passiert Folgendes in nachstehender Reihenfolge:
 
-#### I have chosen house Logos to be my active house this turn and play a Phase Shift (COTA 117) then play another copy of Phase Shift. How many non-Logos cards can I play this turn?
+1. Du erhältst 1 Æmber durch den Æmber-Bonus von Wildes Wurmloch.
+2. Die Effekte von Bibliothekszugang und Wildes Wurmloch geschehen gleichzeitig, sodass du sie in beliebiger Reihenfolge abhandeln darfst.
+3. Du erhältst Æmber durch den Æmber-Bonus von der Karte, die du oben von deinem Deck gespielt hast.
+4. Gegebenenfalls handelst du die Spielen-Effekte der Karte ab, die du oben von deinem Deck gespielt hast. Diese geschehen gleichzeitig mit dem Effekt auf Bibliothekszugang. Du darfst sie in beliebiger Reihenfolge abhandeln.
 
-You can play two non-Logos cards this turn. Each copy of Phase Shift that you play allows you to play an additional non-Logos card.
+## Bonussymbole
 
-#### I have a Stealer of Souls (CoTA 098) in play and my opponent has a Valdr (CoTA 029). I use my Stealer of Souls to fight Valdr and both creatures are destroyed. Does the Stealer of Souls’ ability trigger?
+**Wenn ich ein Düsterhorn (MM 040) mit einem Schaden-Bonussymbol spiele, fügt sein Schadenssymbol dann 1 zusätzlichen Schaden zu?**
 
-No, the Stealer of Souls’ ability will not trigger. In order for the Stealer of Souls ability to trigger it must be in play, so if both the Stealer of Souls and the creature it is fighting die, they die simultaneously and the Stealer of Souls ability cannot trigger (see “Destroyed” on Page 10).
+Ja. Kreaturen sind schon im Spiel, bevor ihre Bonussymbole ausgelöst werden. In diesem Fall wäre die konstante Fähigkeit des Düsterhorns bereits aktiv, bevor du mit seinen Bonussymbolen Schaden zufügst.
 
-#### I play the card Library Access (CoTA 115). Is the card immediately put in the discard pile? Or does it remain in play as long as the effect is active.
+**Wenn ich Knochensäge (MM 002) mit einem Schaden-Bonussymbol spiele und dieses verwende, um eine befreundete Kreatur zu zerstören, kommt Knochensäge dann spielbereit ins Spiel?**
 
-Action cards are immediately put into the discard pile after their effects resolve. In the case of an Action card that has a lasting effect like Library Access, once the effect is established by resolving the card, the card is immediately put into the discard pile and does not remain in play.
+Nein. Da Knochensäge schon im Spiel ist, bevor du seine Bonussymbole abhandelst, ist er bereits erschöpft ins Spiel gekommen.
 
-#### I have a Combat Pheromones (CoTA 180), “John Smyth” (CoTA 195), and Mindwarper (CoTA 196) in play. I sacrifice the Combat Pheromones and reap with the Mindwarper, and then reap with “John Smyth” and use “John Smyth’s” reap effect to ready the Mindwarper. Can I use the Mindwarper again?
+**Wenn ich Wilde Hülle und Fülle (MM 392) spiele, sind mit „Bonussymbole“ dann alle Symbole einer Karte gemeint oder nur diejenigen, die durch das Schlüsselwort „Verbesserung“ hinzugefügt wurden?**
 
-Yes, Combat Pheromones is granting permission to use a creature during that turn. If you have an effect that readies one of the Mars cards affected by the Combat Pheromones (Such as “John Smyth”), you will be able to use that card again.
+Es sind alle Symbole gemeint. Selbst die Æmber-Symbole, die immer auf deiner Karte auftauchen, gelten als Bonussymbole.
 
-#### I play King of the Crag (CoTA 038) while my opponent has a Looter Goblin (CoTA 041) in play. What happens?
+**Wenn ich ein Schulter-Es (MM 257) mit einem Schaden-Bonussymbol spiele, zählt das Abhandeln dieses Symbols dann als Schaden, den das Schulter-Es zugefügt hat, sprich: Würde mich dieses Symbol stattdessen stehlen lassen?**
 
-The rules for damage state that “If a creature has as much or more damage on it as it has power, the creature is destroyed and placed on top of its owner’s discard pile.” When a creature has 0 power, if it has 0 damage on it, it is destroyed.
+Nein. Auch wenn sich das Bonussymbol auf dem Schulter-Es befindet, ist das Schulter-Es selbst nicht die Quelle dieses Schadens.
 
-#### My opponent has a Banner of Battle (CoTA 020) in play. Can I play the card Poltergeist (CoTA 069) to destroy the Banner of Battle, even if the artifact can’t be used?
+**Wenn ich Echter Fünfziger (MM 255) mit einem Schaden-Bonussymbol spiele und zu diesem Zeitpunkt keine anderen Kreaturen im Spiel sind, wird dieser Schaden dann Echter Fünfziger zerstören, bevor mich ihr „Spielen:“-Effekt 1 Æmber stehlen lässt?**
 
-Yes, you can resolve the effect of Poltergeist on any artifact in play even if the artifact cannot be used. You just resolve as much of the card effect as you can (see “Resolve As Much As You Can” on Page 7), and to resolve this situation you just destroy the artifact.
+Ja. Sie verlässt das Spiel, bevor ihr **„Spielen:“**-Effekt überhaupt die Gelegenheit hatte, ausgelöst zu werden.
 
-#### I have no creatures in play and my opponent has two. Can I play the card Lost in the Woods (CoTA 327) even though I don’t have two creatures in play?
+**Wenn ich Echter Fünfziger (MM 255) mit einem Schaden-Bonussymbol und einem Ziehen-Bonussymbol spiele und zu diesem Zeitpunkt keine anderen Kreaturen im Spiel sind, wird dieser Schaden dann Echter Fünfziger zerstören, bevor ich ihr Ziehen-Symbol abhandeln kann?** 
 
-Yes you can. The “Resolve As Much As You Can” rule (see Page 7) says that you resolve as much of a card effect as possible and any part of a card you cannot resolve is ignored. In the context of Lost in the Woods, it means that you shuffle in as many of the creatures as you can. So in the case that your opponent has two or more creatures in their battleline and you have none, you will shuffle in two enemy creatures and no friendly creatures.
+Nein. Ihr Ziehen-Symbol wird trotzdem abgehandelt. Ist eine Karte erst einmal gespielt, werden alle ihre Bonussymbole abgehandelt, selbst wenn die Karte das Spiel verlässt.
 
-#### I have an exhausted Bumpsy (CoTA 030) in play and my opponent has no creatures in their battleline. I play the card Anger (CoTA 001) and choose to resolve it on Bumpsy. What happens?
+**Wenn ich eine Karte mit zwei Schaden-Bonussymbolen spiele und mein Gegner eine Kreatur mit Stärke 1 und einem Beschützt-Marker hat, kann ich diese Kreatur dann zerstören?**
 
-The Bumpsy will be readied by the effect of Anger, but since there are no enemy creatures in play it cannot be used to fight so it stays ready. The creature can then be used as per the standard rules.
+Ja. Jedes Schaden-Bonussymbol wird separat abgehandelt. Das erste Schaden-Bonussymbol kann also den Beschützt-Marker entfernen und das zweite kann anschließend die Kreatur beschädigen.
 
-#### I control a Spangler Box (CoTA 132) that has purged my own Kelifi Dragon (CoTA 037). The Spangler Box is returned to its owner’s hand with Grasping Vines (CoTA 324), but I don’t have any Æmber. Do I get my Kelifi Dragon back?
+## Erkundung
 
-Yes. The Kelifi Dragon is not being played when it is returned by the Spangler Box, it is being put into play. Being put into play bypasses the normal play restrictions, meaning that the Kelifi Dragon is put back into play no matter how much Æmber you have.
+**Wenn ich Erkundung (MM 316) spiele, was passiert dann mit der Karte, die ich ansehe und nicht ablege?**
 
-#### I play Smaaash (CoTA 046), but each of my opponent’s creatures is already stunned. Do I have to resolve the effect against Smaaash itself?
+Du legst sie einfach wieder oben auf dein Deck zurück. Grundsätzlich gilt: Wenn du angewiesen wirst, dir eine Karte anzusehen und nichts Weiteres mit ihr zu tun, legst du sie genau dorthin zurück, wo sie zuvor war.
 
-No. You may still choose to resolve Smaaash’s **“Play:”** effect against one of your opponent’s creatures, however you cannot put a stun counter on an already stunned creature so nothing will happen.
+## Ersatzeffekte
 
-#### My opponent puts two of my creatures into their archives using the card Sample Collection (CoTA 175). On my next turn I play the card Dysania (CoTA 141). What happens?
+**Ich spiele die Karte Nervenschock (RdA 276), während mein Gegner 2 Æmber in seinem Vorrat hat und eine Kopie von Pos Feen (ZdA 362) kontrolliert. Ist es mir möglich, mit dem Effekt von Nervenschock 2 Schaden zuzufügen?**
 
-Playing the Dysania will cause each of your opponent’s archived cards to be discarded, however since the Sample Collection states that when these creatures leave the archives they are put into their owner’s hand instead these cards are returned to your hand. Since these cards were not discarded by Dysania’s effect, you will not gain any Æmber from the resolution of that effect.
+Ja. Pos Feen hat ein Ersatzeffekt, der den Ort ändert, von wo das Æmber gestohlen wird (aus der allgemeinen Reserve statt aus dem Vorrat deines Gegners). Dennoch gilt das Æmber als „gestohlen“, wodurch die „Falls du das tust“-Bedingung von Nervenschock erfüllt wird.
 
-#### I have Shadow Self (CoTA 310) with a Raiding Knight (CoTA 255) as a neighbor. My Raiding Knight is then attacked by a 4 power creature. How much damage does each creature take in this situation?
+**Mein Gegner hat Sir Mark (ZdA 223) im Spiel. Falls ich ein Dimensionsportal (RdA 108) spiele und dann mit einer Kreatur ernte, erbeutet Sir Mark das Æmber von der erntenden Kreatur?**
 
-In this case, the Shadow Self will take 2 damage, the Raiding Knight will take no damage, and the 4 power creature will take 4 damage and be destroyed. This happens because before the damage can be dealt to the Raiding Knight, two of it is prevented by its armor. Then when the damage is actually being dealt, the damage that would be dealt to the Raiding Knight is dealt to the Shadow Self instead. At the same time as the Shadow Self is being dealt damage, the 4 power creature takes 4 damage from the Raiding Knight’s power.
+Nein. In diesem Fall wird der Effekt, durch Ernten Æmber zu erhalten, durch das Stehlen von Æmber von deinem Gegner ersetzt. Das bedeutet, dass du das Æmber nicht direkt durch das Ernten bekommst. Dadurch ist es Sir Mark nicht möglich, es zu stehlen.
 
-#### I have a maverick Pitlord in play in a deck without house Dis. Am I forced to choose house Dis as my active house?
-No. You cannot choose an active house unless it is on your identity card
-or you control a card of that house. This restriction overrides Pitlord’s
-effect, allowing you to choose any of your houses as your active house.
+**Ich habe eine Kreatur mit der Aufwertung Diskombobulator (KW 149) und mein Gegner hat Gargantodon (KW 203). Jetzt versucht mein Gegner, 1 Æmber von mir zu stehlen. Was passiert?**
 
-#### What happens if I use Spectral Tunneler on a non-flank creature (causing it to be considered a flank creature), then play Positron Bolt on that creature?
-Positron Bolt will deal 3 damage to that creature. You will choose one of that creature’s neighbors to deal 2 damage to, and then deal 1 damage
-to the other neighbor of that second creature.
+Nichts passiert. Der Diskombobulator besagt, dass dein Æmber nicht gestohlen werden kann. Es gibt also nichts, das vom Ersatzeffekt des Gargantodon ersetzt werden könnte. Der Stehlen-Effekt deines Gegners scheitert.
 
-#### If I use Gabos Longarms to attack a creature without elusive, can I use Gabos’s “Before Fight” ability to deal damage to an elusive creature instead, or will the elusive keyword prevent the damage?
-Gabos Longarms can deal damage to an elusive creature using its ability.
-The elusive ability prevents damage only when the creature is attacked—
-because Gabos is not actually attacking the elusive creature, the elusive
-keyword will not protect it.
+**Ich habe Pos Feen (ZdA 362) und mein Gegner hat zwei Kopien von Sir Mark (ZdA 223). Ich ernte mit Pos Feen. Erbeuten beide Sir Marks Æmber aus der allgemeinen Reserve?**
 
-#### What happens if I use Replicator to trigger the reap effect of an opponent’s Sanctum Guardian?
-Sanctum Guardian’s reap effect will do nothing. The effect would attempt
-to swap Sanctum Guardian into your battleline, but a creature is only
-allowed to be in its controller’s battleline. Since the effect does not also
-change control of Sanctum Guardian, it fails to resolve.
+Ja. Jeder Sir Mark sieht das Æmber, das du durch dein Ernten erhältst, und versucht es zu erbeuten. Normalerweise würde das nur einem von ihnen gelingen, aber da Pos Feen den Erbeutungsversuch durch ein Erbeuten aus der allgemeinen Reserve ersetzen, ist dieses spezielle Æmber immer noch da, wenn der zweite Sir Mark seinerseits einen Erbeutungsversuch startet. Es versuchen also beide Sir Marks, einer nach dem anderen, dasselbe Æmber zu erbeuten und jeder Versuch wird durch ein Erbeuten aus der allgemeinen Reserve ersetzt.
 
-#### If I play Mimicry as a copy of an action card in my opponent’s discard pile, which card does the Rule of Six apply to?
-For the purposes of the Rule of Six, you are considered to have played the copied card.
+## Erster Spielzug
 
+**Es ist die erste Runde des Spiels und ich bin Startspieler. Ich wähle Logos als aktive Fraktion und spiele die Karte „Phasenverschiebung“ (RdA 117). Gestattet mir das, trotz der Regel für den ersten Zug (siehe Seite 5) eine weitere Karte zu spielen?**
 
-#### I have Grasping Vines under Masterplan. If I use Masterplan’s “Omni” effect to play Grasping Vines, can I return Masterplan to my hand before it is sacrificed?
-Yes. Masterplan’s effect allows you to play the card beneath it before
-sacrificing Masterplan. Masterplan is still in play at the time you play
-Grasping Vines, and therefore can be returned to your hand using
-Grasping Vines’s effect
+Das Spielen von Phasenverschiebung erlaubt dir, in diesem Zug eine weitere Karte von deiner Hand zu spielen, da die Regel für den ersten Zug durch Karteneffekte verändert werden kann.
+
+**Es ist die erste Runde des Spiels und ich bin Startspieler. Ich wähle Logos als aktive Fraktion und spiele die Karte „Wildes Wurmloch“ (RdA 125). Kann der Effekt des Wilden Wurmlochs trotz der Regel für den ersten Zug (siehe Seite 5) abgehandelt werden?**
+
+Der Effekt des Wilden Wurmlochs kann abgehandelt werden. Die Regel für den ersten Zug besagt, dass nicht mehr als 1 Karte von der Hand gespielt oder abgelegt werden kann. Sie verbietet jedoch nicht, dass Karten aus anderen Spielbereichen, wie z. B. deinem Deck, gespielt oder abgelegt werden.
+
+## Erwachter Albtraum
+
+**Wenn ich Erwachter Albtraum (MM 017) spiele und anschließend weitere Dis-Kreaturen ins Spiel kommen oder das Spiel verlassen, verändern sich dann die Schmiedekosten meines Gegners oder werden sie in dem Moment festgesetzt, in dem ich Erwachter Albtraum spiele?**
+
+Die Schmiedekosten verändern sich. Es handelt sich um einen andauernden Effekt, der stets aktualisiert wird, wenn sich der Spielzustand ändert.
+
+## Faygin
+
+**Ich habe Faygin (RdA 300) im Spiel und mein Gegner hat Straßenkind (RdA 315) im Spiel. Ich ernte mit Faygin und mit seinem Ernte-Effekt wähle ich das Straßenkind meines Gegners. Was passiert?**
+
+Der Effekt von Faygin bewirkt, dass das Straßenkind auf dein Hand geschickt werden soll. Sobald eine Karte allerdings das Spiel verlässt, wird sie immer in den entsprechenden Nicht-im-Spiel-Bereich ihres Besitzers gelegt (siehe „Verlässt das Spiel“ auf Seite 15), es sei denn, die Karte, die sie veranlasst das Spiel zu verlassen, besagt etwas anderes. Das Straßenkind wird auf die Hand deines Gegners zurückgeschickt statt auf deine Hand.
+
+## Flanken
+
+**Was passiert, wenn ich den Spektralbohrer (RdA 133) bei einer Nicht-Flankenkreatur verwende (wodurch sie als Flankenkreatur gilt) und dann Positronenblitz (RdA 118) auf sie spiele?** 
+
+Positronenblitz fügt der Kreatur 3 Schaden zu. Dann wählst du 1 Nachbarn der Kreatur und fügst ihm 2 Schaden zu und fügst dem anderen Nachbarn der zweiten Kreatur 1 Schaden zu.
+
+**Ich habe sowohl Sinestra (MM 047) als auch Dexus (MM 054) draußen, mein Gegner hat gar keine Kreaturen im Spiel. Wenn er jetzt seine erste Kreatur spielt, verliert er dann 2 Æmber?**
+
+Ja. Die erste Kreatur, die er spielt, befindet sich sowohl an seiner rechten als auch an seiner linken Flanke und löst somit beide Fähigkeiten aus: die von Dexus und die von Sinestra.
+
+## „Für jede/jedes/jeden“
+
+**Ich spiele die Karte Sack voller Münzen (ZdA 312), während ich 3 Æmber in meinem Vorrat habe. Kann ich die 3 Schaden auf mehrere Kreaturen aufteilen?**
+
+Ja. Weil Sack voller Münzen „für jedes“ Æmber in deinem Vorrat 1 Schaden zufügt, darf jeder Punkt Schaden einer anderen Kreatur zugewiesen werden.
+
+## Grubenfürst
+
+**Ich habe die Karte Grubenfürst (RdA 093) im Spiel und mein Gegner spielt die Karte Restringuntus (RdA 094) und wählt die Fraktion Dis. Was passiert, wenn ich versuche, meine Fraktion in meiner nächsten Runde zu wählen?**
+
+Im Schritt „Fraktion wählen“ deines nächsten Zuges bist du in der Situation, dass du wegen des Grubenfürsten die Fraktion Dis wählen musst, dies aber aufgrund von Restringuntus nicht tun kannst. „Kann nicht“-Effekte haben Vorrang vor Muss-Effekten, daher kannst du Dis nicht wählen. (Siehe „Kann nicht vs. Muss/Darf“ auf Seite 12.) Du darfst aber trotzdem eine deiner anderen Fraktionen wählen.
+
+**Ich haben einen Maverick-Grubenfürst (RdA 093) im Spiel, in einem Deck, das nicht die Fraktion Dis hat. Bin ich jetzt gezwungen, Dis als meine aktive Fraktion zu wählen?***
+
+Nein. Du kannst eine Fraktion nicht als aktive Fraktion wählen, es sei denn, sie befindet sich auf seiner Avatarkarte oder er kontrolliert eine Karte, die zu dieser Fraktion gehört. Diese Einschränkung überschreibt den Effekt des Grubenfürsten und erlaubt dir, eine deiner Fraktionen als aktive Fraktion zu wählen.
+
+## Ketten
+
+**Ich habe 2 Ketten und 7 Handkarten und gehe jetzt zum Schritt „Karten ziehen“ über. Werde ich in diesem Schritt eine Kette sprengen?**
+
+Nein, wirst du nicht. Ketten werden nur dann gesprengt, wenn ein Spieler im Schritt „Karten ziehen“ auch tatsächlich Karten ziehen würde und dies durch Ketten verhindert wird (siehe „Ketten“ auf Seite 8). Da du bereits 7 Handkarten hast, wirst du keine neuen Karten ziehen und daher auch keine Ketten sprengen.
+
+**Ich habe 2 Ketten und 5 Handkarten und gehe jetzt zum Schritt „Karten ziehen“ über. Werde ich in diesem Schritt eine Kette sprengen?**
+
+Ja, wirst du. Ketten werden immer dann gesprengt, wenn ein Spieler im Schritt „Karten ziehen“ eigentlich Karten ziehen würde, dies aber durch Ketten verhindert wird (siehe „Ketten“ auf Seite 8). Da du nur 5 Handkarten hast, würdest du normalerweise 1 Karte ziehen, um deine Hand aufzufüllen. Allerdings hindern dich deine Ketten am Ziehen dieser Karte. Da du normalerweise eine Karte gezogen hättest und dies von einer Kette verhindert wurde, sprengst du anschließend 1 Kette.
+
+## Klein Niff
+
+**Ich habe Ronnie Uhrich (ZdA 276) neben Klein Niff (ZdA 289) im Spiel. Ich greife mit Ronnie Uhrich eine Kreatur meines Gegners an. Während des Kampfes wird er zerstört. Erlaubt mir die Fähigkeit von Klein Niff 1 Æmber zu stehlen?**
+
+Ja. Klein Niffs Nachbar muss nicht überleben, damit Klein Niff das Æmber stehlen kann.
+
+## Köder
+
+**Mein Gegner hat 14 Æmber in seinem Vorrat und ich habe 0 in meinem. Zu Beginn meines Zuges wähle ich die Schatten als aktive Fraktion und spiele die Karte Köder (RdA 267). Wie oft wird Köder ausgelöst?**
+
+In dieser Situation wird der Effekt von Köder 2 Mal ausgelöst. Sobald der Effekt das erste Mal ausgelöst wird, wird überprüft, ob dein Gegner mehr Æmber hat als du. Falls ja, wird der erste Effekt wiederholt. Dadurch wird ein weiteres Æmber gestohlen. Da der Kartentext aber angibt, dass nur der vorangegangene Effekt wiederholt wird und nicht der gesamte Effekt, kann er maximal 2 Mal ausgelöst werden.
+
+## Kreaturen mit Stärke 0
+
+**Ich spiele König der Klippe (RdA 038), während mein Gegner einen Plündernden Goblin (RdA 041) im Spiel hat. Was passiert?**
+
+Die Regeln für Schaden besagen: „Hat eine Kreatur mindestens so viele Schadensmarker wie Stärke, wird sie zerstört und oben auf den Ablagestapel ihres Besitzers gelegt.“ Sobald eine Kreatur eine Stärke von 0 und 0 Schadensmarker hat, wird sie zerstört.
+
+## Kreaturen verschieben
+
+**Was passiert, wenn ich den Replikator (RdA 150) verwende, um den Ernte-Effekt eines gegnerischen Wächter des Sanctums (RdA 256) auszulösen?**
+
+Der Ernte-Effekt vom Wächter des Sanctums bewirkt nichts. Eine Kreatur kann nicht von der Schlachtreihe eines Spielers in die Schlachtreihe eines anderen Spielers verschoben werden, außer durch Effekte, welche den Wechsel der Kontrolle über jene Kreatur ausdrücklich erlauben.
+
+## Kreaturen verwenden
+
+** Ich habe einen erschöpften Haudrauf (RdA 030) im Spiel und mein Gegner hat keine Kreaturen in seiner Schlachtreihe. Ich spiele die Karte Zorn (RdA 001) und entscheide mich dafür, sie auf Haudrauf abzuhandeln. Was passiert?**
+
+Haudrauf wird durch den Effekt von Zorn spielbereit gemacht, aber da es keine feindlichen Kreaturen im Spiel gibt, kann er nicht zum Kämpfen verwendet werden, also bleibt er spielbereit. Die Kreatur kann dann nach den Standardregeln verwendet werden.
+
+**Ich habe Gefechtspheromone (RdA 180), „John Smyth“ (RdA 195) und Gedankenmanipulator (RdA 196) im Spiel. Ich opfere Gefechtspheromone und ernte mit Gedankenmanipulator, und dann ernte ich mit „John Smyth“ und nutze den Ernte-Effekt von „John Smyth“, um Gedankenmanipulator spielbereit zu machen. Kann ich Gedankenmanipulator erneut verwenden?**
+
+Ja, Gefechtspheromone gewährt dir in diesem Zug die Verwendung von bis zu 2 anderen Mars-Karten. Falls du einen Effekt hast, der eine durch Gefechtspheromone betroffene Mars-Karte spielbereit macht (z. B. durch „John Smyth“), kannst du die Karte erneut verwenden.
+
+## Mimikry-Gel
+
+**Wenn ich Mimikry-Gel (KW 170) spiele und damit eine Kreatur kopiere, die Schadensmarker, „+1 Stärke“-Marker, einen Beschützt-Marker oder zusätzlichen Text aufgrund einer Aufwertung hat, kopiert das Mimikry-Gel dann auch die verschiedenen Marker bzw. den Aufwertungstext?** 
+
+Nein. Das Mimikry-Gel kommt als Kopie der Basiskarte, ohne irgendwelche Modifikationen durch andere Effekte, ins Spiel.
+
+**Wenn ich Mimikry-Gel spiele und damit „Bruchpilot“ Muldoon (KW 327) kopiere, kommt das Mimikry-Gel dann spielbereit ins Spiel? Und kann ich das Schlüsselwort „Stationieren“ verwenden, um das Mimikry-Gel an einer beliebigen Position in der Schlachtreihe ins Spiel kommen zu lassen?**
+
+Ja und ja. Das Mimikry-Gel kommt als Kopie der gewählten Karte ins Spiel. Sowohl „Stationieren“ als auch die Fähigkeit „kommt spielbereit ins Spiel“ treten in Kraft, sowie die Karte ins Spiel kommt. Das Mimikry-Gel wird diese Effekte also ebenfalls kopieren.
+
+**Wenn ich Mimikry-Gel spiele und damit einen Legionär-o-bot (KW 214) kopiere, der bereits aktiviert wurde und gegenwärtig eine Kreatur ist, zu was wird dann das Mimikry-Gel?**
+
+Das Mimikry-Gel wird zu einer Kreatur mit Stärke 5, die verwendet werden kann, als ob sie zur aktiven Fraktion gehören würde.
+
+## Neutronenhai
+
+**Mein Gegner hat 2 Kreaturen im Spiel, ich habe keine. Ich spiele Neutronenhai (RdA 146) und verwende seinen Spielen-Effekt, um eine feindliche Kreatur und den Neutronenhai zu zerstören. Falls die oberste Karte meines Decks nicht zur Fraktion Logos gehört, kann ich die Fähigkeit vom Neutronenhai dann wiederholen und die andere Kreatur meines Gegners zerstören?**
+
+Nein. Das Zerstören vom Neutronenhai und der ersten feindlichen Kreatur wird vollständig abgehandelt, bevor mit dem Rest der Fähigkeit vom Neutronenhai fortgefahren wird. Weil der Neutronenhai nicht länger im Spiel ist, ist seine Spielen/Kampf/Ernte-Fähigkeit nicht weiter aktiv und kann nicht erneut ausgelöst werden.
+
+## Phasenverschiebung
+
+**Ich habe die Fraktion Logos als meine aktive Fraktion in diesem Zug gewählt und spiele eine Phasenverschiebung (RdA 117) und dann eine weitere Kopie von Phasenverschiebung. Wie viele Nicht-Logos-Karten kann ich in diesem Zug spielen?**
+
+Du kannst in diesem Zug 2 Nicht-Logos-Karten spielen. Jede Kopie von Phasenverschiebung, die du spielst, ermöglicht es dir, eine zusätzliche Nicht-Logos-Karte zu spielen.
+
+**Ich wähle Logos als meine aktive Fraktion. Ich spiele Phasen verschiebung (RdA 117), dann spiele ich Mimikry (RdA 328) als eine Kopie von Vernebeln (RdA 110). Kann ich eine weitere Nicht-Logos-Karte spielen, indem ich den Effekt von Phasenverschiebung verwende?**
+
+Nein. Phasenverschiebung erlaubt es dir, 1 Nicht-Logos-Karte in diesem Zug zu spielen. Durch das Spielen von Mimikry wird dieser Effekt verbraucht, da du ohne den Effekt von Phasenverschiebung Mimikry nicht hättest spielen können.
+
+## Rüstung
+
+**Ich habe Schatten-Ich (RdA 310) mit einem Raubritter (RdA 255) als Nachbarn. Mein Raubritter wird dann von einer Kreatur mit einer Stärke von 4 angegriffen. Wie viel Schaden erleidet jede Kreatur in dieser Situation?**
+
+In diesem Fall erleidet Schatten-Ich 2 Schaden, der Raubritter erleidet keinen Schaden, und die Kreatur mit der Stärke von 4 erleidet 4 Schaden und wird zerstört. Dies geschieht, da die Rüstung des Raubritters 2 Schaden verhindert, bevor der Schaden zugefügt werden kann. Wenn der Schaden dann tatsächlich zugefügt wird, wird der Schaden, der dem Raubritter zugefügt werden würde, stattdessen dem Schatten-Ich zugefügt. Zeitgleich mit dem Schaden, der dem Schatten-Ich zugefügt wird, nimmt die Kreatur mit der Stärke von 4 durch die Stärke des Raubritters 4 Schaden.
+
+**Ich verwende mein Heiliges Schild (ZdA 218), um meinen Maruck der Gezeichnete (ZdA 220) vor Schaden zu schützen. Dann greife ich mit ihm eine gegnerische Kreatur mit Stärke von 3 an. Erbeute ich mit Marucks Fähigkeit ein Æmber?**
+
+Nein. Schutz-Effekte wie auf Heiliges Schild verhindern den Schaden noch vor der Rüstung. Maruck hat nach dem Kampf immer noch 1 Rüstung übrig.
+
+## Schatten von Dis
+
+**Mein Gegner spielt Schatten von Dis (ZdA 103) und zwingt mich, bis zum Ende seines nächsten Zugs die Textkästen meiner Kreaturen so zu behandeln, als wären sie leer. Ich spiele Silberzahn (RdA 311). Kommt Silberzahn spielbereit ins Spiel?**
+
+Ja. Schatten von Dis betrifft nur Kreaturen, solange sie im Spiel sind. Silberzahns Fähigkeit modifiziert die Art und Weise, wie er ins Spiel kommt, und ist bereits in Kraft getreten, bevor der Effekt von Schatten von Dis darauf angewandt wird.
+
+**Mein Gegner spielt Schatten von Dis (ZdA 103). Ich habe 2 Kopien von Glimmer (ZdA 323) auf meiner Hand. Darf ich sie beide spielen?**
+
+Nein. Alpha ist eine Spieleinschränkung, die aktiv ist, während die Karte mit diesem Schlüsselwort auf meiner Hand ist und bevor die Karte gespielt wird. Nachdem du in einem Schritt eine Karte gespielt hast, darfst du keine Alpha-Karte mehr spielen.
+
+**Mein Gegner spielt Schatten von Dis (ZdA 103). Ich habe eine Dämmerungshexe (ZdA 320) auf meiner Hand. Darf ich die Dämmerungshexe spielen und danach noch weitere Karten?**
+
+Ja, du kannst nach dem Spielen von Dämmerungshexe weiter Karten spielen,  verwenden und ablegen. Omega ist ein Effekt, der nach dem Spielen einer Karte in Kraft tritt. Zu diesem Zeitpunkt ist die Dämmerungshexe im Spiel und ist vom Effekt von Schatten von Dis betroffen. Dies bedeutet, dass die Dämmerungshexe das Schlüsselwort Omega nicht mehr hat.
+
+## Schlüsselhammer
+
+**Mein Gegner schmiedet in seinem Zug 2 Schlüssel. In meinem nächsten Zug spiele ich Schlüsselhammer (RdA 066)? Was passiert?**
+
+Schlüsselhammer betrifft nur einen einzigen Schlüssel. Du wählst einen von den beiden Schlüsseln, die dein Gegner in seinem letzten Zug geschmiedet hat, und machst ihn wieder ungeschmiedet.
+
+## Schulter-Es
+
+**Mein Schulter-Es (MM 257) wird von einer Kreatur mit Rüstung 6 angegriffen. Stiehlt das Schulter-Es nun 1 Æmber?**
+
+Ja. Die Fähigkeit des Schulter-Es ist ein Ersatzeffekt, der immer dann eintritt, wenn das Schulter-Es versuchen würde, Schaden zuzufügen – auch dann, wenn ein anderer Karteneffekt diesen Schaden letztlich verhindern würde. Dies gilt für Rüstung, Beschützt, Unverwundbar sowie „Kein Schaden kann zugefügt werden“-Effekte, beispielsweise auf Schild der Gerechtigkeit (RdA 225).
+
+**Mein Schulter-Es (MM 257) wird von einer Kreatur mit Scharmützel angegriffen. Stiehlt das Schulter-Es 1 Æmber?**
+
+Nein. In Situationen, in denen das Schulter-Es gar nicht erst versuchen würde Schaden zuzufügen, tritt sein Ersatzeffekt nicht ein. Dies gilt, wenn es von einer Kreatur mit Scharmützel angegriffen wird, und auch, falls es das Schlüsselwort Schwer zu fassen erhalten hat und zum ersten Mal in einem Zug angriffen wird.
+
+## Schwer zu fassen
+
+**Wenn ich Gabos Langarm (RdA 086) verwende, um eine Kreatur ohne Schlüsselwort Schwer zu fassen anzugreifen, kann ich Gabos Langarms „Vor dem Kampf“-Fähigkeit verwenden, um stattdessen einer Kreatur mit dem Schlüsselwort Schwer zu fassen Schaden zuzufügen? Oder verhindert das Schlüsselwort Schwer zu fassen den Schaden?**
+
+Gabos Langarm kann einer Kreatur mit dem Schlüsselwort Schwer zu fassen unter der Verwendung seiner Fähigkeit Schaden zufügen. Die „Schwer zu fassen“-Fähigkeit verhindert nur Schaden, sobald die Kreatur angegriffen wird. Da Gabos die Kreatur mit dem Schlüsselwort Schwer zu fassen nicht direkt angreift, kann ihr Schlüsselwort sie nicht vor dem Schaden schützen.
+
+**Mein Gabos Langarm (RdA 086) greift das Æmberteufelchen (ZdA 053)meines Gegners an. Wird Gabos Langarms Schaden durch das Schlüsselwort Schwer zu fassen verhindert oder kann ich den Schaden einer anderen Kreatur zufügen?**
+
+Du darfst Gabor Langarms Schaden einer anderen Kreatur zufügen. Das Schlüsselwort Schwer zu fassen verhindert nur Schaden, der während eines Kampfes der Kreatur mit dem Schlüsselwort Schwer zu fassen zugefügt wird.
+
+## Sechser-Regel
+
+**Falls ich Mimikry (RdA 328) als Kopie einer Aktionskarte im Ablagestapel meines Gegners spiele, welche Karte ist von der Sechser-Regel betroffen?**
+
+Im Zusammenhang mit der Sechser-Regel gilt die kopierte Karte als die gespielte Karte.
+
+## Sir Mark
+
+**Ich habe 2 Æmber in meinem Vorrat und ich ernte mit einer Kreatur. Mein Gegner hat 2 Kopien von Sir Mark (ZdA 223) im Spiel. Erbeuten beide Kopien von Sir Mark ein Æmber und wenn ja, woher kommt das zweite Æmber?**
+
+Sir Mark kann nur das 1 Æmbererbeuten, dass gerade geerntet worden ist. Der aktive Spieler bestimmt, welcher Sir Mark das Æmber erbeutet.
+
+## So viel wie möglich abhandeln
+
+**Mein Gegner hat eine Kriegsstandarte (RdA 020) im Spiel. Kann ich die Karte Poltergeist (RdA 069) spielen, um die Kriegsstandarte zu zerstören, auch wenn das Artefakt nicht verwendet werden kann?**
+
+Ja, du kannst den Effekt von Poltergeist auf jedes Artefakt im Spiel abhandeln, auch wenn das Artefakt nicht verwendet werden kann. Du handelst einfach so viel des Karteneffekts wie möglich ab (siehe „So viel wie möglich abhandeln“ auf Seite 7). In dieser Situation wird nur das Artefakt zerstört.
+
+**Ich habe keine Kreaturen im Spiel und mein Gegner hat 2 Kreaturen. Kann ich die Karte Im Wald verirrt (RdA 327) spielen, obwohl ich keine 2 Kreaturen im Spiel habe?**
+
+Ja, das kannst du. Die Regel „So viel wie möglich abhandeln“ (auf Seite 7) besagt, dass so viel wie möglich von einem Karteneffekt abgehandelt wird und jeder Teil einer Karte, den du nicht abhandeln kannst, ignoriert wird. Im Kontext von Im Wald verirrt bedeutet das, dass du so viele Kreaturen wie möglich mischst. Für den Fall, dass dein Gegner 2 oder mehr Kreaturen in seiner Schlachtlinie hat und du keine hast, mischst du also 2 feindliche und keine befreundeten Kreaturen in das Deck ihrer Besitzer.
+
+## Timing
+
+**Ich habe Greifranken (RdA 324) unter Masterplan (RdA 288) liegen. Wenn ich den „Universell“-Effekt von Masterplan verwende, um Greifranken zu spielen, kann ich Masterplan auf meine Hand zurückschicken, bevor die Karte geopfert wird?**
+
+Ja. Der Effekt von Masterplan erlaubt dir, die Karte darunter zu spielen, bevor Masterplan geopfert wird. Masterplan ist zu dem Zeitpunkt, in dem du Greifranken spielst, immer noch im Spiel. Deshalb kann Masterplan durch den Effekt auf Greifranken auf deine Hand zurückgeschickt werden.
+
+**Falls eine Karte wie z. B. Pforte nach Dis (RdA 059) mehrere Kreaturen zerstört und eine davon Tolas (RdA 103) ist, erhält jemand durch Tolas’ Fähigkeit Æmber?**
+
+Nein. Tolas’ Fähigkeit wird erst ausgelöst, sobald die Karten tatsächlich auf den Ablagestapel gelegt werden. Zu diesem Zeitpunkt ist Tolas bereits zerstört.
+
+**Ich habe Pingel die Nervensäge (RdA 043) im Spiel und mein Gegner spielt den König der Klippe (RdA 038). Nimmt der König der Klippe Schaden, bevor Pingel zerstört wird?**
+
+Nein. Weil die Fähigkeit vom König der Klippe konstant ist, wird ihr Effekt angewandt, solange er im Spiel ist. Dadurch wird Pingel zerstört, bevor Pingels „Nachdem eine feindliche Kreatur ins Spiel gekommen ist“-Effekt ausgelöst werden kann.
+
+**Ich ernte mit Nexus (RdA 305) und verwende den Spektralbohrer (RdA 133) meines Gegners, um Nexus die Fähigkeit „Ernte: Ziehe eine Karte“ zu geben. Kann ich dann diese „Ernte:“-Fähigkeit auslösen?**
+
+Ja. Du bist immer noch in dem Zeitfenster, in dem du Nexus’ „Ernte:“-Fähigkeiten auslösen kannst. Deshalb kannst du die vom Spektralbohrer gewährte Fähigkeit jetzt auslösen.
+
+**Mein Gegner hat 10 Æmber und ist kurz davor seinen zweiten Schlüssel zu schmieden. Ich spiele Interdimensionaler Spalt (RdA112). Mein Gegner hat Schmiedemeister Og (ZdA 038) im Spiel. Mein Gegner schmiedet in seinem Zug für 6 Æmber einen Schlüssel. Was passiert mit den restlichen 4 Æmber?**
+
+Der Effekt von Interdimensionaler Spalt und von Schmiedemeister Og passieren zum gleichen Zeitpunkt (nachdem ein Schlüssel geschmiedet worden ist), also wählt der aktive Spieler (dein Gegner), welcher Effekt zuerst abgehandelt wird.
+
+**Wann wird die Fähigkeit des Schutzanzugs (KW 330) ausgelöst?**
+
+Die Fähigkeit des Schutzanzugs findet statt, nachdem eine Aktionskarte gespielt und der Æmber-Bonus abgehandelt worden ist. Dies geschieht zum selben Zeitpunkt, an dem andere Effekte stattfinden, „nachdem“ eine Aktionskarte gespielt worden ist. Der aktive Spieler muss den Effekt des Schutzanzugs aber auslösen, bevor der „Spielen:“-Effekt auf der Aktionskarte ausgelöst wird.
+
+**Ich habe ein Sirenen-Horn (MM 212) auf einer Kreatur mit Ansturm 2 und greife eine feindliche Kreatur an, die nur noch 2 Lebenspunkte übrig hat. Zerstört der Schaden durch Ansturm die feindliche Kreatur, bevor oder nachdem ich Æmber auf sie verschieben kann?**
+
+Der durch Ansturm zugefügte Schaden tritt zum selben Zeitpunkt ein wie die „Vor dem Kampf:“-Fähigkeiten. Das heißt, der aktive Spieler (in diesem Fall du) bestimmt, in welcher Reihenfolge sie abgehandelt werden.
+
+**Ich spiele Schmerzreaktion (ZdA 078) auf eine gegnerische Kreatur und zerstöre sie damit. Wann genau wird ihren Nachbarn der Schaden zugefügt? Und woher weiß ich überhaupt, wer die Nachbarn der Kreatur sind, wenn sie bereits das Spiel verlassen hat?**
+
+Schmerzreaktion ist eine Ausnahme von der Regel, die besagt, dass jeglicher Schaden aus einer Fähigkeit gleichzeitig zugefügt wird, da ausdrücklich gesagt wird, dass der Schaden zugefügt wird, nachdem die zerstörte Kreatur das Spiel verlassen hat. Dieser Schaden wird jeder Kreatur zugefügt, die ein Nachbar der zerstörten Kreatur war, unmittelbar bevor diese das Spiel verließ.
+
+**Ich verwende Zerschmettern (ZdA 224), um meinen Feuerspeier (RdA 032) gegen eine gegnerische Kreatur kämpfen zu lassen, die Stärke 1 hat und über zwei Nachbarn verfügt, die auch jeweils Stärke 1 haben. Diese haben jeweils einen Nachbarn mit Stärke 2 an den Flanken. Wird mein Zerschmettern die Stärke-2-Flankenkreaturen zerstören?**
+
+Nein. Der Schaden von Zerschmettern bezieht sich auf die Nachbarn, welche die verteidigende Kreatur unmittelbar vor dem Verlassen des Spiels hatte. Da die verteidigende Stärke-1-Kreatur gleichzeitig mit ihren Stärke-1-Nachbarn (zerstört durch die „Vor dem Kampf:“-Fähigkeit des Feuerspeiers) das Spiel verlässt, wird der Schadenseffekt von Zerschmettern scheitern, da die Kreaturen, auf die er sich bezieht, gar nicht mehr im Spiel sind.
+
+**Wenn ich Phalanx-Stoß (KW 189) verwende und entscheide, eine befreundete Kreatur zu erheben, um den Schadenseffekt zu wiederholen, habe ich dann die Möglichkeit, einen Beschützt-Marker von einer Kreatur zu entfernen und derselben Kreatur Schaden zuzufügen?**
+
+Ja. Phalanx-Stoß ist eine Ausnahme von der Regel, die besagt, dass jeglicher Schaden aus einer Fähigkeit gleichzeitig zugefügt wird, da ausdrücklich gesagt wird, dass der Schadenseffekt ein zweites Mal wiederholt wird. Dies gibt dir die Möglichkeit, mit der ersten Schadensinstanz einen Beschützt-Marker von einer Kreatur zu entfernen und dann den wiederholten Effekt zu verwenden, um derselben Kreatur Schaden zuzufügen.
+
+**Mein Overlord Graukin (RdA 087) kämpft gegen einen gegnerischen Tolas (RdA 103) und zerstört ihn. Wird Tolas‘ Fähigkeit ausgelöst, nachdem ich ihn unter meiner Kontrolle ins Spiel gebracht habe?**
+
+Nein. Tolas hat eine konstante Fähigkeit, die nur dann aktiv ist, solange er sich im Spiel befindent. Da Tolas zum Zeitpunkt seiner Zerstörung nicht im Spiel ist, wird seine konstante Fähigkeit nicht abgehandelt.
+
+## Tödliche Ablenkung
+
+**Ich spiele zwei Kopien von Tödliche Ablenkung (ZdA 305) und wähle jedes Mal die gleiche Kreatur. Später in diesem Zug füge ich der Kreatur 1 Schaden zu. Wie viel Schaden nimmt sie insgesamt?**
+
+Die Kreatur erleidet insgesamt 5 Schaden: 1 durch den Initialschaden, 2 durch die erste Tödliche Ablenkung, 2 durch die zweite Tödliche Ablenkung. Jeder „zusätzliche“ Schaden einer Tödlichen Ablenkung fügt einfach 2 Punkte zu der ursprünglichen Schadensinstanz hinzu. Dies ist keine eigene, separate Schadensinstanz und löst daher keine weitere Tödliche Ablenkung aus.
+
+## Verlässt das Spiel (Saugfalle)
+
+**Ich kontrolliere eine Saugfalle (RdA 132), die meinen eigenen Kelifi-Drachen (RdA 037) verbannt hat. Die Saugfalle wird durch Greifranken (RdA 324) auf die Hand ihres Besitzers zurückgeschickt, ich habe aber kein Æmber. Bekomme ich meinen Kelifi-Drachen zurück?**
+
+Ja. Der Kelifi-Drache wird nicht gespielt, wenn er von der Sprengfalle zurückgeschickt wird, sondern wird ins Spiel gebracht. Wird eine Karte ins Spiel gebracht, umgeht das die normalen Spielbeschränkungen, d. h., der Kelifi-Drache wird wieder ins Spiel gebracht, egal wie viel Æmber du hast.
+
+**Ein Mürrischer Caper (ZdA 313), den ich besitze, den aber mein Gegner kontrolliert, wird mit einer Saugfalle (RdA 132) verbannt. Später wird die Saugfalle zerstört. Welcher Spieler hat die Kontrolle über den Mürrischen Caper, sobald er ins Spiel zurückgeschickt wird?**
+
+Sobald die Saugfalle den Mürrischen Caper ins Spiel zurückschickt, gilt er, als würde er erneut „ins Spiel kommen“. Die Fähigkeit des Mürrischen Capers führt erneut dazu, dass er unter der Kontrolle deines Gegners ins Spiel kommt.
+
+## Wildes Wurmloch; Kelifi-Drache
+
+**Ich habe 0 Æmber in meinem Æmber-Vorrat und habe die Fraktion Logos als meine aktive Fraktion gewählt. Ich spiele Wildes Wurmloch (RdA 125) und versuche, die oberste Karte meines Decks, Kelifi-Drache (RdA 037), zu spielen. Was passiert?**
+
+Der Kelifi-Drache wird wieder oben auf das Deck zurückgelegt. Der Kelifi-Drache hat eine Spielbedingung, nämlich 7 Æmber in deinem Æmber-Vorrat zu haben, und da du anfangs keines hattest (du hast jetzt 1 durch das Spielen des Wilden Wurmlochs), hast du nicht genug, um den Kelifi-Drachen spielen zu können. Da du die Karte nicht spielen kannst, wird sie an den Ort zurückgelegt, von dem aus du versucht hast sie zu spielen, in diesem Fall oben auf das Deck.
+
+## Wühler
+
+**Was passiert, wenn zwei Wühler (MM 006) benachbart sind und ich einen von ihnen mit meiner Stärke-2-Kreatur bekämpfe?**
+
+Beide Wühler nehmen gleichzeitig 2 Schaden. Da der Schaden nur ein Mal zugefügt wird, löst dies keine weiteren Schadensinstanzen aus.
+
+## \[ZENSIERT\]
+
+**Wenn ich über eine andere Methode als seine eigene Fähigkeit ein viertes Æmber auf \[ZENSIERT\] (ZdA 139) lege, kann ich es dann sofort opfern und einen Schlüssel schmieden?**
+
+Nein. \[ZENSIERT\] hat nur eine einzelne Fähigkeit. Sie wird ausgelöst, nachdem du Logos als deine aktive Fraktion gewählt hast, und bewirkt, dass 1 Æmber auf die Karte gelegt wird und du anschließend die Möglichkeit hast, die Karte zu opfern und einen Schlüssel zu schmieden, falls mindestens 4 Æmber darauf liegen. Es ist nicht möglich, einen Bestandteil der Fähigkeit („schmiede kostenlos einen Schlüssel“) losgelöst von den anderen zu verwenden.
+
+## „Zerstört:“-Effekte
+
+**Im Zug meines Gegners verwendet er Yxilo-Schütze (RdA 204), um zu ernten und seinen Ernte-Effekt auf meinen Falscher Fünfziger (RdA 296) abzuhandeln. Wird Falscher Fünfziger verbannt oder landet er wieder auf meiner Hand?**
+
+Falscher Fünfziger geht zurück auf deine Hand. „Zerstört:“-Effekte (siehe „Zerstört“ auf Seite 16) passieren unmittelbar vor der Zerstörung einer Kreatur, was bedeutet, dass Falscher Fünfziger wieder auf die Hand seines Besitzers geschickt wird, bevor der Yxilo-Schütze versuchen kann, ihn mit seinem Ernte-Effekt zu verbannen. Zu diesem Zeitpunkt sind alle noch offenen Effekte, die darauf warten, auf Falscher Fünfziger abgehandelt zu werden, nicht mehr vorhanden. Falscher Fünfziger wird in einen Nicht-im-Spiel-Bereich verschoben, in dem die Identität der Karten vor dem Gegner verborgen ist (siehe „Verlässt das Spiel“ auf Seite 15).
+
+**Ich habe einen Seelendieb (RdA 098) im Spiel und mein Gegner hat einen Valdr (RdA 029). Ich verwende meinen Seelendieb, um Valdr anzugreifen und beide Kreaturen werden zerstört. Wird die Fähigkeit von Seelendieb ausgelöst?**
+
+Nein, die Fähigkeit von Seelendieb wird nicht ausgelöst. Damit der Seelendieb seine Fähigkeit auslösen kann, muss er im Spiel sein. Wenn also sowohl der Seelendieb als auch die Kreatur, gegen die er kämpft, sterben, sterben sie gleichzeitig und die Fähigkeit von Seelendieb kann nicht ausgelöst werden (siehe „Zerstört“ auf Seite 16).
+
+**Falls Duma die Märtyrerin (RdA 242) und eine andere meiner Kreaturen beide durch einen Schadenseffekt wie den von Giftwelle (RdA 280) zerstört werden, kann Duma die Märtyrerin meine andere Kreatur vor ihrer Zerstörung retten?**
+
+Nein. Der Schaden von Giftwelle führt dazu, dass Duma die Märtyrerin und deine andere Kreatur zum Zerstören markiert werden. Danach kann die Heilung der Kreatur ihre Zerstörung nicht verhindern. 
+
+**Ich habe Tolas (RdA 103) im Spiel. Wenn mein Falscher Fünfziger (RdA 296) zerstört wird, erhalte ich auch Æmber, falls der Falsche Fünfziger auf meine Hand kommt statt auf meinen Ablagestapel?**
+
+Ja. Eine Karte gilt immer noch als zerstört, auch wenn ihr „Zerstört:“-Effekt sie aus dem Spiel verschiebt.
+
+**Falls mein Jargoggle (ZdA 131) in meinem Zug zerstört wird und seine „Zerstört:“-Fähigkeit lässt mich eine Karte mit dem Schlüsselwort Omega spielen, kann ich danach noch eine Karte spielen?**
+
+Normalerweise nicht. Falls Jargoggle in deinem Schritt 3 zerstört wird, darfst du keine weiteren Karten spielen oder verwenden – nach dem Abschließen aller ausgelösten Effekte geht es mit dem nächsten Schritt weiter. Falls Jargoggle aber in deinem Schritt 1 zerstört wird, weil du z. B. einen Schlüssel geschmiedet hast, während ein Verrücktes Dingsbums (RdA 134) im Spiel war, machst du einfach mit Schritt 2 weiter, wo du deine Fraktion wählen darfst und dann mit Schritt 3 weitermachst, in dem du ganz normal Karten spielen und verwenden kannst.
+
+**Ich habe eine Kreatur mit einer Stärke von 2, an der Seelenwächter (ZdA 083) angelegt ist, im Spiel und meine Gegner hat eine Kreatur mit einer Stärke von 6 und eine Kreatur mit einer Stärke von 5 im Spiel. Sterben beide gegnerischen Kreaturen oder nur die Kreatur mit der Stärke von 6, sobald ich einen Opal-Ritter (ZdA 260) spiele?**
+
+Nur die Kreatur mit der Stärke von 6. Da der Effekt von Seelenwächter ausgelöst wird, bevor die zerstörten Kreaturen tatsächlich das Spiel verlassen haben, wird die Kreatur mit der Stärke von 6 als Ziel anvisiert, auch wenn die Kreatur zuvor schon zum Zerstören markiert worden ist.
+
+**Ich habe einen Optio Gorkus (MM 226) im Spiel, an den ein Imperialer Schild (KW 185) angelegt ist. Dann spiele ich eine Karte, die alle Kreaturen zerstört. Kann ich den „Zerstört:“-Effekt der Nachbarn von Optio Gorkus verwenden, um alles Æmber von ihnen auf Optio Gorkus zu verschieben, bevor ich den vom Imperialen Schild gewährten „Zerstört:“-Effekt verwende, um das ganze Æmber in die allgemeine Reserve zu verschieben, damit es meinem Gegner nicht in die Hände fällt?**
+
+Ja. Der aktive Spieler bestimmt die Reihenfolge der „Zerstört:“-Effekte. Wenn die Kreaturen in deinem Zug zerstört werden, kannst du das Æmber von deinen zerstörten Kreaturen in die allgemeine Reserve verschieben. Werden die Kreaturen jedoch im Zug deines Gegners zerstört, könnte dieser die umgekehrte Reihenfolge festlegen, um sich das Æmber der zerstörten Kreaturen anzueignen.
+

@@ -653,9 +653,11 @@ als „deines“ betrachtet.
 
 ![Æmber token](img/amber.jpg)
 
-#### ÆMBER-BONUSSYMBOL A (NEU)
+#### ÆMBER-BONUSSYMBOL
 
 Siehe [„Bonussymbole“](#bonussymbole).
+
+![Æmber Bonussymbol](img/bonus-amber.jpg)
 
 #### AKTIONSFÄHIGKEIT
 
@@ -910,6 +912,8 @@ die Kreatur gelegt, die es erbeutet hat.
 #### ERBEUTEN-BONUSSYMBOL
 
 Siehe [„Bonussymbole“](#bonussymbole).
+
+![Erbeuten Symbol](img/bonus-erbeuten.jpg)
 
 #### ERHEBEN
 
@@ -1342,9 +1346,11 @@ Das Symbol „~“ im Rüstungsfeld bedeutet, dass eine Kreatur keine Rüstung h
 
 Schadensmarker, die auf einer Kreatur liegen, zeigen an, wie viel Schaden diese Kreatur bereits erlitten hat. Falls eine Kreatur mindestens so viel Schaden hat, wie sie Stärke hat, wird die Kreatur zerstört. Der Schaden einer Kreatur reduziert nicht ihre Stärke. Falls mehrere Kreaturen durch denselben Effekt Schaden erleiden, wird der Schaden gleichzeitig zugefügt.
 
-#### SCHADEN-BONUSSYMBOL DD
+#### SCHADEN-BONUSSYMBOL
 
 Siehe [„Bonussymbole“](#bonussymbole).
+
+![Schaden Symbol](img/bonus-schaden.jpg)
 
 #### SCHARMÜTZEL
 
@@ -1495,9 +1501,11 @@ Jede Karte mit dem Schlüsselwort „Verbesserung“ fügt zufälligen Karten in
 
 Während des Spiels hat das Schlüsselwort „Verbesserung“ keinen Effekt. 
 
-_**Beispiel**: DerMutanten-Taschendieb (MM 252) hat: „Verbesserung DDDDDD.“ Das bedeutet, dass drei DD-Bonussymbole per Zufallsprinzip auf die Karten in seinem Deck verteilt wurden. Der Mutanten-Taschendieb selbst hat während des Spiels keine spezielle Fähigkeit durch sein Schlüsselwort „Verbesserung“._
+_**Beispiel**: DerMutanten-Taschendieb (MM 252) hat: „Verbesserung {D}{D}{D}.“ Das bedeutet, dass drei {D}-Bonussymbole per Zufallsprinzip auf die Karten in seinem Deck verteilt wurden. Der Mutanten-Taschendieb selbst hat während des Spiels keine spezielle Fähigkeit durch sein Schlüsselwort „Verbesserung“._
 
 Bonussymbole, die durch das Schlüsselwort „Verbesserung“ hinzugefügt wurden, sind an diesem grafischen Element zu erkennen. 
+
+![Verbesserung](img/improvement.jpg)
 
 #### VERLÄSST DAS SPIEL
 
@@ -1522,6 +1530,7 @@ Sobald eine Karte dazu anweist, Schaden zu verschieben, wird so viel Schaden von
 Sobald eine Karte dazu anweist, eine Kreatur zu verschieben, muss diese Kreatur unter der Kontrolle des Spielers verbleiben, der sie aktuell kontrolliert, sofern die Karte nicht ebenfalls angibt, dass ein anderer Spieler die Kontrolle über sie übernimmt. Es ist erlaubt, eine Kreatur so zu „verschieben“, dass sie auf ihrer Position in der Schlachtreihe verbleibt.
 
 #### VERWENDEN
+
 Siehe [„Karten verwenden“](#kartenverwenden).
 
 #### VOR
@@ -1554,33 +1563,35 @@ Eine Kreatur ist im Zentrum der Schlachtreihe, sobald sich zur linken und rechte
 
 Es gibt nur dann ein Zentrum der Schlachtreihe, falls sich in der Schlachtreihe eine ungerade Anzahl an Kreaturen befindent. Solange sich eine gerade Anzahl an Kreaturen in der Schlachtreihe befindent, gibt es kein Zentrum. Falls sich nur eine Kreatur in der Schlachtreihe befindent, ist diese Kreatur im Zentrum.
 
- #### ZERSTÖRT
+#### ZERSTÖRT
  
- Sobald eine Karte durch einen Karteneffekt zerstört wird oder sobald eine Karte mindestens so viel Schaden auf sich hat, wie sie Stärke hat, wird sie zum Zerstören markiert. Nachdem sie markiert worden ist, werden die **„Zerstört:“**-Fähigkeiten jener Karte ausgelöst. Zum Schluss wird die markierte Karte auf den Ablagestapel ihres Besitzers gelegt. Falls mehrere Karten gleichzeitig zum Zerstören markiert werden, wählt der aktive Spieler die Reihenfolge, in welcher die **„Zerstört:“**-Fähigkeiten jener Karten abgehandelt werden. Alle markierten Karten werden gleichzeitig auf die Ablagestapel ihrer jeweiligen Besitzer gelegt. Der aktive Spieler entscheidet, in welcher Reihenfolge diese Karten auf den Ablagestapeln ihrer jeweiligen Besitzer angeordnet werden.
+Sobald eine Karte durch einen Karteneffekt zerstört wird oder sobald eine Karte mindestens so viel Schaden auf sich hat, wie sie Stärke hat, wird sie zum Zerstören markiert. Nachdem sie markiert worden ist, werden die **„Zerstört:“**-Fähigkeiten jener Karte ausgelöst. Zum Schluss wird die markierte Karte auf den Ablagestapel ihres Besitzers gelegt. Falls mehrere Karten gleichzeitig zum Zerstören markiert werden, wählt der aktive Spieler die Reihenfolge, in welcher die **„Zerstört:“**-Fähigkeiten jener Karten abgehandelt werden. Alle markierten Karten werden gleichzeitig auf die Ablagestapel ihrer jeweiligen Besitzer gelegt. Der aktive Spieler entscheidet, in welcher Reihenfolge diese Karten auf den Ablagestapeln ihrer jeweiligen Besitzer angeordnet werden.
  
- Ist eine Kreatur zum Zerstören markiert worden, kann nur noch ein Ersatzeffekt diese Markierung entfernen, der das Wort „stattdessen“ oder „(an)statt“ verwendet. Dadurch wird die Zerstörung der Kreatur ersetzt. Ein Effekt, der die markierte Kreatur heilt, entfernt nicht die Zerstört-Markierung. Ein Effekt darf die markierte Kreatur in einen anderen Nicht-im-Spiel-Bereich (wie auf die Hand oder ins Archiv) verschieben. Dennoch gilt die Kreatur in Bezug auf Karteneffekte, immer noch als „zerstört“.
+Ist eine Kreatur zum Zerstören markiert worden, kann nur noch ein Ersatzeffekt diese Markierung entfernen, der das Wort „stattdessen“ oder „(an)statt“ verwendet. Dadurch wird die Zerstörung der Kreatur ersetzt. Ein Effekt, der die markierte Kreatur heilt, entfernt nicht die Zerstört-Markierung. Ein Effekt darf die markierte Kreatur in einen anderen Nicht-im-Spiel-Bereich (wie auf die Hand oder ins Archiv) verschieben. Dennoch gilt die Kreatur in Bezug auf Karteneffekte, immer noch als „zerstört“.
  
- Falls eine **„Zerstört:“**-Fähigkeit dazu führt, dass noch mehr Karten zerstört werden, werden jene Karten auch zum Zerstören markiert und ihre **„Zerstört:“**-Effekte werden auch ausgelöst, bevor sie auf den Ablagestapel gelegt werden. Keine der zum Zerstören markierten Karten wird auf den Ablagestapel ihres jeweiligen Besitzers gelegt, bis alle **„Zerstört:“**-Effekte fertig abgehandelt sind.
+Falls eine **„Zerstört:“**-Fähigkeit dazu führt, dass noch mehr Karten zerstört werden, werden jene Karten auch zum Zerstören markiert und ihre **„Zerstört:“**-Effekte werden auch ausgelöst, bevor sie auf den Ablagestapel gelegt werden. Keine der zum Zerstören markierten Karten wird auf den Ablagestapel ihres jeweiligen Besitzers gelegt, bis alle **„Zerstört:“**-Effekte fertig abgehandelt sind.
  
- Spieler können keine Kreatur zum Opfern oder Zerstören wählen, die bereits zum Zerstören markiert worden sind. Eine Karte, die bereits zum Zerstören markiert worden ist, kann nicht erneut zum Zerstören markiert werden und jeder Effekt, der versucht eine solche Karte zu opfern oder zu zerstören, scheitert. Die **„Zerstört:“**-Fähigkeiten jener Karte können nur ein Mal ausgelöst werden.
+Spieler können keine Kreatur zum Opfern oder Zerstören wählen, die bereits zum Zerstören markiert worden sind. Eine Karte, die bereits zum Zerstören markiert worden ist, kann nicht erneut zum Zerstören markiert werden und jeder Effekt, der versucht eine solche Karte zu opfern oder zu zerstören, scheitert. Die **„Zerstört:“**-Fähigkeiten jener Karte können nur ein Mal ausgelöst werden.
  
- Es können nur die **„Zerstört:“**-Fähigkeiten einer Karte ausgelöst werden, die sie zum Zeitpunkt ihrer Markierung hatte. Falls eine Karte nach ihrer Markierung eine **„Zerstört:“**-Fähigkeit erhält, wird jene Fähigkeit nicht ausgelöst.
+Es können nur die **„Zerstört:“**-Fähigkeiten einer Karte ausgelöst werden, die sie zum Zeitpunkt ihrer Markierung hatte. Falls eine Karte nach ihrer Markierung eine **„Zerstört:“**-Fähigkeit erhält, wird jene Fähigkeit nicht ausgelöst.
  
- Geopferte Karten werden ebenfalls zum Zerstören markiert, gelten ebenfalls als zerstört und durchlaufen den gleichen oben genannten Prozess der Zerstörung.
+Geopferte Karten werden ebenfalls zum Zerstören markiert, gelten ebenfalls als zerstört und durchlaufen den gleichen oben genannten Prozess der Zerstörung.
  
- _**Beispiel**: Zwischen 4 anderen Kreaturen hat Daniel einen Archimedes (ZdA 108) in seiner Schlachtreihe liegen. Sein Gegner spielt eine Pforte nach Dis (RdA 059) und zerstört jede Kreatur. Zuerst werden Daniels Kreaturen alle zum Zerstören markiert. Dann werden die **„Zerstört:“**-Effekte der Nachbarn von Archimedes ausgelöst, was sie beide archiviert. Sofort werden die Lücken in der Schlachtreihe geschlossen und Archimedes bekommt zwei neue Nachbarn. Da diese bereits zum Zerstören markiert worden sind, können sie keine neue **„Zerstört:“**-Fähigkeit erhalten und werden zusammen mit Archimedes auf den Ablagestapel gelegt._
+_**Beispiel**: Zwischen 4 anderen Kreaturen hat Daniel einen Archimedes (ZdA 108) in seiner Schlachtreihe liegen. Sein Gegner spielt eine Pforte nach Dis (RdA 059) und zerstört jede Kreatur. Zuerst werden Daniels Kreaturen alle zum Zerstören markiert. Dann werden die **„Zerstört:“**-Effekte der Nachbarn von Archimedes ausgelöst, was sie beide archiviert. Sofort werden die Lücken in der Schlachtreihe geschlossen und Archimedes bekommt zwei neue Nachbarn. Da diese bereits zum Zerstören markiert worden sind, können sie keine neue **„Zerstört:“**-Fähigkeit erhalten und werden zusammen mit Archimedes auf den Ablagestapel gelegt._
  
- _**Beispiel**: Maja hat folgende Kreaturen im Spiel: Jehu der Bürokrat (RdA 250), Duma die Märtyrerin (RdA 242) mit 2 Schaden auf sich und Feldherr Remiel (RdA 241) mit 1 Schaden auf sich. Ihr Gegner spielt eine Giftwelle (RdA 280) und fügt jeder Kreatur 2 Schaden zu. Dieser Schaden führt dazu, dass Duma die Märtyrerin und Feldherr Remiel zum Zerstören markiert werden. Dadurch wird der **„Zerstört:“**-Effekt von Duma die Märtyrerin ausgelöst, der Jehu der Bürokrat und Feldherr Remiel heilt. Da Feldherr Remiel bereits zum Zerstören markiert ist, wird er dennoch zusammen mit Duma die Märtyrerin auf den Ablagestapel gelegt. Jehu der Bürokrat überlebt ohne einen Kratzer._
+_**Beispiel**: Maja hat folgende Kreaturen im Spiel: Jehu der Bürokrat (RdA 250), Duma die Märtyrerin (RdA 242) mit 2 Schaden auf sich und Feldherr Remiel (RdA 241) mit 1 Schaden auf sich. Ihr Gegner spielt eine Giftwelle (RdA 280) und fügt jeder Kreatur 2 Schaden zu. Dieser Schaden führt dazu, dass Duma die Märtyrerin und Feldherr Remiel zum Zerstören markiert werden. Dadurch wird der **„Zerstört:“**-Effekt von Duma die Märtyrerin ausgelöst, der Jehu der Bürokrat und Feldherr Remiel heilt. Da Feldherr Remiel bereits zum Zerstören markiert ist, wird er dennoch zusammen mit Duma die Märtyrerin auf den Ablagestapel gelegt. Jehu der Bürokrat überlebt ohne einen Kratzer._
  
- _**Beispiel**: Markus hat einen Groggins (ZdA 011) mit einem Phönixherzen (RdA 051) im Spiel. Seine Gegnerin Jenny hat ein Staubteufelchen (RdA 083) mit einem Seelenwächter (ZdA 083), eine Tranfunzel (RdA 082) und einen Schleifer (RdA 095) im Spiel. Markus greift das Staubteufelchen mit seinem Groggins an, was dazu führt, dass das Staubteufelchen zum Zerstören markiert wird. Die **„Zerstört:“**-Fähigkeit des Staubteufelchens und die **„Zerstört:“**-Fähigkeit, die der Seelenwächter dem Staubteufelchen gewährt, werden gleichzeitig ausgelöst. Markus entscheidet sich dazu, seine Gegnerin zuerst 2 Æmber erhalten zu lassen und dann den Seelenwächter auszulösen, der seine stärkste Kreatur – Groggins – zerstört. Sobald Groggins zum Zerstören markiert wird, wird der Effekt auf dem angelegten Phönixherz ausgelöst. Dadurch wird Groggins auf Markus’ Hand zurückgeschickt und jeder anderen Kreatur werden 3 Schaden zugefügt. Dieser Schaden markiert nun die Tranfunzel und den Schleifer zum Zerstören. Zum Schluss werden alle Kreaturen, die sich noch im Spiel befinden (Staubteufelchen, Tranfunzel und Schleifer), auf den Ablagestapel ihrer jeweiligen Besitzers gelegt. Die Reihenfolge darf Markus festlegen._
+_**Beispiel**: Markus hat einen Groggins (ZdA 011) mit einem Phönixherzen (RdA 051) im Spiel. Seine Gegnerin Jenny hat ein Staubteufelchen (RdA 083) mit einem Seelenwächter (ZdA 083), eine Tranfunzel (RdA 082) und einen Schleifer (RdA 095) im Spiel. Markus greift das Staubteufelchen mit seinem Groggins an, was dazu führt, dass das Staubteufelchen zum Zerstören markiert wird. Die **„Zerstört:“**-Fähigkeit des Staubteufelchens und die **„Zerstört:“**-Fähigkeit, die der Seelenwächter dem Staubteufelchen gewährt, werden gleichzeitig ausgelöst. Markus entscheidet sich dazu, seine Gegnerin zuerst 2 Æmber erhalten zu lassen und dann den Seelenwächter auszulösen, der seine stärkste Kreatur – Groggins – zerstört. Sobald Groggins zum Zerstören markiert wird, wird der Effekt auf dem angelegten Phönixherz ausgelöst. Dadurch wird Groggins auf Markus’ Hand zurückgeschickt und jeder anderen Kreatur werden 3 Schaden zugefügt. Dieser Schaden markiert nun die Tranfunzel und den Schleifer zum Zerstören. Zum Schluss werden alle Kreaturen, die sich noch im Spiel befinden (Staubteufelchen, Tranfunzel und Schleifer), auf den Ablagestapel ihrer jeweiligen Besitzers gelegt. Die Reihenfolge darf Markus festlegen._
  
- #### ZIEHEN-BONUSSYMBOL RR
+#### ZIEHEN-BONUSSYMBOL
  
- Siehe [„Bonussymbole“](#bonussymbole).
+Siehe [„Bonussymbole“](#bonussymbole).
  
- #### ZURÜCKSCHICKEN
+![Ziehen Symbol](img/bonus-draw.jpg)
  
- Wird erbeutetes Æmber zurückgeschickt, legt man es in den Æmber-Vorrat des Gegners.
+#### ZURÜCKSCHICKEN
+ 
+Wird erbeutetes Æmber zurückgeschickt, legt man es in den Æmber-Vorrat des Gegners.
 
 <a name='errata'></a>
 

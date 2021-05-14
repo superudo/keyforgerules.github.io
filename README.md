@@ -6,7 +6,7 @@
 * [Errata](#errata)
 * [FAQ](#faq)
 * [Link zum Regel-PDF](https://asmodee-resources.azureedge.net/media/germanyprod/Produkte/Keyforge/Download/KeyForge_Referenzhandbuch_DE_v1-7.pdf)
-* [Deck rating](/awp.html)
+* [Deckrating](/awp.html)
 
 <a name='intro'></a>
 
@@ -30,7 +30,7 @@ Wesen, das in den Schmelztiegel gebracht wird, gelangt in ein bizarres
 Wunderland, aus dem es keinen offensichtlichen Ausweg gibt. Manche
 blühen auf, errichten neue Zivilisationen und entwickeln Technologien, die auf
 einer mysteriösen, übernatürlichen Substanz namens Æmber beruhen. Einige
-lassen ihr altes Leben hinter sich und passen sich den Gepfl ogenheiten und
+lassen ihr altes Leben hinter sich und passen sich den Gepflogenheiten und
 Bräuchen der heimischen Völker ihrer neuen Welt an. Andere degenerieren
 körperlich und geistig bis zur Unkenntlichkeit und verschmelzen schließlich ihr
 Fleisch mit dem Æmber.
@@ -705,7 +705,7 @@ opfern, wird die Karte geopfert, als würdest du sie kontrollieren.
 #### ANDAUERNDE EFFEKTE
 
 Manche Kartenfähigkeiten erzeugen Effekte oder Zustände, die das Spiel für
-eine bestimmte Zeitdauer beeinfl usst (z. B. „bis zum Beginn deines nächsten
+eine bestimmte Zeitdauer beeinflusst (z. B. „bis zum Beginn deines nächsten
 Zuges“ oder „für den Rest des Zuges“). Diese Effekte werden andauernde
 Effekte genannt.
 
@@ -713,7 +713,7 @@ Andauernde Effekte werden wie konstante Fähigkeiten behandelt, die für die
 Zeitdauer aktiv sind, die der Effekt angibt. Ein andauernder Effekt bleibt auch
 bestehen, falls die Karte, die den Effekt erzeugt hat, das Spiel verlässt.
 
-Falls ein andauernder Effekt Karten im Spiel beeinfl usst, gilt das für alle
+Falls ein andauernder Effekt Karten im Spiel beeinflusst, gilt das für alle
 Karten im Spiel während der bestimmten Zeitdauer, unabhängig davon, ob
 sie im Spiel waren, als der andauernde Effekt begonnen hat.
 
@@ -1477,7 +1477,7 @@ Wenn eine Karte den Text einer anderen Karte kopiert oder erhält, bezieht
 sich jeder selbstbezügliche Text nun auf die Kreatur, die den Text erhalten 
 hat.
 
-_**Beispiel**: Du verwendest Bekenntnis der Pfl ege, deckst Falscher 
+_**Beispiel**: Du verwendest Bekenntnis der Pflege, deckst Falscher 
 Fünfziger von deiner Hand auf und wählst eine Staubfee im Spiel. Die 
 Staubfee erhält effektiv den Text: „**Zerstört**: Schicke Staubfee auf 
 deine Hand zurück.“_

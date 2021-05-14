@@ -140,7 +140,8 @@ erneuten Mischen und/oder Abheben an.
 6. Der Startspieler zieht **7 Karten auf seine Starthand**, während der andere
 Spieler **6 Karten auf seine Starthand** zieht.
 7. Beginnend mit dem Startspieler hat jeder Spieler 1 Mal die Gelegenheit,
-einen **Mulligan** zu nehmen, indem er alle Karten in sein Deck zurückmischt und eine neue Starthand zieht, die aus 1 Karte weniger besteht.
+einen **Mulligan** zu nehmen, indem er alle Karten in sein Deck zurück mischt 
+und eine neue Starthand zieht, die aus 1 Karte weniger besteht.
 (Dieser Schritt wird in den Schnellstartregeln übersprungen.)
 
 Jetzt kann das Spiel beginnen.
@@ -237,8 +238,11 @@ besagt etwas anderes.
 
 Rules for playing, discarding, and using cards are described later.
 
-* **First Turn Rule:** During the first player’s first turn of the game, that player cannot play or discard more than one card from their hand. Card effects can modify this rule.
-* The active player may not play, use, or discard cards that aren't of the active house unless specified by a card ability
+* **First Turn Rule:** During the first player’s first turn of the game, 
+that player cannot play or discard more than one card from their hand. Card 
+effects can modify this rule.
+* The active player may not play, use, or discard cards that aren't of 
+the active house unless specified by a card ability.
 
 ![Factions](img/factions.jpg)
 
@@ -397,7 +401,8 @@ Fähigkeit auszulösen, bewirkt, dass diese Kreatur verwendet wird.
 
 **Jede spielbereite Kreatur der aktiven Fraktion darf ernten.**
 Sobald eine Kreatur zum Ernten verwendet wird, wird sie erschöpft
-und der Spieler, der sie kontrolliert, erhält 1 Æmber in seinen ÆmberVorrat. Dann werden gegebenenfalls alle **„Ernte:“**-Fähigkeiten der
+und der Spieler, der sie kontrolliert, erhält 1 Æmber in seinen Æmber-Vorrat. 
+Dann werden gegebenenfalls alle **„Ernte:“**-Fähigkeiten der
 Kreatur abgehandelt.
 
 <a name="kampf"></a>
@@ -493,6 +498,7 @@ Dieser Schaden wird beiden Kreaturen gleichzeitig zugefügt, obwohl er
 nacheinander im Text der Fähigkeit auftaucht._
 
 #### KARTEN ÜBER ANDERE KARTENFÄHIGKEITEN VERWENDEN
+
 Falls eine Kartenfähigkeit das Spielen oder Verwenden einer anderen Karte
 (oder das Kämpfen oder Ernten mit einer Karte) erlaubt, darf die gewählte
 Karte zu einer beliebigen Fraktion gehören, es sei denn, die Fähigkeit besagt
@@ -541,7 +547,8 @@ zu fördern oder um einen Verstoß gegen die Regeln oder Etikette des
 Schmelztiegels zu bestrafen.
 
 Im Laufe des Spiels können Kartenfähigkeiten bewirken, dass ein Spieler
-Ketten erhält. Sobald ein Spieler Ketten erhält, erhöht er seinen Kettenanzeiger um die Anzahl der erhaltenen Ketten.
+Ketten erhält. Sobald ein Spieler Ketten erhält, erhöht er seinen 
+Kettenanzeiger um die Anzahl der erhaltenen Ketten.
 
 ![Chains](img/chains.jpg)
 
@@ -578,8 +585,8 @@ kommt dieses Handicap nicht zum Einsatz.
 Wenn ihr das Gefühl habt, ein bestimmtes Deck ist stärker als das andere,
 könnt ihr es mit 4 Ketten beginnen lassen. Immer wenn es ab jetzt drei
 Mal hintereinander gegen das andere Deck gewinnt, erhöht ihr die Anzahl
-seiner Ketten um 1. Verliert es drei Mal hintereinander, könnt ihr es mit 1
-Kette weniger starten lassen.
+seiner Ketten um 1. Verliert es drei Mal hintereinander, könnt ihr es mit 
+einer Kette weniger starten lassen.
 
 Je öfter ihr das Deck gegen andere Decks aus eurer Sammlung antreten
 lasst, desto genauer wird sich die Anzahl der Ketten einpendeln und je
@@ -621,6 +628,8 @@ nicht von Anfang bis Ende durchzulesen, sondern gezielt nachzuschlagen,
 wenn beim Spielen etwas unklar ist.
 
 #### „+1-STÄRKE“-KARTE, STÄRKE-STATUSKARTE, STÄRKEMARKER
+
+![Stärke-Marker](img/marker-might.jpg)
 
 Sobald einer Kreatur eine „+1 Stärke“-Karte gegeben wird, legt man
 1 entsprechende Stärke-Statuskarte auf die Kreatur. Für jede dieser Karten
@@ -672,7 +681,8 @@ Zug gewählt hat.
 #### AKTIVER SPIELER
 
 Der aktive Spieler ist der Spieler, der gerade am Zug ist. Er trifft alle
-notwendigen Entscheidungen bezüglich der Kartenfähigkeiten und TimingKonfl ikte, die während seines Zuges abgehandelt werden müssen.
+notwendigen Entscheidungen bezüglich der Kartenfähigkeiten und TimingKonflikte, 
+die während seines Zuges abgehandelt werden müssen.
 
 #### ALPHA
 
@@ -791,6 +801,8 @@ neben jener Kreatur gespielt wird.
 
 #### BESCHÜTZEN, BESCHÜTZT
 
+![Beschützt-Marker](img/marker-protected.jpg)
+
 Sobald eine Kreatur beschützt wird, legt man einen Beschützt-Marker auf sie.
 Sobald eine Kreatur mit einem Beschützt-Marker auf sich beschädigt werden
 würde, zerstört werden würde oder das Spiel verlassen würde, werden
@@ -807,6 +819,8 @@ Kreatur auf andere Weise das Spiel verlässt, z. B. dass sie auf die Hand
 zurückgeschickt wird.
 
 #### BETÄUBEN, BETÄUBT-STATUSKARTE, BETÄUBT-MARKER
+
+![Betäubt-Marker](img/marker-stunned.jpg)
 
 Sobald eine Kreatur betäubt wird, legt man eine Betäubt-Statuskarte auf
 sie. Solange eine Kreatur betäubt ist, kann sie weder kämpfen, ernten noch
@@ -1375,6 +1389,8 @@ hat. Eine solche Kreatur kann trotzdem durch Karteneffekte Rüstung erhalten.
 
 #### SCHADEN
 
+![Schadensmarker](img/marker-damage.jpg)
+
 Schadensmarker, die auf einer Kreatur liegen, zeigen an, wie viel Schaden 
 diese Kreatur bereits erlitten hat. Falls eine Kreatur mindestens so viel 
 Schaden hat, wie sie Stärke hat, wird die Kreatur zerstört. Der Schaden 
@@ -1743,6 +1759,8 @@ ihrer Effekte.
 **Siehe auch**: [Oben genannt](#obengenannt)
 
 #### WÜTEND, WÜTEND MACHEN
+
+![Wütend-Marker](img/marker-enraged.jpg)
 
 Sobald eine Kreatur wütend wird, legt man ein Wütend-Marker auf sie. Sobald 
 eine Kreatur mit einem Wütend-Marker auf sich verwendet wird, muss sie zum 
